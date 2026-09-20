@@ -266,7 +266,7 @@
     "endesc": "The second major Gao Xingjian–Lin Zhaohua collaboration of the early 1980s. Contemporary and later sources record its 1983 Beijing People's Art Theatre production and its unusually short run.",
     "quote": "从《绝对信号》开始，我的戏谢幕后，主创人员都会与观众见面。",
     "q_en": "“From Absolute Signal onward, the creative team would meet the audience after the curtain call.”",
-    "img": null,
+    "img": "assets/memoir/chezhan-1983.jpg",
     "sources": [
       "https://news.cctv.cn/lm/506/12/24078.html",
       "https://par.npac-ntch.org/tw/article/doc/D99EPH3J7Y",
@@ -300,9 +300,22 @@
         "url": "https://en.wikipedia.org/wiki/The_Bus_Stop"
       }
     ],
-    "media": [],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "media": [
+      {
+        "url": "assets/memoir/chezhan-1983.jpg",
+        "caption": "《车站》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionZh": "《车站》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionEn": "Production still from The Bus Stop, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《车站》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "altEn": "Production still from The Bus Stop, reproduced from Lin Zhaohua’s Director’s Memoir."
+      }
+    ],
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
+    "coverAltZh": "《车站》剧照。林兆华《导演小人书》收录的作品资料图。",
+    "coverAltEn": "Production still from The Bus Stop, reproduced from Lin Zhaohua’s Director’s Memoir.",
+    "coverCaptionZh": "《车站》剧照。林兆华《导演小人书》收录的作品资料图。",
+    "coverCaptionEn": "Production still from The Bus Stop, reproduced from Lin Zhaohua’s Director’s Memoir."
   },
   {
     "year": "1984",
@@ -360,10 +373,18 @@
         "altZh": "《红白喜事》舞台群像剧照，舞台设置为带有民居与生活场景的院落空间。",
         "altEn": "A stage ensemble still from Red and White Ceremonies, set in a courtyard-like domestic space.",
         "caption": "《红白喜事》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
+      },
+      {
+        "url": "assets/memoir/hongbaixi-1984.jpg",
+        "caption": "《红白喜事》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionZh": "《红白喜事》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionEn": "Production still from Red and White Ceremonies, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《红白喜事》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "altEn": "Production still from Red and White Ceremonies, reproduced from Lin Zhaohua’s Director’s Memoir."
       }
     ],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
     "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
     "verificationSource": "https://www.chinawriter.com.cn/2013/2013-09-12/174242.html",
     "coverCaptionZh": "《红白喜事》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
@@ -386,7 +407,7 @@
     "endesc": "Gao Xingjian's play. In 1985 Lin Zhaohua was invited by Hamburg's Thalia Theater to direct German actors, marking his first overseas directing engagement. In his memoir he describes the production as a decisive experience of formal freedom.",
     "quote": "“《野人》给我一生的创作带来自由：没有什么不可以在舞台上表现。”",
     "q_en": "“Wild Man gave my creative life a sense of freedom: nothing is impossible to put on stage.”",
-    "img": null,
+    "img": "assets/memoir/yeren-1985.jpg",
     "sources": [
       "https://www.macaudata.mo/showbook?bno=j470021",
       "https://ent.sina.com.cn/v/33920.html",
@@ -419,9 +440,22 @@
         "url": "https://www.youtube.com/watch?v=TtqlXFKxrWs"
       }
     ],
-    "media": [],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "media": [
+      {
+        "url": "assets/memoir/yeren-1985.jpg",
+        "caption": "《野人》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionZh": "《野人》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionEn": "Production still from Wild Man, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《野人》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "altEn": "Production still from Wild Man, reproduced from Lin Zhaohua’s Director’s Memoir."
+      }
+    ],
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
+    "coverAltZh": "《野人》剧照。林兆华《导演小人书》收录的作品资料图。",
+    "coverAltEn": "Production still from Wild Man, reproduced from Lin Zhaohua’s Director’s Memoir.",
+    "coverCaptionZh": "《野人》剧照。林兆华《导演小人书》收录的作品资料图。",
+    "coverCaptionEn": "Production still from Wild Man, reproduced from Lin Zhaohua’s Director’s Memoir."
   },
   {
     "year": "1986",
@@ -438,7 +472,7 @@
     "endesc": "In 1986, Beijing People’s Art Theatre staged Bertolt Brecht’s Schweik in the Second World War at the Capital Theatre, directed by Lin Zhaohua. In his memoir, Lin recalls staging choices including a young girl playing Hitler and a weather balloon standing for the “world.”",
     "quote": "1986年，《二次大战中的帅克》在首都剧场上演。",
     "q_en": "In 1986, Schweik in the Second World War was staged at the Capital Theatre.",
-    "img": "assets/archive/shuaike-1986.jpg",
+    "img": "assets/memoir/shuaike-1986.jpg",
     "sources": [
       "https://rmrb.zhouenlai.info/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%EF%BC%881946-2003%EF%BC%89/1986/08/1986-08-11.htm",
       "https://www.youtube.com/watch?v=O1KIWRQDwYM"
@@ -475,16 +509,24 @@
         "captionEn": "1986 production photograph reproduced in Lin Zhaohua’s memoir",
         "altZh": "1986年《二次大战中的帅克》舞台剧照，舞台上的帅克持枪蹲伏。",
         "altEn": "1986 production still of Schweik crouching with a rifle on stage."
+      },
+      {
+        "url": "assets/memoir/shuaike-1986.jpg",
+        "caption": "布莱希特《二次大战中的帅克》剧照。林兆华《导演小人书》收录的1986年作品资料图。",
+        "captionZh": "布莱希特《二次大战中的帅克》剧照。林兆华《导演小人书》收录的1986年作品资料图。",
+        "captionEn": "Production still from Brecht’s Schweik in the Second World War, reproduced from Lin Zhaohua’s memoir; the image documents the 1986 production.",
+        "altZh": "布莱希特《二次大战中的帅克》剧照。林兆华《导演小人书》收录的1986年作品资料图。",
+        "altEn": "Production still from Brecht’s Schweik in the Second World War, reproduced from Lin Zhaohua’s memoir; the image documents the 1986 production."
       }
     ],
-    "evidenceNote": "年份、剧院、导演及书中剧照已核实；完整节目册、设计与全体演员名单仍待逐项核档。 / Year, theatre, director and memoir photograph verified; full programme, design and complete cast remain to be checked.",
-    "evidenceNote_en": "Year, theatre, director and memoir photograph verified; full programme, design and complete cast remain to be checked.",
+    "evidenceNote": "年份、剧院、导演及书中剧照已核实；完整节目册、设计与全体演员名单仍待逐项核档。 / Year, theatre, director and memoir photograph verified; full programme, design and complete cast remain to be checked. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "Year, theatre, director and memoir photograph verified; full programme, design and complete cast remain to be checked. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
     "verificationStatus": "年份、导演、剧院及剧照已核实 / Year, director, theatre and photograph verified",
     "verificationSource": "https://rmrb.zhouenlai.info/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%EF%BC%881946-2003%EF%BC%89/1986/08/1986-08-11.htm",
-    "coverAltZh": "1986年《二次大战中的帅克》舞台剧照",
-    "coverAltEn": "1986 production still of Schweik in the Second World War",
-    "coverCaptionZh": "1986年《二次大战中的帅克》舞台剧照",
-    "coverCaptionEn": "1986 production still"
+    "coverAltZh": "布莱希特《二次大战中的帅克》剧照。林兆华《导演小人书》收录的1986年作品资料图。",
+    "coverAltEn": "Production still from Brecht’s Schweik in the Second World War, reproduced from Lin Zhaohua’s memoir; the image documents the 1986 production.",
+    "coverCaptionZh": "布莱希特《二次大战中的帅克》剧照。林兆华《导演小人书》收录的1986年作品资料图。",
+    "coverCaptionEn": "Production still from Brecht’s Schweik in the Second World War, reproduced from Lin Zhaohua’s memoir; the image documents the 1986 production."
   },
   {
     "year": "1986",
@@ -648,16 +690,24 @@
         "captionEn": "1990 production image: characters from The Chinese Orphan watch The Orphan of Zhao in the theatre; image provided by Lin Kehuan and published by PAR Performing Arts.",
         "altZh": "1990年林兆华《中国孤儿》演出资料图：话剧人物在戏楼中观看《赵氏孤儿》的演出。",
         "altEn": "1990 Lin Zhaohua production image: characters from The Chinese Orphan watch a performance of The Orphan of Zhao in the old theatre."
+      },
+      {
+        "url": "assets/memoir/zhongguoguer-1990.jpg",
+        "caption": "1990年，《中国孤儿》在天津博物馆公演。图片与图注见林兆华《导演小人书》相关页面。",
+        "captionZh": "1990年，《中国孤儿》在天津博物馆公演。图片与图注见林兆华《导演小人书》相关页面。",
+        "captionEn": "The Chinese Orphan performed at the Tianjin Drama Museum in 1990; image and caption reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "1990年《中国孤儿》在天津博物馆公演剧照。",
+        "altEn": "Production still from The Chinese Orphan at the Tianjin Drama Museum in 1990."
       }
     ],
-    "evidenceNote": "1990年7月、联合演出机构、林兆华导演、伏尔泰《中国孤儿》与《赵氏孤儿》的并置演出及前卫化空间处理，已由北京大学《外国文学》1991年文章、PAR 1993年专题及2003年林兆华采访交叉核验。完整演员表、舞美署名及节目单仍待进一步核档。 / The July 1990 date, joint producing theatres, Lin Zhaohua’s direction, juxtaposition of Voltaire’s The Chinese Orphan with The Orphan of Zhao, and avant-garde spatial treatment are cross-checked against the 1991 Foreign Literatures article, the 1993 PAR feature and Lin’s 2003 interview. A complete cast list, individual design credits and programme still require further archival verification.",
-    "evidenceNote_en": "The July 1990 date, joint producing theatres, Lin Zhaohua’s direction, juxtaposition of Voltaire’s The Chinese Orphan with The Orphan of Zhao, and avant-garde spatial treatment are cross-checked against the 1991 Foreign Literatures article, the 1993 PAR feature and Lin’s 2003 interview. A complete cast list, individual design credits and programme still require further archival verification.",
+    "evidenceNote": "1990年7月、联合演出机构、林兆华导演、伏尔泰《中国孤儿》与《赵氏孤儿》的并置演出及前卫化空间处理，已由北京大学《外国文学》1991年文章、PAR 1993年专题及2003年林兆华采访交叉核验。完整演员表、舞美署名及节目单仍待进一步核档。 / The July 1990 date, joint producing theatres, Lin Zhaohua’s direction, juxtaposition of Voltaire’s The Chinese Orphan with The Orphan of Zhao, and avant-garde spatial treatment are cross-checked against the 1991 Foreign Literatures article, the 1993 PAR feature and Lin’s 2003 interview. A complete cast list, individual design credits and programme still require further archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "The July 1990 date, joint producing theatres, Lin Zhaohua’s direction, juxtaposition of Voltaire’s The Chinese Orphan with The Orphan of Zhao, and avant-garde spatial treatment are cross-checked against the 1991 Foreign Literatures article, the 1993 PAR feature and Lin’s 2003 interview. A complete cast list, individual design credits and programme still require further archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
     "verificationStatus": "首演时间、联合演出机构、导演、文本关系与舞台处理已交叉核验 / Premiere date, joint theatres, director, textual relationship and staging approach cross-verified",
     "verificationSource": "https://ccj.pku.edu.cn/Article/info?aid=297987994",
-    "coverAltZh": "1990年林兆华《中国孤儿》演出资料图：话剧人物在戏楼中观看《赵氏孤儿》的演出。",
-    "coverAltEn": "1990 Lin Zhaohua production image: characters from The Chinese Orphan watch a performance of The Orphan of Zhao in the old theatre.",
-    "coverCaptionZh": "1990年《中国孤儿》演出资料图；林克欢提供，载《PAR表演艺术》。",
-    "coverCaptionEn": "1990 production image; image provided by Lin Kehuan and published by PAR Performing Arts."
+    "coverAltZh": "1990年《中国孤儿》在天津博物馆公演剧照。",
+    "coverAltEn": "Production still from The Chinese Orphan at the Tianjin Drama Museum in 1990.",
+    "coverCaptionZh": "1990年，《中国孤儿》在天津博物馆公演。图片与图注见林兆华《导演小人书》相关页面。",
+    "coverCaptionEn": "The Chinese Orphan performed at the Tianjin Drama Museum in 1990; image and caption reproduced from Lin Zhaohua’s Director’s Memoir."
   },
   {
     "year": "1990",
@@ -730,10 +780,18 @@
         "altZh": "《哈姆雷特1990》单人舞台剧照，演员在黑色背景前张开双臂。",
         "altEn": "A solo stage still from Hamlet 1990, with the performer extending both arms against a black background.",
         "caption": "《哈姆雷特1990》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
+      },
+      {
+        "url": "assets/memoir/hamlet-1990.jpg",
+        "caption": "《哈姆雷特》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionZh": "《哈姆雷特》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionEn": "Production still from Hamlet, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《哈姆雷特》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "altEn": "Production still from Hamlet, reproduced from Lin Zhaohua’s Director’s Memoir."
       }
     ],
-    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
     "verificationStatus": "本轮逐项核验 / Verified in this round",
     "coverAltZh": "哈姆雷特 — 公开资料图像",
     "coverAltEn": "archival image",
@@ -809,7 +867,7 @@
     "endesc": "One of the productions highlighted in Lin's memoir. The staging experimented with puppets sharing the stage with actors, using movement, live voice and physical action as an integrated theatrical language.",
     "quote": "“我试图在每一部戏找到一个创新的点，使它看起来与众不同。”",
     "q_en": "“In every production I try to find one point of innovation that makes it distinct.”",
-    "img": null,
+    "img": "assets/memoir/romulus-1992-a.jpg",
     "sources": [
       "https://zh.wikipedia.org/wiki/%E6%9E%97%E5%85%86%E5%8D%8E",
       "https://www.sohu.com/a/127312530_562031",
@@ -847,11 +905,24 @@
         "url": "https://ent.sina.com.cn/j/2009-10-17/17362734639.shtml"
       }
     ],
-    "media": [],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "media": [
+      {
+        "url": "assets/memoir/romulus-1992-a.jpg",
+        "caption": "《罗慕洛斯大帝》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionZh": "《罗慕洛斯大帝》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionEn": "Production still from Romulus the Great, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《罗慕洛斯大帝》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "altEn": "Production still from Romulus the Great, reproduced from Lin Zhaohua’s Director’s Memoir."
+      }
+    ],
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
     "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://par.npac-ntch.org/cn/article/doc/D99EPH3IXP"
+    "verificationSource": "https://par.npac-ntch.org/cn/article/doc/D99EPH3IXP",
+    "coverAltZh": "《罗慕洛斯大帝》剧照。林兆华《导演小人书》收录的作品资料图。",
+    "coverAltEn": "Production still from Romulus the Great, reproduced from Lin Zhaohua’s Director’s Memoir.",
+    "coverCaptionZh": "《罗慕洛斯大帝》剧照。林兆华《导演小人书》收录的作品资料图。",
+    "coverCaptionEn": "Production still from Romulus the Great, reproduced from Lin Zhaohua’s Director’s Memoir."
   },
   {
     "year": "1993",
@@ -900,10 +971,18 @@
         "captionEn": "archival image",
         "altZh": "鸟人 — 公开资料图像",
         "altEn": "archival image"
+      },
+      {
+        "url": "assets/memoir/niaoren-1993.jpg",
+        "caption": "《鸟人》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionZh": "《鸟人》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionEn": "Production still from The Birdman, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《鸟人》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "altEn": "Production still from The Birdman, reproduced from Lin Zhaohua’s Director’s Memoir."
       }
     ],
-    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
     "verificationStatus": "本轮逐项核验 / Verified in this round",
     "coverAltZh": "鸟人 — 公开资料图像",
     "coverAltEn": "archival image",
@@ -1025,10 +1104,18 @@
         "captionEn": "archival image",
         "altZh": "棋人 — 公开资料图像",
         "altEn": "archival image"
+      },
+      {
+        "url": "assets/memoir/qiren-1990s.jpg",
+        "caption": "《棋人》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionZh": "《棋人》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionEn": "Production still from The Go Player, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《棋人》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "altEn": "Production still from The Go Player, reproduced from Lin Zhaohua’s Director’s Memoir."
       }
     ],
-    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
     "verificationStatus": "本轮逐项核验 / Verified in this round",
     "coverAltZh": "棋人 — 公开资料图像",
     "coverAltEn": "archival image",
@@ -1139,10 +1226,18 @@
         "captionEn": "archival image",
         "altZh": "三姊妹·等待戈多 — 公开资料图像",
         "altEn": "archival image"
+      },
+      {
+        "url": "assets/memoir/sanjie-dengdai-gd-1998.jpg",
+        "caption": "《三姊妹·等待戈多》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionZh": "《三姊妹·等待戈多》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionEn": "Production still from Three Sisters / Waiting for Godot, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《三姊妹·等待戈多》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "altEn": "Production still from Three Sisters / Waiting for Godot, reproduced from Lin Zhaohua’s Director’s Memoir."
       }
     ],
-    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
     "verificationStatus": "本轮逐项核验 / Verified in this round",
     "verificationSource": "https://www.jiemian.com/article/1811820.html",
     "coverAltZh": "三姊妹·等待戈多 — 公开资料图像",
@@ -1276,10 +1371,18 @@
         "altZh": "《故事新编》舞台剧照，演员在大尺度工业化空间与碎石地面上表演。",
         "altEn": "A stage still from New Stories, with performers in a large industrial-style space and stone-covered floor.",
         "caption": "《故事新编》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
+      },
+      {
+        "url": "assets/memoir/gushixinbian-2000.jpg",
+        "caption": "《故事新编》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionZh": "《故事新编》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "captionEn": "Production still from Old Tales Retold, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《故事新编》剧照。林兆华《导演小人书》收录的作品资料图。",
+        "altEn": "Production still from Old Tales Retold, reproduced from Lin Zhaohua’s Director’s Memoir."
       }
     ],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
     "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
     "verificationSource": "https://ent.sina.com.cn/j/2009-04-26/16282491863.shtml",
     "coverAltZh": "故事新编 — 公开资料图像",
@@ -1628,7 +1731,7 @@
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": null,
+    "img": "assets/memoir/zhaoshiguer-2003.jpg",
     "sources": [
       "https://bkso.baidu.com/item/%E8%B5%B5%E6%B0%8F%E5%AD%A4%E5%84%BF/63867302",
       "https://www.xinhuanet.com/ent/20230510/c5de68f4c24b4129830e403357e014bf/c.html"
@@ -1656,11 +1759,24 @@
         "url": "https://www.xinhuanet.com/ent/20230510/c5de68f4c24b4129830e403357e014bf/c.html"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "url": "assets/memoir/zhaoshiguer-2003.jpg",
+        "caption": "《赵氏孤儿》北京人民艺术剧院演出剧照。林兆华《导演小人书》相关资料图。",
+        "captionZh": "《赵氏孤儿》北京人民艺术剧院演出剧照。林兆华《导演小人书》相关资料图。",
+        "captionEn": "Production still from The Orphan of Zhao at Beijing People’s Art Theatre, reproduced from Lin Zhaohua’s Director’s Memoir.",
+        "altZh": "《赵氏孤儿》北京人民艺术剧院演出剧照。",
+        "altEn": "Production still from The Orphan of Zhao at Beijing People’s Art Theatre."
+      }
+    ],
     "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "verificationStatus": "本轮逐项核验 / Verified in this round",
-    "verificationSource": "https://ent.cri.cn/20230510/fbf81fe1-4d28-7c6a-ccde-c1fed2256617.html"
+    "verificationSource": "https://ent.cri.cn/20230510/fbf81fe1-4d28-7c6a-ccde-c1fed2256617.html",
+    "coverAltZh": "《赵氏孤儿》北京人民艺术剧院演出剧照。",
+    "coverAltEn": "Production still from The Orphan of Zhao at Beijing People’s Art Theatre.",
+    "coverCaptionZh": "《赵氏孤儿》北京人民艺术剧院演出剧照。林兆华《导演小人书》相关资料图。",
+    "coverCaptionEn": "Production still from The Orphan of Zhao at Beijing People’s Art Theatre, reproduced from Lin Zhaohua’s Director’s Memoir."
   },
   {
     "year": "2004",
@@ -1677,7 +1793,7 @@
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": null,
+    "img": "assets/memoir/cesuo-2004.jpg",
     "sources": [
       "https://ent.sina.com.cn/h/2004-06-08/1046411362.html",
       "https://ent.sina.com.cn/h/2004-06-01/0528404616.html",
@@ -1711,9 +1827,22 @@
         "url": "https://ent.sina.com.cn/2004-06-24/0605426030.html"
       }
     ],
-    "media": [],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "media": [
+      {
+        "url": "assets/memoir/cesuo-2004.jpg",
+        "caption": "《厕所》剧照。林兆华《导演小人书》收录的作品资料图；文字说明谈到厕所空间与时代变迁。",
+        "captionZh": "《厕所》剧照。林兆华《导演小人书》收录的作品资料图；文字说明谈到厕所空间与时代变迁。",
+        "captionEn": "Production still from The Toilet, reproduced from Lin Zhaohua’s Director’s Memoir; the accompanying text relates the toilet space to social change.",
+        "altZh": "《厕所》剧照。林兆华《导演小人书》收录的作品资料图；文字说明谈到厕所空间与时代变迁。",
+        "altEn": "Production still from The Toilet, reproduced from Lin Zhaohua’s Director’s Memoir; the accompanying text relates the toilet space to social change."
+      }
+    ],
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. The added image is reproduced from a work image included in Lin Zhaohua’s Director’s Memoir; it is used for archival display and does not replace version-level external verification.",
+    "coverAltZh": "《厕所》剧照。林兆华《导演小人书》收录的作品资料图；文字说明谈到厕所空间与时代变迁。",
+    "coverAltEn": "Production still from The Toilet, reproduced from Lin Zhaohua’s Director’s Memoir; the accompanying text relates the toilet space to social change.",
+    "coverCaptionZh": "《厕所》剧照。林兆华《导演小人书》收录的作品资料图；文字说明谈到厕所空间与时代变迁。",
+    "coverCaptionEn": "Production still from The Toilet, reproduced from Lin Zhaohua’s Director’s Memoir; the accompanying text relates the toilet space to social change."
   },
   {
     "year": "2004",
@@ -2026,66 +2155,127 @@
     "venue": "北京首都剧场 / Capital Theatre, Beijing",
     "creator": "徐瑛 / Xu Ying",
     "director": "林兆华 / Lin Zhaohua",
-    "desc": "本次作品清单收录的林兆华导演作品。",
-    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "desc": "2007年林兆华导演、徐瑛编剧的话剧《刺客》，首演于北京首都剧场。作品以《史记·刺客列传》中的豫让复仇故事为核心，以“古装剧”而非传统“历史剧”的方式重新组织历史材料。",
+    "endesc": "A 2007 play directed by Lin Zhaohua and written by Xu Ying, first staged at Beijing Capital Theatre. It reworks the Yu Rang revenge story from Records of the Grand Historian through a contemporary theatrical form rather than a conventional historical drama.",
     "quote": "",
     "q_en": "",
-    "img": "assets/original/cike003.jpg",
+    "img": "assets/pku/cike003.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2007-06-15/14501598803.shtml",
       "https://ent.sina.com.cn/j/2009-10-17/17172734601.shtml"
     ],
     "playwright": "徐瑛 / Xu Ying",
     "premiere": "2007-08-03",
-    "cast": "何冰、濮存昕等 / He Bing, Pu Cunxin and others",
+    "cast": "何冰饰豫让、濮存昕饰赵襄子；早期演出另有多位北京人艺演员 / He Bing as Yu Rang, Pu Cunxin as Zhao Xiangzi; other Beijing People’s Art Theatre actors also participated.",
     "scenography": "两堵黑色城墙；音乐：谭盾 / Two black walls; music by Tan Dun",
-    "synopsis": "取材豫让为智伯复仇的故事，讲述其多次刺杀赵襄子失败，最终以“士为知己者死”留下悲剧性结局。 / Based on Yu Rang’s attempts to avenge Zhibo, culminating in his failed attempts on Zhao Xiangzi and a tragic ending around the ideal of dying for one’s patron.",
-    "synopsis_en": "Centered on Yu Rang, the play follows his repeated attempts to avenge his patron Zhi Bo by assassinating Zhao Xiangzi.",
-    "background": "剧本酝酿三年，林兆华希望借古装题材探索历史剧的当代表达，并吸收戏曲、说唱和现代形体训练。 / Developed over three years, it used a historical costume framework to explore contemporary theatrical language while drawing on opera, storytelling and physical training.",
-    "bg_en": "Developed over roughly three years from historical sources including Records of the Grand Historian, it reworks loyalty, revenge and spectatorship through a non-historical theatrical language.",
-    "revivals": "2007上海巡演；2013国家大剧院复排，并在天津等地演出。",
-    "reviews": "首演报道集中讨论极简黑墙舞台、谭盾音乐以及何冰、濮存昕的表演。",
-    "theatre": "首都剧场 / Capital Theatre",
-    "design": "王音舞美；易立明灯光 / Wang Yin, scenography; Yi Liming, lighting",
-    "music": "谭盾作曲 / Music by Tan Dun",
-    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
+    "synopsis": "公元前453年，智伯被赵襄子击败并杀死后，智伯门客豫让决意为旧主复仇。他先后假扮囚徒行刺、漆身吞炭改变容貌与声音，最终请求赵襄子让他在皮袍上刺三剑，以完成最后的复仇仪式。作品围绕“士为知己者死”的观念展开，同时让赵襄子、豫让及周围人物面对这一价值命题。",
+    "synopsis_en": "After Zhi Bo is defeated and killed by Zhao Xiangzi, his retainer Yu Rang vows revenge. He disguises himself as a prisoner, later alters his appearance and voice through self-mutilation, and finally asks Zhao Xiangzi to let him strike his robe three times. The production places the idea of dying for one’s patron at the center while exposing different responses to that value.",
+    "background": "剧本酝酿约三年，2007年2月开始排练。林兆华强调，故事虽取古，但希望以新的历史观和当代表达处理材料，并要求演员吸收中国戏曲、说唱艺术与现代形体训练。作品在舞台上采用极简而粗粝的黑墙空间，配合谭盾音乐和群体形体动作。",
+    "bg_en": "The script was developed for roughly three years, with rehearsals beginning in February 2007. Lin emphasized a new historical perspective and contemporary theatrical language, while asking actors to draw on Chinese opera, storytelling and modern physical training. The production used a stark black-wall stage, Tan Dun’s music and ensemble physical action.",
+    "revivals": "2007年8月23日至26日赴上海美琪大戏院演出；2013年10月18日至22日在国家大剧院戏剧场复排，豫让由高亚麟饰演、赵襄子仍由濮存昕饰演；2013年11月又在天津大剧院演出。",
+    "reviews": "2007年首演报道集中记录了两面黑色城墙、群体动作、谭盾音乐及何冰与濮存昕的表演。同期《新京报》观剧调查记录了明显分歧：部分观众高度认可，也有观众认为人物与剧本处理存在局限。2013年国家大剧院资料则将作品的核心进一步概括为围绕“义”的追问。",
+    "theatre": "首都剧场 / Capital Theatre; 林兆华戏剧工作室出品 / produced by Lin Zhaohua Theatre Studio",
+    "design": "王音舞美；易立明视觉/灯光设计；舞台以两面粗粝的黑色城墙构成主要空间，并设置暗门、尖木桩等机关 / Scenography by Wang Yin; visual/lighting design by Yi Liming. Two rough black walls formed the principal stage space, with doors and large wooden stakes integrated into the set.",
+    "music": "谭盾；报道指出这是谭盾首次与戏剧作品直接合作，他为作品推荐并提供既有音乐素材 / Tan Dun; contemporary reports described this as his first direct collaboration with a theatre production, using existing music he recommended for the production.",
+    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas performance is currently entered in this archive.",
     "sourceItems": [
       {
-        "label": "新浪：刺客创作资料",
+        "label": "北京晚报：林兆华铸剑三年养《刺客》",
         "url": "https://ent.sina.com.cn/j/2007-06-15/14501598803.shtml"
       },
       {
-        "label": "新浪娱乐：林兆华戏剧工作室历史资料图",
-        "url": "https://ent.sina.com.cn/j/2009-10-17/17172734601.shtml"
+        "label": "北京娱乐信报：谭盾荐音乐、韩美林题字",
+        "url": "https://ent.sina.com.cn/j/2007-06-21/01301606359.shtml"
+      },
+      {
+        "label": "北京晨报：首演舞台与表演资料",
+        "url": "https://ent.sina.com.cn/j/2007-08-09/01001669227.shtml"
+      },
+      {
+        "label": "新京报：首演观众评价调查",
+        "url": "https://ent.sina.com.cn/j/p/2007-08-09/02451669371.shtml"
+      },
+      {
+        "label": "国家大剧院：2013复排资料",
+        "url": "https://www.chncpa.org/zxdtxlm/jyxw_2994/201608/t20160823_125455.shtml"
+      },
+      {
+        "label": "国家大剧院：2013演出活动资料",
+        "url": "https://www.chncpa.org/yspj_260/jdysjt/wqhg_269/201310/t20131020_142118.html"
       }
     ],
     "media": [
       {
-        "url": "assets/original/cike003.jpg",
-        "caption": "刺客 — 旧网站资料图 / image from the historical site",
-        "type": "historical-site",
-        "captionZh": "刺客 — 旧网站资料图",
-        "captionEn": "image from the historical site",
-        "altZh": "刺客 — 旧网站资料图",
-        "altEn": "image from the historical site"
+        "url": "assets/pku/cikeseal.jpg",
+        "caption": "《刺客》演出海报；旧北大戏剧研究所网站备份资料。",
+        "type": "poster",
+        "captionZh": "《刺客》演出海报；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "The Assassin poster; preserved in the old PKU Institute of Theatre website archive.",
+        "altZh": "《刺客》演出海报；旧北大戏剧研究所网站备份资料。",
+        "altEn": "Poster for The Assassin from the preserved PKU Institute of Theatre website archive."
+      },
+      {
+        "url": "assets/pku/cike001.jpg",
+        "caption": "《刺客》排练现场；旧北大戏剧研究所网站备份资料。",
+        "type": "rehearsal",
+        "captionZh": "《刺客》排练现场；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Rehearsal scene from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
+        "altZh": "《刺客》排练现场；多人围坐讨论的《刺客》排练资料图。",
+        "altEn": "Rehearsal image from The Assassin showing performers gathered in discussion."
+      },
+      {
+        "url": "assets/pku/cike002.jpg",
+        "caption": "《刺客》群体形体排练；旧北大戏剧研究所网站备份资料。",
+        "type": "rehearsal",
+        "captionZh": "《刺客》群体形体排练；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Ensemble physical rehearsal for The Assassin; preserved in the old PKU Institute of Theatre website archive.",
+        "altZh": "《刺客》群体形体排练资料图。",
+        "altEn": "Ensemble physical rehearsal image from The Assassin."
+      },
+      {
+        "url": "assets/pku/cike003.jpg",
+        "caption": "《刺客》群体排练资料图；旧北大戏剧研究所网站备份资料。",
+        "type": "rehearsal",
+        "captionZh": "《刺客》群体排练资料图；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Ensemble rehearsal image from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
+        "altZh": "《刺客》群体排练资料图。",
+        "altEn": "Ensemble rehearsal image from The Assassin."
+      },
+      {
+        "url": "assets/pku/cike004.jpg",
+        "caption": "《刺客》排练现场；旧北大戏剧研究所网站备份资料。",
+        "type": "rehearsal",
+        "captionZh": "《刺客》排练现场；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Rehearsal scene from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
+        "altZh": "《刺客》排练现场资料图。",
+        "altEn": "Rehearsal scene from The Assassin."
+      },
+      {
+        "url": "assets/pku/cike005.jpg",
+        "caption": "《刺客》形体排练资料图；旧北大戏剧研究所网站备份资料。",
+        "type": "rehearsal",
+        "captionZh": "《刺客》形体排练资料图；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Physical rehearsal image from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
+        "altZh": "《刺客》形体排练资料图。",
+        "altEn": "Physical rehearsal image from The Assassin."
       },
       {
         "url": "https://i3.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734601F346DT20091017171737.JPG",
         "captionZh": "《刺客》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
         "captionEn": "Production still from The Assassin; archival image published by Sina Entertainment in 2009.",
         "altZh": "《刺客》剧照；新浪娱乐历史专题资料图。",
-        "altEn": "A production still from The Assassin, from Sina Entertainment’s historical Lin Zhaohua archive.",
+        "altEn": "Production still from The Assassin from Sina Entertainment’s historical archive.",
         "caption": "《刺客》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
       }
     ],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://www.youtube.com/watch?v=0i5rMaq8Oss",
-    "coverCaptionZh": "刺客 — 旧网站资料图",
-    "coverCaptionEn": "image from the historical site",
-    "coverAltZh": "刺客 — 旧网站资料图",
-    "coverAltEn": "image from the historical site"
+    "evidenceNote": "作品基本演出信息、主创与创作方法由2007年同期报道及2013年国家大剧院资料交叉核验；本地图片来自旧北大戏剧研究所网站备份，作为历史资料图使用。 / Basic production information, credits and creative approach are cross-checked against 2007 reports and 2013 National Centre for the Performing Arts records; local images are preserved from the old PKU Institute of Theatre website archive.",
+    "evidenceNote_en": "Basic production information, credits and creative approach are cross-checked against 2007 reports and 2013 National Centre for the Performing Arts records; local images are preserved from the old PKU Institute of Theatre website archive.",
+    "verificationStatus": "首演、导演、编剧、主演与主要创作方向已交叉核验 / Premiere, director, playwright, leading cast and main creative approach cross-checked",
+    "verificationSource": "https://ent.sina.com.cn/j/2007-06-15/14501598803.shtml",
+    "coverCaptionZh": "《刺客》群体排练资料图；旧北大戏剧研究所网站备份资料。",
+    "coverCaptionEn": "Ensemble rehearsal image from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
+    "coverAltZh": "《刺客》群体排练资料图。",
+    "coverAltEn": "Ensemble rehearsal image from The Assassin."
   },
   {
     "year": "2007",

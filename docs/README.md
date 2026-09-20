@@ -63,3 +63,15 @@
 - Lin Zhaohua’s staging juxtaposed Voltaire’s The Chinese Orphan with excerpts from The Orphan of Zhao in the old theatre of the Tianjin Drama Museum.
 - Added a verified archival image from PAR Performing Arts Magazine, with bilingual caption and alt text.
 - Sources: Peking University / Foreign Literatures (1991), PAR Performing Arts (1993), and Lin Zhaohua’s 2003 interview.
+
+## v17 更新
+- 继续从《导演小人书》补充历史剧照：包括《棋人》《厕所》《红白喜事》《车站》《故事新编》《二次大战中的帅克》《三姊妹·等待戈多》《中国孤儿》相关资料、《鸟人》《哈姆雷特》《野人》《罗慕洛斯大帝》等。
+- 对《车站》《厕所》《罗慕洛斯大帝》这类原先没有可靠列表封面的作品，使用《导演小人书》对应作品资料图作为列表封面；已有可靠外部封面的作品保留原封面，同时把回忆录图片加入作品图库。
+- 《二次大战中的帅克》继续使用《导演小人书》中明确标注为1986年演出的剧照作为列表封面。
+- 左上角站点 logo 改为高度 50px、宽度 auto，不再设置固定宽度限制，使用 contain 防止裁切。
+
+
+## v18 update
+- 修正《刺客》首图路径：`assets/pku/cike003.jpg`（cike003.jpg 位于 `assets/pku/`，不在 `assets/original/`）。
+- 补入旧北大戏剧研究所网站备份中的《刺客》海报及 cike001–cike005 五张排练/形体资料图。
+- 重新核验《刺客》2007首演、主创、创作方法、上海巡演及2013国家大剧院复排资料；补充中英文作品文字、图注、alt 与来源。
