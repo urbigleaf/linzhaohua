@@ -46,11 +46,19 @@
       {
         "url": "https://ap-northeast-1-ntch-website-par-files.s3-accelerate.amazonaws.com/par/upload/wdc/file/show/h3hfQ311",
         "caption": "丹心谱 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "丹心谱 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "丹心谱 — 公开资料图像",
+        "altEn": "archival image"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "coverAltZh": "丹心谱 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "丹心谱 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "1980",
@@ -229,11 +237,19 @@
       {
         "url": "https://photocdn.sohu.com/20120612/Img345371878.jpg",
         "caption": "绝对信号 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "绝对信号 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "绝对信号 — 公开资料图像",
+        "altEn": "archival image"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "coverAltZh": "绝对信号 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "绝对信号 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "1983",
@@ -303,10 +319,11 @@
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": null,
+    "img": "https://i3.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734633F326DT20091017173417.jpg",
     "sources": [
       "https://bkso.baidu.com/item/%E7%BA%A2%E7%99%BD%E5%96%9C%E4%BA%8B/2053751",
-      "https://www.youtube.com/watch?v=UgVTFjKNoVg"
+      "https://www.youtube.com/watch?v=UgVTFjKNoVg",
+      "https://ent.sina.com.cn/j/2009-10-17/17342734633.shtml"
     ],
     "playwright": "魏敏、孟冰、李冬青、林朗 / Wei Min, Meng Bing, Li Dongqing & Lin Lang",
     "premiere": "1984",
@@ -329,13 +346,30 @@
       {
         "label": "北京人艺相关影像资料",
         "url": "https://www.youtube.com/watch?v=UgVTFjKNoVg"
+      },
+      {
+        "label": "新浪娱乐：林兆华戏剧工作室历史资料图",
+        "url": "https://ent.sina.com.cn/j/2009-10-17/17342734633.shtml"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "url": "https://i3.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734633F326DT20091017173417.jpg",
+        "captionZh": "《红白喜事》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
+        "captionEn": "Production still from Red and White Ceremonies; archival image published by Sina Entertainment in 2009.",
+        "altZh": "《红白喜事》舞台群像剧照，舞台设置为带有民居与生活场景的院落空间。",
+        "altEn": "A stage ensemble still from Red and White Ceremonies, set in a courtyard-like domestic space.",
+        "caption": "《红白喜事》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
+      }
+    ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
     "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
     "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://www.chinawriter.com.cn/2013/2013-09-12/174242.html"
+    "verificationSource": "https://www.chinawriter.com.cn/2013/2013-09-12/174242.html",
+    "coverCaptionZh": "《红白喜事》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
+    "coverCaptionEn": "Production still from Red and White Ceremonies; archival image published by Sina Entertainment in 2009.",
+    "coverAltZh": "《红白喜事》舞台群像剧照，舞台设置为带有民居与生活场景的院落空间。",
+    "coverAltEn": "A stage ensemble still from Red and White Ceremonies, set in a courtyard-like domestic space."
   },
   {
     "year": "1985",
@@ -391,6 +425,69 @@
   },
   {
     "year": "1986",
+    "title": "二次大战中的帅克",
+    "en": "Schweik in the Second World War",
+    "cat": [
+      "drama",
+      "early"
+    ],
+    "venue": "北京人民艺术剧院 / Beijing People’s Art Theatre",
+    "creator": "贝尔托特·布莱希特 / Bertolt Brecht",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "1986年，北京人民艺术剧院在首都剧场上演布莱希特《二次大战中的帅克》，由林兆华导演。林兆华在《导演小人书》中回忆了这次演出的舞台处理，并特别提到以小姑娘扮演希特勒、以气象气球构成“世界”等处理。",
+    "endesc": "In 1986, Beijing People’s Art Theatre staged Bertolt Brecht’s Schweik in the Second World War at the Capital Theatre, directed by Lin Zhaohua. In his memoir, Lin recalls staging choices including a young girl playing Hitler and a weather balloon standing for the “world.”",
+    "quote": "1986年，《二次大战中的帅克》在首都剧场上演。",
+    "q_en": "In 1986, Schweik in the Second World War was staged at the Capital Theatre.",
+    "img": "assets/archive/shuaike-1986.jpg",
+    "sources": [
+      "https://rmrb.zhouenlai.info/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%EF%BC%881946-2003%EF%BC%89/1986/08/1986-08-11.htm",
+      "https://www.youtube.com/watch?v=O1KIWRQDwYM"
+    ],
+    "playwright": "贝尔托特·布莱希特 / Bertolt Brecht",
+    "premiere": "1986",
+    "background": "《导演小人书》图文页记载：1986年《二次大战中的帅克》在首都剧场上演；书中所配剧照展示舞台演出。",
+    "bg_en": "Lin Zhaohua’s memoir records the 1986 Capital Theatre production and reproduces a production photograph.",
+    "theatre": "北京人民艺术剧院 / Beijing People’s Art Theatre",
+    "cast": "梁冠华、崔麟、吴刚、冯远征、王刚、丁志诚等；演员名单依据现有公开资料，尚待节目册逐项核对。 / Liang Guanhua, Cui Lin, Wu Gang, Feng Yuanzheng, Wang Gang, Ding Zhicheng and others; full cast still awaits programme-level verification.",
+    "design": "王存玉、方堃林 / Wang Cunyu & Fang Kunlin",
+    "music": "公开资料尚未完成逐项核档。 / Music credits not yet fully verified.",
+    "synopsis": "以帅克与“大人物”希特勒的关系构成讽喻性戏剧结构；公开资料将其概括为“大人物”与“小人物”的关系。",
+    "synopsis_en": "The play builds a satirical dramatic structure around Schweik and the “big man” Hitler; contemporary descriptions frame it through the relation between big and small figures.",
+    "overseas": "当前档案未收录已核实的海外演出记录。 / No verified overseas-performance record is currently entered.",
+    "revivals": "公开资料可见后来的教学演出版本，但与林兆华1986年人艺版本不可直接合并。 / Later educational productions exist, but are not conflated with Lin Zhaohua’s 1986 Beijing People’s Art Theatre production.",
+    "reviews": "1986年8月《人民日报》预告北京人艺自8月15日起公演该剧；同期视频资料亦列明导演及主要演员。 / The People’s Daily announced the production in August 1986; contemporary video metadata also records the director and principal cast.",
+    "sourceItems": [
+      {
+        "label": "人民日报历史资料：北京人艺公演《二次大战中的帅克》",
+        "url": "https://rmrb.zhouenlai.info/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%EF%BC%881946-2003%EF%BC%89/1986/08/1986-08-11.htm"
+      },
+      {
+        "label": "北京人民艺术剧院资料视频",
+        "url": "https://www.youtube.com/watch?v=O1KIWRQDwYM"
+      }
+    ],
+    "media": [
+      {
+        "url": "assets/archive/shuaike-1986.jpg",
+        "caption": "《导演小人书》收录的1986年《二次大战中的帅克》剧照 / Production photograph reproduced in Lin Zhaohua’s memoir",
+        "type": "photo",
+        "captionZh": "《导演小人书》收录的1986年《二次大战中的帅克》剧照",
+        "captionEn": "1986 production photograph reproduced in Lin Zhaohua’s memoir",
+        "altZh": "1986年《二次大战中的帅克》舞台剧照，舞台上的帅克持枪蹲伏。",
+        "altEn": "1986 production still of Schweik crouching with a rifle on stage."
+      }
+    ],
+    "evidenceNote": "年份、剧院、导演及书中剧照已核实；完整节目册、设计与全体演员名单仍待逐项核档。 / Year, theatre, director and memoir photograph verified; full programme, design and complete cast remain to be checked.",
+    "evidenceNote_en": "Year, theatre, director and memoir photograph verified; full programme, design and complete cast remain to be checked.",
+    "verificationStatus": "年份、导演、剧院及剧照已核实 / Year, director, theatre and photograph verified",
+    "verificationSource": "https://rmrb.zhouenlai.info/%E4%BA%BA%E6%B0%91%E6%97%A5%E5%A0%B1%EF%BC%881946-2003%EF%BC%89/1986/08/1986-08-11.htm",
+    "coverAltZh": "1986年《二次大战中的帅克》舞台剧照",
+    "coverAltEn": "1986 production still of Schweik in the Second World War",
+    "coverCaptionZh": "1986年《二次大战中的帅克》舞台剧照",
+    "coverCaptionEn": "1986 production still"
+  },
+  {
+    "year": "1986",
     "title": "狗儿爷涅槃",
     "en": "The Nirvana of Master Gou’er",
     "cat": [
@@ -440,6 +537,129 @@
     "verificationSource": "https://www.bjnews.com.cn/feature/2012/06/12/204249.html"
   },
   {
+    "year": "1989",
+    "title": "北京人",
+    "en": "Beijinger",
+    "cat": [
+      "drama",
+      "studio",
+      "other-drama"
+    ],
+    "venue": "林兆华戏剧工作室 / Lin Zhaohua Theatre Studio",
+    "creator": "曹禺 / Cao Yu",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "1989年，林兆华为筹建并独立运作戏剧工作室，先排演曹禺《北京人》。公开访谈回顾将其视为工作室早期的重要作品。",
+    "endesc": "In 1989, as Lin Zhaohua began building an independent theatre studio, he staged Cao Yu’s Beijinger. Later interviews identify it as an early work of the studio project.",
+    "quote": "1989年林兆华起念要成立工作室做戏……先排出了《北京人》。",
+    "q_en": "In 1989, Lin Zhaohua began building a theatre studio and first staged Beijinger.",
+    "img": null,
+    "sources": [
+      "https://ent.sina.cn/2018-07-06/detail-ihexfcvk2179657.d.html",
+      "https://ent.sina.com.cn/v/33917.html",
+      "https://ent.sina.com.cn/j/2009-08-24/16192667374.shtml"
+    ],
+    "playwright": "曹禺 / Cao Yu",
+    "premiere": "1989",
+    "background": "林兆华2018年回顾性采访称，他在1989年起念成立工作室，先排《北京人》，1990年又排出真正意义上的第一个工作室戏《哈姆雷特》。",
+    "bg_en": "In a 2018 retrospective interview, Lin said he began building the studio in 1989 and first staged Beijinger, followed in 1990 by what he described as the first full studio production, Hamlet.",
+    "theatre": "林兆华戏剧工作室 / Lin Zhaohua Theatre Studio",
+    "cast": "现有公开资料尚未完成全体演员名单核档。 / Full cast not yet verified.",
+    "design": "公开资料尚未完成逐项核档。 / Design credits not yet fully verified.",
+    "music": "公开资料尚未完成逐项核档。 / Music credits not yet fully verified.",
+    "synopsis": "根据曹禺同名话剧改编演出；本档案暂不在缺少节目册的情况下扩写具体舞台版本。",
+    "synopsis_en": "A stage production of Cao Yu’s play of the same title; this archive does not expand the staging details without a programme-level source.",
+    "overseas": "当前档案未收录已核实的海外演出记录。 / No verified overseas-performance record is currently entered.",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "现有回顾性资料明确记录1989年《北京人》及其与林兆华工作室早期形成的关系；同期节目册与评论仍待进一步搜集。",
+    "sourceItems": [
+      {
+        "label": "新浪：林兆华“最想中国学派得以传承”",
+        "url": "https://ent.sina.cn/2018-07-06/detail-ihexfcvk2179657.d.html"
+      },
+      {
+        "label": "新浪：林兆华戏剧工作室作品资料",
+        "url": "https://ent.sina.com.cn/v/33917.html"
+      }
+    ],
+    "media": [],
+    "evidenceNote": "年份、作品、导演及工作室脉络已核实；暂未找到可安全确认归属的历史海报/剧照。",
+    "evidenceNote_en": "Year, title, director and studio context verified; no securely attributable historical poster/production still has yet been located.",
+    "verificationStatus": "编年与工作室归属已核实 / Chronology and studio attribution verified",
+    "verificationSource": "https://ent.sina.cn/2018-07-06/detail-ihexfcvk2179657.d.html",
+    "coverAltZh": "《北京人》文字封面",
+    "coverAltEn": "Title card for Beijinger",
+    "coverCaptionZh": "暂无已核实剧照；使用文字封面",
+    "coverCaptionEn": "No verified production image; title card used"
+  },
+  {
+    "year": "1990",
+    "title": "中国孤儿",
+    "en": "The Chinese Orphan",
+    "cat": [
+      "drama",
+      "other-drama",
+      "experimental"
+    ],
+    "venue": "天津戏剧博物馆旧戏楼；天津人民艺术剧院、天津市河北梆子剧院联合演出 / Old theatre of the Tianjin Drama Museum; joint production by Tianjin People’s Art Theatre and Tianjin Hebei Bangzi Theatre",
+    "creator": "伏尔泰 / Voltaire（根据纪君祥《赵氏孤儿》创作）",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "1990年7月，在天津举行的中法文化交流国际讨论会期间，天津人民艺术剧院与天津市河北梆子剧院联合演出伏尔泰《中国孤儿》。林兆华将伏尔泰的《中国孤儿》与中国传统戏曲《赵氏孤儿》并置、拼贴，通过前卫化的空间与表演处理，让两部经典作品在同一剧场中彼此观看、交错发生。",
+    "endesc": "In July 1990, during a China–France cultural-exchange conference in Tianjin, Tianjin People’s Art Theatre and Tianjin Hebei Bangzi Theatre jointly presented Voltaire’s The Chinese Orphan. Lin Zhaohua placed Voltaire’s play alongside the traditional Chinese opera The Orphan of Zhao, using an avant-garde spatial and performance structure so that the two classics could watch, interrupt and reshape one another within the same theatre.",
+    "quote": "林兆华导演首次将伏尔泰的“孤儿”引渡回到中国舞台上。",
+    "q_en": "Lin Zhaohua brought Voltaire’s “orphan” back to the Chinese stage for the first time.",
+    "img": "https://ap-northeast-1-ntch-website-par-files.s3-accelerate.amazonaws.com/par/upload/wdc/file/show/h3hbM11",
+    "sources": [
+      "https://ccj.pku.edu.cn/Article/info?aid=297987994",
+      "https://par.npac-ntch.org/cn/article/doc/D99EPH3J5Z",
+      "https://ent.sina.com.cn/v/2003-05-27/0550151589.html"
+    ],
+    "playwright": "伏尔泰 / Voltaire（《中国孤儿》）；原作关联纪君祥《赵氏孤儿》 / Voltaire’s The Chinese Orphan; based on the lineage of Ji Junxiang’s The Orphan of Zhao",
+    "premiere": "1990-07",
+    "background": "1990年7月，中国比较文学学会主办的中法文化交流国际讨论会在天津举行，观摩项目包括天津京剧团《赵氏孤儿》以及天津人民艺术剧院、天津市河北梆子剧院联合演出的《中国孤儿》。林兆华把两部作品的片段并列、对接，将传统戏曲舞台、中央表演区和楼层回廊同时纳入演出空间。PAR《表演艺术》1993年专题文章将其描述为通过“并列对校”等前卫化处理，使两部经典在重组中形成新的舞台关系。",
+    "bg_en": "In July 1990, a China–France cultural-exchange conference organized by the Chinese Comparative Literature Association was held in Tianjin. Its observation programme included a full The Orphan of Zhao by the Tianjin Peking Opera troupe and a joint The Chinese Orphan by Tianjin People’s Art Theatre and Tianjin Hebei Bangzi Theatre. Lin Zhaohua juxtaposed and connected passages from the two works, using the traditional opera stage, central acting area and galleries as one performance environment. A 1993 PAR feature described the approach as an avant-garde reconfiguration through juxtaposition and comparison.",
+    "theatre": "天津戏剧博物馆旧戏楼 / Old theatre of the Tianjin Drama Museum",
+    "cast": "公开资料尚未完成完整演员表核档；可确认天津人民艺术剧院演员参与伏尔泰《中国孤儿》，河北梆子剧院演员演出《赵氏孤儿》片段。 / A complete cast list has not yet been fully verified; sources confirm Tianjin People’s Art Theatre actors in Voltaire’s play and Hebei Bangzi performers in excerpts from The Orphan of Zhao.",
+    "design": "以传统开放式戏楼的歌舞台、中央观众厅及一、二楼回廊构成多层表演空间；具体舞美署名待节目单核档。 / The open traditional theatre stage, central audience area and first- and second-floor galleries formed a multi-level performance space; individual scenography credits require programme-level verification.",
+    "music": "河北梆子锣鼓声进入话剧表演结构；独立音乐署名待核档。 / Hebei Bangzi percussion entered the spoken-theatre structure; independent music credits remain to be verified.",
+    "synopsis": "伏尔泰以《赵氏孤儿》的故事渊源为基础写成《中国孤儿》，林兆华没有把它作为一部封闭的话剧单独搬演，而是让它与河北梆子《赵氏孤儿》的片段在同一古戏楼中交替、错合。话剧人物会暂时退出剧情，成为戏曲演出的观众；戏曲的锣鼓、舞台与人物又反过来侵入话剧的观看结构。",
+    "synopsis_en": "Voltaire’s The Chinese Orphan grew out of the story lineage of The Orphan of Zhao. Lin Zhaohua did not stage it as a self-contained spoken drama. Instead, passages from it alternated and collided with excerpts from Hebei Bangzi’s The Orphan of Zhao in the same old theatre. Spoken-drama characters temporarily stepped outside their roles to watch the opera, while the opera’s percussion, stage and performers entered the logic of the spoken drama.",
+    "overseas": "暂无核实到该1990版本的海外演出；其创作背景本身属于中法文化交流活动。 / No overseas performance of the 1990 production has yet been verified; its creation was itself part of a China–France cultural-exchange event.",
+    "revivals": "暂无核实到1990版本的正式复排记录。2003年林兆华接受采访时回顾过这次天津演出，并再次谈及其将河北梆子加入《中国孤儿》的处理。 / No formal revival of the 1990 production has yet been verified. In a 2003 interview, Lin Zhaohua recalled the Tianjin production and his decision to incorporate Hebei Bangzi.",
+    "reviews": "林克欢发表于《外国文学》1991年第2期的《中国的救孤与法国的救孤——伏尔泰剧作〈中国孤儿〉在华首演记》记录了1990年7月天津演出及其比较文学背景。台湾《PAR表演艺术》1993年第10期专题文章《化经典为前卫〈中国孤儿〉与〈赵氏孤儿〉同台辉映》进一步描述了其空间组织、两剧交错及前卫化处理。",
+    "sourceItems": [
+      {
+        "label": "北京大学《外国文学》：中国的救孤与法国的救孤——伏尔泰剧作《中国孤儿》在华首演记",
+        "url": "https://ccj.pku.edu.cn/Article/info?aid=297987994"
+      },
+      {
+        "label": "PAR《表演艺术》：化经典为前卫《中国孤儿》与《赵氏孤儿》同台辉映",
+        "url": "https://par.npac-ntch.org/cn/article/doc/D99EPH3J5Z"
+      },
+      {
+        "label": "新浪：河北梆子《赵氏孤儿》要为经典着色",
+        "url": "https://ent.sina.com.cn/v/2003-05-27/0550151589.html"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://ap-northeast-1-ntch-website-par-files.s3-accelerate.amazonaws.com/par/upload/wdc/file/show/h3hbM11",
+        "caption": "1990年《中国孤儿》演出资料图：舞台上《中国孤儿》的剧中人物观看戏楼里的《赵氏孤儿》演出；林克欢提供，载《PAR表演艺术》。",
+        "captionZh": "1990年《中国孤儿》演出资料图：舞台上《中国孤儿》的剧中人物观看戏楼里的《赵氏孤儿》演出；林克欢提供，载《PAR表演艺术》。",
+        "captionEn": "1990 production image: characters from The Chinese Orphan watch The Orphan of Zhao in the theatre; image provided by Lin Kehuan and published by PAR Performing Arts.",
+        "altZh": "1990年林兆华《中国孤儿》演出资料图：话剧人物在戏楼中观看《赵氏孤儿》的演出。",
+        "altEn": "1990 Lin Zhaohua production image: characters from The Chinese Orphan watch a performance of The Orphan of Zhao in the old theatre."
+      }
+    ],
+    "evidenceNote": "1990年7月、联合演出机构、林兆华导演、伏尔泰《中国孤儿》与《赵氏孤儿》的并置演出及前卫化空间处理，已由北京大学《外国文学》1991年文章、PAR 1993年专题及2003年林兆华采访交叉核验。完整演员表、舞美署名及节目单仍待进一步核档。 / The July 1990 date, joint producing theatres, Lin Zhaohua’s direction, juxtaposition of Voltaire’s The Chinese Orphan with The Orphan of Zhao, and avant-garde spatial treatment are cross-checked against the 1991 Foreign Literatures article, the 1993 PAR feature and Lin’s 2003 interview. A complete cast list, individual design credits and programme still require further archival verification.",
+    "evidenceNote_en": "The July 1990 date, joint producing theatres, Lin Zhaohua’s direction, juxtaposition of Voltaire’s The Chinese Orphan with The Orphan of Zhao, and avant-garde spatial treatment are cross-checked against the 1991 Foreign Literatures article, the 1993 PAR feature and Lin’s 2003 interview. A complete cast list, individual design credits and programme still require further archival verification.",
+    "verificationStatus": "首演时间、联合演出机构、导演、文本关系与舞台处理已交叉核验 / Premiere date, joint theatres, director, textual relationship and staging approach cross-verified",
+    "verificationSource": "https://ccj.pku.edu.cn/Article/info?aid=297987994",
+    "coverAltZh": "1990年林兆华《中国孤儿》演出资料图：话剧人物在戏楼中观看《赵氏孤儿》的演出。",
+    "coverAltEn": "1990 Lin Zhaohua production image: characters from The Chinese Orphan watch a performance of The Orphan of Zhao in the old theatre.",
+    "coverCaptionZh": "1990年《中国孤儿》演出资料图；林克欢提供，载《PAR表演艺术》。",
+    "coverCaptionEn": "1990 production image; image provided by Lin Kehuan and published by PAR Performing Arts."
+  },
+  {
     "year": "1990",
     "title": "哈姆雷特",
     "en": "Hamlet",
@@ -459,7 +679,8 @@
     "sources": [
       "https://www.sta.edu.cn/97/ec/c1581a104428/page.htm",
       "https://ent.sina.com.cn/j/2009-03-24/09182435355.shtml",
-      "https://finance.sina.cn/sa/2009-05-01/detail-ikkntiam4047669.d.html"
+      "https://finance.sina.cn/sa/2009-05-01/detail-ikkntiam4047669.d.html",
+      "https://ent.sina.com.cn/j/2009-10-17/17152734592.shtml"
     ],
     "playwright": "莎士比亚 / William Shakespeare",
     "premiere": "1990",
@@ -486,18 +707,92 @@
       {
         "label": "https://finance.sina.cn/sa/2009-05-01/detail-ikkntiam4047669.d.html",
         "url": "https://finance.sina.cn/sa/2009-05-01/detail-ikkntiam4047669.d.html"
+      },
+      {
+        "label": "新浪娱乐：林兆华戏剧工作室历史资料图",
+        "url": "https://ent.sina.com.cn/j/2009-10-17/17152734592.shtml"
       }
     ],
     "media": [
       {
         "url": "https://i0.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734585F346DT20091017171429.jpg",
         "caption": "哈姆雷特 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "哈姆雷特 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "哈姆雷特 — 公开资料图像",
+        "altEn": "archival image"
+      },
+      {
+        "url": "https://i1.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734592F346DT20091017171501.jpg",
+        "captionZh": "《哈姆雷特1990》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
+        "captionEn": "Production still from Hamlet 1990; archival image published by Sina Entertainment in 2009.",
+        "altZh": "《哈姆雷特1990》单人舞台剧照，演员在黑色背景前张开双臂。",
+        "altEn": "A solo stage still from Hamlet 1990, with the performer extending both arms against a black background.",
+        "caption": "《哈姆雷特1990》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
       }
     ],
     "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "verificationStatus": "本轮逐项核验 / Verified in this round"
+    "verificationStatus": "本轮逐项核验 / Verified in this round",
+    "coverAltZh": "哈姆雷特 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "哈姆雷特 — 公开资料图像",
+    "coverCaptionEn": "archival image"
+  },
+  {
+    "year": "1990",
+    "title": "田野田野",
+    "en": "Fields, Fields",
+    "cat": [
+      "drama",
+      "early"
+    ],
+    "venue": "北京人民艺术剧院 / Beijing People’s Art Theatre",
+    "creator": "李杰 / Li Jie",
+    "director": "林兆华、任鸣 / Lin Zhaohua & Ren Ming",
+    "desc": "《田野，田野》原名《田野又是青纱帐》，1990年由北京人民艺术剧院搬上首都剧场舞台，林兆华、任鸣联合执导。",
+    "endesc": "Originally titled The Fields Are Green Again, Fields, Fields was staged by Beijing People’s Art Theatre in 1990 at the Capital Theatre, co-directed by Lin Zhaohua and Ren Ming.",
+    "quote": "1990年《田野，田野》。",
+    "q_en": "Fields, Fields, 1990.",
+    "img": null,
+    "sources": [
+      "https://www.daowen.com/lilun/1921303.html",
+      "https://www.cecet.cn/stardata/0001/128862.shtml",
+      "https://ent.sina.com.cn/v/33917.html"
+    ],
+    "playwright": "李杰 / Li Jie",
+    "premiere": "1990",
+    "background": "公开资料记载该剧原名《田野又是青纱帐》，1990年4月在北京首都剧场首演；北京人艺演员资料显示林兆华、任鸣联合导演。",
+    "bg_en": "Public records identify the original title as The Fields Are Green Again and place its premiere at the Capital Theatre in April 1990; cast records credit Lin Zhaohua and Ren Ming as co-directors.",
+    "theatre": "北京人民艺术剧院 / Beijing People’s Art Theatre",
+    "cast": "公开资料可确认杨立新、韩善续等参演；梁冠华资料列其饰韩大嘞嘞。 / Public records identify Yang Lixin and Han Shanqu as performers; Liang Guanhua is listed as Han Dalielei.",
+    "design": "黄清泽、方堃林、吴穹 / Huang Qingze, Fang Kunlin & Wu Qiong",
+    "music": "公开资料尚未完成逐项核档。 / Music credits not yet fully verified.",
+    "synopsis": "现有资料支持其为李杰现实主义题材作品，具体剧情与版本差异仍待节目册和剧本资料核对。",
+    "synopsis_en": "Available records identify it as a realist work by Li Jie; detailed plot and version differences await programme and script verification.",
+    "overseas": "当前档案未收录已核实的海外演出记录。 / No verified overseas-performance record is currently entered.",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "现有公开资料可确认1990年首演及其首都剧场演出信息；当年完整评论仍待原报刊核对。",
+    "sourceItems": [
+      {
+        "label": "吉林省艺术志相关资料",
+        "url": "https://www.daowen.com/lilun/1921303.html"
+      },
+      {
+        "label": "演员资料：徐秀琳",
+        "url": "https://www.cecet.cn/stardata/0001/128862.shtml"
+      }
+    ],
+    "media": [],
+    "evidenceNote": "年份、原名、剧院、导演、编剧及部分主创已核实；暂未找到可安全确认归属的历史海报/剧照。",
+    "evidenceNote_en": "Year, original title, theatre, directors, playwright and some design credits verified; no securely attributable historical poster/production still has yet been located.",
+    "verificationStatus": "编年与主创已核实 / Chronology and principal credits verified",
+    "verificationSource": "https://www.daowen.com/lilun/1921303.html",
+    "coverAltZh": "《田野田野》文字封面",
+    "coverAltEn": "Title card for Fields, Fields",
+    "coverCaptionZh": "暂无已核实剧照；使用文字封面",
+    "coverCaptionEn": "No verified production image; title card used"
   },
   {
     "year": "1992",
@@ -518,7 +813,8 @@
     "sources": [
       "https://zh.wikipedia.org/wiki/%E6%9E%97%E5%85%86%E5%8D%8E",
       "https://www.sohu.com/a/127312530_562031",
-      "https://par.npac-ntch.org/cn/article/doc/D99EPH3IXP"
+      "https://par.npac-ntch.org/cn/article/doc/D99EPH3IXP",
+      "https://ent.sina.com.cn/j/2009-10-17/17362734639.shtml"
     ],
     "playwright": "弗里德里希·迪伦马特 / Friedrich Dürrenmatt",
     "premiere": "1992",
@@ -545,6 +841,10 @@
       {
         "label": "PAR表演艺术杂志：1992年北京演出资料",
         "url": "https://par.npac-ntch.org/cn/article/doc/D99EPH3IXP"
+      },
+      {
+        "label": "新浪娱乐：林兆华戏剧工作室历史资料图",
+        "url": "https://ent.sina.com.cn/j/2009-10-17/17362734639.shtml"
       }
     ],
     "media": [],
@@ -595,12 +895,20 @@
       {
         "url": "https://i0.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734655F346DT20091017174244.jpg",
         "caption": "鸟人 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "鸟人 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "鸟人 — 公开资料图像",
+        "altEn": "archival image"
       }
     ],
     "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "verificationStatus": "本轮逐项核验 / Verified in this round"
+    "verificationStatus": "本轮逐项核验 / Verified in this round",
+    "coverAltZh": "鸟人 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "鸟人 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "1994",
@@ -649,12 +957,20 @@
       {
         "url": "https://zdimg.lifeweek.com.cn/bg/20170720/1500541868340vhypk.jpg",
         "caption": "浮士德 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "浮士德 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "浮士德 — 公开资料图像",
+        "altEn": "archival image"
       }
     ],
     "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "verificationStatus": "本轮逐项核验 / Verified in this round"
+    "verificationStatus": "本轮逐项核验 / Verified in this round",
+    "coverAltZh": "浮士德 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "浮士德 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "1995",
@@ -704,12 +1020,20 @@
       {
         "url": "https://zdimg.lifeweek.com.cn/bg/20170720/1500541907403rnvjl.jpg",
         "caption": "棋人 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "棋人 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "棋人 — 公开资料图像",
+        "altEn": "archival image"
       }
     ],
     "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "verificationStatus": "本轮逐项核验 / Verified in this round"
+    "verificationStatus": "本轮逐项核验 / Verified in this round",
+    "coverAltZh": "棋人 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "棋人 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "1997",
@@ -810,13 +1134,21 @@
       {
         "url": "https://zdimg.lifeweek.com.cn/bg/20170720/1500541919349osklp.jpg",
         "caption": "三姊妹·等待戈多 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "三姊妹·等待戈多 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "三姊妹·等待戈多 — 公开资料图像",
+        "altEn": "archival image"
       }
     ],
     "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "verificationStatus": "本轮逐项核验 / Verified in this round",
-    "verificationSource": "https://www.jiemian.com/article/1811820.html"
+    "verificationSource": "https://www.jiemian.com/article/1811820.html",
+    "coverAltZh": "三姊妹·等待戈多 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "三姊妹·等待戈多 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "1999",
@@ -833,7 +1165,7 @@
     "endesc": "A re-interpretation of Beijing People's Art Theatre's classic repertoire. Public records document Lin's 1999 re-staging, while the 2005 revival restored Jiao Juyin's version with Lin serving as artistic advisor for the revival.",
     "quote": "人艺的经典也需要在时间中重新观看。",
     "q_en": "“A classic also needs to be seen anew as time changes.”",
-    "img": null,
+    "img": "http://i0.sinaimg.cn/ent/f/linzhaohua/U2223P28T19D4719F1343DT20091017190545.jpg",
     "sources": [
       "https://peking.bjd.com.cn/content/s692e72b6e4b034aea273b1b6.html",
       "https://www.mj.org.cn/mjzt/twzt/zhwh_1/dlytwwh/200409/t20040922_25552.htm",
@@ -866,53 +1198,22 @@
         "url": "https://news.sina.cn/sa/2005-07-26/detail-ikknscsi7356055.d.html"
       }
     ],
-    "media": [],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
-  },
-  {
-    "year": "2000",
-    "title": "风月无边",
-    "en": "Boundless Romance",
-    "cat": [
-      "drama",
-      "other-drama"
-    ],
-    "venue": "—",
-    "creator": "刘锦云 / Liu Jinyun",
-    "director": "林兆华、李六乙 / Lin Zhaohua & Li Liuyi",
-    "desc": "本次作品清单收录的林兆华导演作品。",
-    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "quote": "",
-    "q_en": "",
-    "img": null,
-    "sources": [
-      "https://bkso.baidu.com/item/%E9%A3%8E%E6%9C%88%E6%97%A0%E8%BE%B9/63908192"
-    ],
-    "playwright": "刘锦云 / Liu Jinyun",
-    "premiere": "2000-04-12",
-    "theatre": "北京人民艺术剧院·首都剧场 / Capital Theatre",
-    "cast": "濮存昕、梁冠华、何冰、徐帆、龚丽君、严燕生、吴刚、孙星、高冬平、张万昆、李烁、丛麟、梁俊、刘璐等 / Pu Cunxin, Liang Guanhua, He Bing, Xu Fan, Gong Lijun, Yan Yansheng, Wu Gang, Sun Xing, Gao Dongping, Zhang Wankun, Li Shuo, Cong Lin, Liang Jun and Liu Lu.",
-    "design": "艺术指导/设计：易立明 / Artistic direction/design: Yi Liming.",
-    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
-    "synopsis": "围绕清代才子戏曲家李渔及其家庭戏班，描写才华、权力与金钱之间的冲突。 / It centers on Li Yu and his family troupe, exploring the conflicts among artistic talent, power and money.",
-    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "background": "话剧与戏曲结合，借传统戏曲人物和舞台语汇重构历史人物故事。 / It combines spoken drama with Chinese opera techniques to reframe the historical story.",
-    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
-    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
-    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
-    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
-    "sourceItems": [
+    "media": [
       {
-        "label": "https://bkso.baidu.com/item/%E9%A3%8E%E6%9C%88%E6%97%A0%E8%BE%B9/63908192",
-        "url": "https://bkso.baidu.com/item/%E9%A3%8E%E6%9C%88%E6%97%A0%E8%BE%B9/63908192"
+        "url": "http://i0.sinaimg.cn/ent/f/linzhaohua/U2223P28T19D4719F1343DT20091017190545.jpg",
+        "captionZh": "林兆华版《茶馆》资料图；新浪娱乐“林兆华戏剧工作室”经典作品资料页。",
+        "captionEn": "Archival image of Lin Zhaohua’s Teahouse; Sina Entertainment classic-works page.",
+        "altZh": "林兆华版《茶馆》资料图。",
+        "altEn": "Archival image from Lin Zhaohua’s Teahouse.",
+        "caption": "林兆华版《茶馆》资料图；新浪娱乐“林兆华戏剧工作室”经典作品资料页。"
       }
     ],
-    "media": [],
-    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "verificationStatus": "本轮逐项核验 / Verified in this round",
-    "verificationSource": "https://bkso.baidu.com/item/%E9%A3%8E%E6%9C%88%E6%97%A0%E8%BE%B9/63908192"
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "coverCaptionZh": "林兆华版《茶馆》资料图；新浪娱乐“林兆华戏剧工作室”经典作品资料页。",
+    "coverCaptionEn": "Archival image of Lin Zhaohua’s Teahouse; Sina Entertainment classic-works page.",
+    "coverAltZh": "林兆华版《茶馆》资料图。",
+    "coverAltEn": "Archival image from Lin Zhaohua’s Teahouse."
   },
   {
     "year": "2000",
@@ -931,7 +1232,8 @@
     "q_en": "“Form itself is content.”",
     "img": "https://zdimg.lifeweek.com.cn/bg/20170720/1500542133826uazju.jpg",
     "sources": [
-      "https://ent.sina.com.cn/h/21530.html"
+      "https://ent.sina.com.cn/h/21530.html",
+      "https://ent.sina.com.cn/j/2009-10-17/17322734630.shtml"
     ],
     "playwright": "鲁迅 / Lu Xun（original author）",
     "premiere": "2000-11-05",
@@ -951,19 +1253,101 @@
       {
         "label": "北京晚报/新浪：首演资料",
         "url": "https://ent.sina.com.cn/h/21530.html"
+      },
+      {
+        "label": "新浪娱乐：林兆华戏剧工作室历史资料图",
+        "url": "https://ent.sina.com.cn/j/2009-10-17/17322734630.shtml"
       }
     ],
     "media": [
       {
         "url": "https://zdimg.lifeweek.com.cn/bg/20170720/1500542133826uazju.jpg",
         "caption": "故事新编 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "故事新编 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "故事新编 — 公开资料图像",
+        "altEn": "archival image"
+      },
+      {
+        "url": "https://i2.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734630F346DT20091017173237.jpg",
+        "captionZh": "《故事新编》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
+        "captionEn": "Production still from New Stories; archival image published by Sina Entertainment in 2009.",
+        "altZh": "《故事新编》舞台剧照，演员在大尺度工业化空间与碎石地面上表演。",
+        "altEn": "A stage still from New Stories, with performers in a large industrial-style space and stone-covered floor.",
+        "caption": "《故事新编》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
     "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
     "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://ent.sina.com.cn/j/2009-04-26/16282491863.shtml"
+    "verificationSource": "https://ent.sina.com.cn/j/2009-04-26/16282491863.shtml",
+    "coverAltZh": "故事新编 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "故事新编 — 公开资料图像",
+    "coverCaptionEn": "archival image"
+  },
+  {
+    "year": "2000",
+    "title": "风月无边",
+    "en": "Boundless Romance",
+    "cat": [
+      "drama",
+      "other-drama"
+    ],
+    "venue": "—",
+    "creator": "刘锦云 / Liu Jinyun",
+    "director": "林兆华、李六乙 / Lin Zhaohua & Li Liuyi",
+    "desc": "本次作品清单收录的林兆华导演作品。",
+    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "quote": "",
+    "q_en": "",
+    "img": "https://i3.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734606F346DT20091017171912.jpg",
+    "sources": [
+      "https://bkso.baidu.com/item/%E9%A3%8E%E6%9C%88%E6%97%A0%E8%BE%B9/63908192",
+      "https://ent.sina.com.cn/j/2009-10-17/17192734606.shtml"
+    ],
+    "playwright": "刘锦云 / Liu Jinyun",
+    "premiere": "2000-04-12",
+    "theatre": "北京人民艺术剧院·首都剧场 / Capital Theatre",
+    "cast": "濮存昕、梁冠华、何冰、徐帆、龚丽君、严燕生、吴刚、孙星、高冬平、张万昆、李烁、丛麟、梁俊、刘璐等 / Pu Cunxin, Liang Guanhua, He Bing, Xu Fan, Gong Lijun, Yan Yansheng, Wu Gang, Sun Xing, Gao Dongping, Zhang Wankun, Li Shuo, Cong Lin, Liang Jun and Liu Lu.",
+    "design": "艺术指导/设计：易立明 / Artistic direction/design: Yi Liming.",
+    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
+    "synopsis": "围绕清代才子戏曲家李渔及其家庭戏班，描写才华、权力与金钱之间的冲突。 / It centers on Li Yu and his family troupe, exploring the conflicts among artistic talent, power and money.",
+    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "background": "话剧与戏曲结合，借传统戏曲人物和舞台语汇重构历史人物故事。 / It combines spoken drama with Chinese opera techniques to reframe the historical story.",
+    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
+    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
+    "sourceItems": [
+      {
+        "label": "https://bkso.baidu.com/item/%E9%A3%8E%E6%9C%88%E6%97%A0%E8%BE%B9/63908192",
+        "url": "https://bkso.baidu.com/item/%E9%A3%8E%E6%9C%88%E6%97%A0%E8%BE%B9/63908192"
+      },
+      {
+        "label": "新浪娱乐：林兆华戏剧工作室历史资料图",
+        "url": "https://ent.sina.com.cn/j/2009-10-17/17192734606.shtml"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://i3.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734606F346DT20091017171912.jpg",
+        "captionZh": "《风月无边》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
+        "captionEn": "Production still from Fengyue Wu Bian; archival image published by Sina Entertainment in 2009.",
+        "altZh": "《风月无边》舞台剧照，演员站在镜面般的水面舞台空间中。",
+        "altEn": "A stage still from Fengyue Wu Bian, with performers in a reflective water-like stage space.",
+        "caption": "《风月无边》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
+      }
+    ],
+    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "verificationStatus": "本轮逐项核验 / Verified in this round",
+    "verificationSource": "https://bkso.baidu.com/item/%E9%A3%8E%E6%9C%88%E6%97%A0%E8%BE%B9/63908192",
+    "coverCaptionZh": "《风月无边》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
+    "coverCaptionEn": "Production still from Fengyue Wu Bian; archival image published by Sina Entertainment in 2009.",
+    "coverAltZh": "《风月无边》舞台剧照，演员站在镜面般的水面舞台空间中。",
+    "coverAltEn": "A stage still from Fengyue Wu Bian, with performers in a reflective water-like stage space."
   },
   {
     "year": "2001",
@@ -1018,112 +1402,28 @@
       {
         "url": "https://zdimg.lifeweek.com.cn/bg/20170720/1500542151266vfvvp.jpg",
         "caption": "理查三世 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "理查三世 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "理查三世 — 公开资料图像",
+        "altEn": "archival image"
       },
       {
         "url": "assets/original/richard3-3.jpg",
         "caption": "理查三世 — 旧网站资料图 / image from the historical site",
-        "type": "historical-site"
+        "type": "historical-site",
+        "captionZh": "理查三世 — 旧网站资料图",
+        "captionEn": "image from the historical site",
+        "altZh": "理查三世 — 旧网站资料图",
+        "altEn": "image from the historical site"
       }
     ],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
-  },
-  {
-    "year": "2003",
-    "title": "狂人日记",
-    "en": "Diary of a Madman",
-    "cat": [
-      "opera"
-    ],
-    "venue": "—",
-    "creator": "曾力、郭文景 / Zeng Li & Guo Wenjing",
-    "director": "林兆华 / Lin Zhaohua",
-    "desc": "本次作品清单收录的林兆华导演作品。",
-    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "quote": "",
-    "q_en": "",
-    "img": null,
-    "sources": [
-      "https://ent.sina.com.cn/2003-10-20/0953217601.html",
-      "https://cn.govopendata.com/renminribao/2003/10/22/9/"
-    ],
-    "playwright": "曾力、郭文景 / Zeng Li & Guo Wenjing",
-    "premiere": "2003",
-    "theatre": "—",
-    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
-    "design": "2003北京版采用黑、白、灰为主的视觉体系，配合美声男高音形成简约现代的视觉/听觉风格。 / The 2003 Beijing version used black, white and grey with a tenor-centered vocal aesthetic to create a restrained modern visual/audio language.",
-    "music": "作曲：郭文景 / Music: Guo Wenjing",
-    "synopsis": "本次作品清单收录的林兆华导演作品。",
-    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "background": "郭文景1993年创作、1994年在阿姆斯特丹首演；2003年北京国际音乐节由林兆华导演中国首演。 / Composed by Guo Wenjing in 1993 and premiered in Amsterdam in 1994; Lin directed its Chinese premiere at the 2003 Beijing Music Festival.",
-    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
-    "overseas": "1994年阿姆斯特丹首演。 / Premiered in Amsterdam in 1994.",
-    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
-    "reviews": "2003年报道将《狂人日记》与《夜宴》并置为“中式歌剧双拼”，肯定其视觉反差和跨媒介处理。 / 2003 reporting presented it with Night Banquet as a Chinese opera double bill and highlighted the visual contrast and cross-media staging.",
-    "sourceItems": [
-      {
-        "label": "https://ent.sina.com.cn/2003-10-20/0953217601.html",
-        "url": "https://ent.sina.com.cn/2003-10-20/0953217601.html"
-      },
-      {
-        "label": "https://cn.govopendata.com/renminribao/2003/10/22/9/",
-        "url": "https://cn.govopendata.com/renminribao/2003/10/22/9/"
-      }
-    ],
-    "media": [],
-    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "verificationStatus": "本轮逐项核验 / Verified in this round",
-    "verificationSource": "https://www.cnr.cn/2007zt/yyj/wjhg/200709/t20070919_504574380.html"
-  },
-  {
-    "year": "2003",
-    "title": "杨门女将",
-    "en": "The Yang Family Generals",
-    "cat": [
-      "jingju"
-    ],
-    "venue": "—",
-    "creator": "范钧宏、吕瑞明 / Fan Junhong & Lü Ruiming（改编）",
-    "director": "林兆华 / Lin Zhaohua",
-    "desc": "本次作品清单收录的林兆华导演作品。",
-    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "quote": "",
-    "q_en": "",
-    "img": null,
-    "sources": [
-      "https://zh.wikipedia.org/wiki/%E6%9E%97%E5%85%86%E5%8D%8E",
-      "https://bo.nacta.edu.cn/px/xm/ymnj/index.htm"
-    ],
-    "playwright": "范钧宏、吕瑞明 / Fan Junhong & Lü Ruiming（改编）",
-    "premiere": "2003",
-    "theatre": "—",
-    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
-    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
-    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
-    "synopsis": "本次作品清单收录的林兆华导演作品。",
-    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "background": "目前公开档案可确认作品的基本编年与创作归属；更详细的排演背景、委约关系及版本差异需继续核档。",
-    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
-    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
-    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
-    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
-    "sourceItems": [
-      {
-        "label": "林兆华作品总表（用于编年索引）",
-        "url": "https://zh.wikipedia.org/wiki/%E6%9E%97%E5%85%86%E5%8D%8E"
-      },
-      {
-        "label": "中国戏曲学院戏曲教育数字博物馆：剧目资料",
-        "url": "https://bo.nacta.edu.cn/px/xm/ymnj/index.htm"
-      }
-    ],
-    "media": [],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
     "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://bo.nacta.edu.cn/px/xm/ymnj/index.htm"
+    "coverAltZh": "理查三世 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "理查三世 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "2003",
@@ -1216,6 +1516,102 @@
     "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "verificationStatus": "本轮逐项核验 / Verified in this round",
     "verificationSource": "https://www.cnpoc.cn/cnpoc/mbz/200806/f4cbc8a6106b4b0a994368992929bc7d.shtml"
+  },
+  {
+    "year": "2003",
+    "title": "杨门女将",
+    "en": "The Yang Family Generals",
+    "cat": [
+      "jingju"
+    ],
+    "venue": "—",
+    "creator": "范钧宏、吕瑞明 / Fan Junhong & Lü Ruiming（改编）",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "本次作品清单收录的林兆华导演作品。",
+    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "quote": "",
+    "q_en": "",
+    "img": null,
+    "sources": [
+      "https://zh.wikipedia.org/wiki/%E6%9E%97%E5%85%86%E5%8D%8E",
+      "https://bo.nacta.edu.cn/px/xm/ymnj/index.htm"
+    ],
+    "playwright": "范钧宏、吕瑞明 / Fan Junhong & Lü Ruiming（改编）",
+    "premiere": "2003",
+    "theatre": "—",
+    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
+    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
+    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
+    "synopsis": "本次作品清单收录的林兆华导演作品。",
+    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "background": "目前公开档案可确认作品的基本编年与创作归属；更详细的排演背景、委约关系及版本差异需继续核档。",
+    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
+    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
+    "sourceItems": [
+      {
+        "label": "林兆华作品总表（用于编年索引）",
+        "url": "https://zh.wikipedia.org/wiki/%E6%9E%97%E5%85%86%E5%8D%8E"
+      },
+      {
+        "label": "中国戏曲学院戏曲教育数字博物馆：剧目资料",
+        "url": "https://bo.nacta.edu.cn/px/xm/ymnj/index.htm"
+      }
+    ],
+    "media": [],
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
+    "verificationSource": "https://bo.nacta.edu.cn/px/xm/ymnj/index.htm"
+  },
+  {
+    "year": "2003",
+    "title": "狂人日记",
+    "en": "Diary of a Madman",
+    "cat": [
+      "opera"
+    ],
+    "venue": "—",
+    "creator": "曾力、郭文景 / Zeng Li & Guo Wenjing",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "本次作品清单收录的林兆华导演作品。",
+    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "quote": "",
+    "q_en": "",
+    "img": null,
+    "sources": [
+      "https://ent.sina.com.cn/2003-10-20/0953217601.html",
+      "https://cn.govopendata.com/renminribao/2003/10/22/9/"
+    ],
+    "playwright": "曾力、郭文景 / Zeng Li & Guo Wenjing",
+    "premiere": "2003",
+    "theatre": "—",
+    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
+    "design": "2003北京版采用黑、白、灰为主的视觉体系，配合美声男高音形成简约现代的视觉/听觉风格。 / The 2003 Beijing version used black, white and grey with a tenor-centered vocal aesthetic to create a restrained modern visual/audio language.",
+    "music": "作曲：郭文景 / Music: Guo Wenjing",
+    "synopsis": "本次作品清单收录的林兆华导演作品。",
+    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "background": "郭文景1993年创作、1994年在阿姆斯特丹首演；2003年北京国际音乐节由林兆华导演中国首演。 / Composed by Guo Wenjing in 1993 and premiered in Amsterdam in 1994; Lin directed its Chinese premiere at the 2003 Beijing Music Festival.",
+    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
+    "overseas": "1994年阿姆斯特丹首演。 / Premiered in Amsterdam in 1994.",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "2003年报道将《狂人日记》与《夜宴》并置为“中式歌剧双拼”，肯定其视觉反差和跨媒介处理。 / 2003 reporting presented it with Night Banquet as a Chinese opera double bill and highlighted the visual contrast and cross-media staging.",
+    "sourceItems": [
+      {
+        "label": "https://ent.sina.com.cn/2003-10-20/0953217601.html",
+        "url": "https://ent.sina.com.cn/2003-10-20/0953217601.html"
+      },
+      {
+        "label": "https://cn.govopendata.com/renminribao/2003/10/22/9/",
+        "url": "https://cn.govopendata.com/renminribao/2003/10/22/9/"
+      }
+    ],
+    "media": [],
+    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "verificationStatus": "本轮逐项核验 / Verified in this round",
+    "verificationSource": "https://www.cnr.cn/2007zt/yyj/wjhg/200709/t20070919_504574380.html"
   },
   {
     "year": "2003",
@@ -1334,7 +1730,7 @@
     "endesc": "A mature Chekhov project from the Studio, continuing the re-structuring of canonical drama seen in Three Sisters / Waiting for Godot.",
     "quote": "“我始终在追求戏剧风格的突破和创新。”",
     "q_en": "“I have always pursued breakthroughs and innovation in theatrical style.”",
-    "img": null,
+    "img": "http://i2.sinaimg.cn/ent/f/linzhaohua/U2223P28T19D4719F1344DT20091017190757.jpg",
     "sources": [
       "https://zh.wikipedia.org/wiki/%E6%9E%97%E5%85%86%E5%8D%8E",
       "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
@@ -1362,52 +1758,22 @@
         "url": "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
       }
     ],
-    "media": [],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
-  },
-  {
-    "year": "2005",
-    "title": "梦的戏剧",
-    "en": "A Dream Play",
-    "cat": [
-      "cross",
-      "drama",
-      "experimental"
-    ],
-    "venue": "北京人民艺术剧院 / Beijing People's Art Theatre",
-    "creator": "斯特林堡 / August Strindberg",
-    "director": "林兆华 / Lin Zhaohua",
-    "desc": "2005年斯特林堡在中国系列活动的重要开篇作品之一，北京大学相关资料记录其在九个剧场上演。",
-    "endesc": "A major production in the 2005 Strindberg in China series. Peking University records the production as opening that year's large-scale Strindberg programme.",
-    "quote": "艺术的变革很大程度在于艺术形式上的表达。",
-    "q_en": "“Artistic change lies to a great extent in how form is expressed.”",
-    "img": null,
-    "sources": [
-      "https://news.pku.edu.cn/xwzh/129-102188.htm"
-    ],
-    "playwright": "斯特林堡 / August Strindberg",
-    "premiere": "2005-01-28",
-    "theatre": "北京九个剧场 / Nine theatres in Beijing",
-    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
-    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
-    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
-    "synopsis": "斯特林堡以梦的逻辑组织人物、时间和空间的戏剧实验，林兆华将其作为2005“斯特林堡在中国”系列开幕演出。 / Strindberg’s dream logic organizes characters, time and space; Lin’s production opened the 2005 “Strindberg in China” series.",
-    "synopsis_en": "A major production in the 2005 Strindberg in China series. Peking University records the production as opening that year's large-scale Strindberg programme.",
-    "background": "2005年1月28日至31日演出，之后北京大学举行斯特林堡国际研讨会。 / It ran January 28–31, 2005, followed by an international Strindberg symposium at Peking University.",
-    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
-    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
-    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
-    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
-    "sourceItems": [
+    "media": [
       {
-        "label": "北京大学新闻网：斯特林堡国际研讨会",
-        "url": "https://news.pku.edu.cn/xwzh/129-102188.htm"
+        "url": "http://i2.sinaimg.cn/ent/f/linzhaohua/U2223P28T19D4719F1344DT20091017190757.jpg",
+        "captionZh": "《樱桃园》资料图；新浪娱乐“林兆华戏剧工作室”经典作品资料页。",
+        "captionEn": "Archival image from Lin Zhaohua Theatre Studio’s Sina Entertainment classic-works page.",
+        "altZh": "《樱桃园》林兆华版资料图。",
+        "altEn": "Archival image from Lin Zhaohua’s production of The Cherry Orchard.",
+        "caption": "《樱桃园》资料图；新浪娱乐“林兆华戏剧工作室”经典作品资料页。"
       }
     ],
-    "media": [],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "coverCaptionZh": "《樱桃园》资料图；新浪娱乐“林兆华戏剧工作室”经典作品资料页。",
+    "coverCaptionEn": "Archival image from Lin Zhaohua Theatre Studio’s Sina Entertainment classic-works page.",
+    "coverAltZh": "《樱桃园》林兆华版资料图。",
+    "coverAltEn": "Archival image from Lin Zhaohua’s production of The Cherry Orchard."
   },
   {
     "year": "2005",
@@ -1458,65 +1824,47 @@
     "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
   },
   {
-    "year": "2006",
-    "title": "白鹿原",
-    "en": "White Deer Plain",
+    "year": "2005",
+    "title": "梦的戏剧",
+    "en": "A Dream Play",
     "cat": [
+      "cross",
       "drama",
-      "renyi"
+      "experimental"
     ],
-    "venue": "北京人民艺术剧院首都剧场 / Capital Theatre, Beijing People’s Art Theatre",
-    "creator": "孟冰 / Meng Bing（改编自陈忠实原著）",
+    "venue": "北京人民艺术剧院 / Beijing People's Art Theatre",
+    "creator": "斯特林堡 / August Strindberg",
     "director": "林兆华 / Lin Zhaohua",
-    "desc": "将跨越半个世纪的长篇小说压缩为舞台作品，吸收陕西老腔、方言、农民演员与羊群等非传统话剧资源，形成高度地方化的舞台声音。",
-    "endesc": "A stage adaptation of Chen Zhongshi's epic novel, using Shaanxi folk vocal traditions, dialect, local performers and even sheep to create a strongly localized theatrical language.",
-    "quote": "这是我创作经历上前所未有的，也是最困难的一个戏。",
-    "q_en": "“This was unprecedented in my creative life, and one of my most difficult productions.”",
-    "img": "https://image2.sina.com.cn/ent/j/2006-06-20/U1345P28T3D1130258F329DT20060620200211.jpg",
+    "desc": "2005年斯特林堡在中国系列活动的重要开篇作品之一，北京大学相关资料记录其在九个剧场上演。",
+    "endesc": "A major production in the 2005 Strindberg in China series. Peking University records the production as opening that year's large-scale Strindberg programme.",
+    "quote": "艺术的变革很大程度在于艺术形式上的表达。",
+    "q_en": "“Artistic change lies to a great extent in how form is expressed.”",
+    "img": null,
     "sources": [
-      "https://ent.sina.com.cn/j/2006-06-08/10041114847.html",
-      "https://www.sina.com.cn/c/2006-06-22/205310227459.shtml"
+      "https://news.pku.edu.cn/xwzh/129-102188.htm"
     ],
-    "playwright": "孟冰 / Meng Bing（adapted from Chen Zhongshi）",
-    "premiere": "2006-05-31",
-    "cast": "濮存昕、宋丹丹、郭达等，陕西当地农民演员和北京郊区保安演员参与 / Pu Cunxin, Song Dandan, Guo Da, local Shaanxi farmers and Beijing suburban security workers",
-    "scenography": "使用陕西老腔、地方演员与真实羊群等舞台元素 / Shaanxi folk music, local performers and live sheep",
-    "synopsis": "以白鹿原上白、鹿两大家族半个世纪的恩怨为核心，在有限舞台时间中压缩小说的历史跨度。 / It compresses half a century of conflict between the Bai and Lu families into a stage work.",
-    "synopsis_en": "Family, land, ethics and historical change on the Bailuyuan plain are compressed into a stage language rich in local texture.",
-    "background": "林兆华耗时三年改编，试图保留陈忠实原著精神气质，并把皮影、老腔、秦腔、地方演员及活羊等真实元素带入舞台。 / Lin spent three years adapting it, incorporating shadow theatre, lao qiang, Qin opera, local performers and even live sheep.",
-    "bg_en": "Shaanxi dialect and folk singing were combined with local performers and live sheep, creating a stage texture distinct from conventional realism.",
-    "reviews": "相关报道特别讨论其陕西方言、老腔和现场动物所引发的讨论。",
-    "theatre": "北京人民艺术剧院·首都剧场 / Capital Theatre, Beijing People’s Art Theatre",
-    "design": "使用陕西老腔、地方演员与真实羊群等舞台元素 / Shaanxi folk music, local performers and live sheep",
-    "music": "陕西老腔、秦腔等民间声音进入舞台 / Shaanxi lao qiang, Qin opera and other folk vocal traditions",
+    "playwright": "斯特林堡 / August Strindberg",
+    "premiere": "2005-01-28",
+    "theatre": "北京九个剧场 / Nine theatres in Beijing",
+    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
+    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
+    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
+    "synopsis": "斯特林堡以梦的逻辑组织人物、时间和空间的戏剧实验，林兆华将其作为2005“斯特林堡在中国”系列开幕演出。 / Strindberg’s dream logic organizes characters, time and space; Lin’s production opened the 2005 “Strindberg in China” series.",
+    "synopsis_en": "A major production in the 2005 Strindberg in China series. Peking University records the production as opening that year's large-scale Strindberg programme.",
+    "background": "2005年1月28日至31日演出，之后北京大学举行斯特林堡国际研讨会。 / It ran January 28–31, 2005, followed by an international Strindberg symposium at Peking University.",
+    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
     "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
     "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
     "sourceItems": [
       {
-        "label": "南方周末：林兆华专访",
-        "url": "https://ent.sina.com.cn/j/2006-06-08/10041114847.html"
-      },
-      {
-        "label": "央视东方时空：演出资料",
-        "url": "https://www.sina.com.cn/c/2006-06-22/205310227459.shtml"
+        "label": "北京大学新闻网：斯特林堡国际研讨会",
+        "url": "https://news.pku.edu.cn/xwzh/129-102188.htm"
       }
     ],
-    "media": [
-      {
-        "url": "https://image2.sina.com.cn/ent/j/2006-06-20/U1345P28T3D1130258F329DT20060620200211.jpg",
-        "caption": "白鹿原 — 公开资料图像 / archival image",
-        "type": "photo/poster"
-      },
-      {
-        "url": "assets/original/bailuyuan2.jpg",
-        "caption": "白鹿原 — 旧网站资料图 / image from the historical site",
-        "type": "historical-site"
-      }
-    ],
+    "media": [],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://culture.people.com.cn/n/2014/0102/c87423-24007650-2.html"
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
   },
   {
     "year": "2006",
@@ -1571,16 +1919,101 @@
       {
         "url": "assets/original/xi8.jpg",
         "caption": "建筑大师 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "建筑大师 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "建筑大师 — 公开资料图像",
+        "altEn": "archival image"
       },
       {
         "url": "assets/original/xi8.jpg",
         "caption": "建筑大师 — 旧网站资料图 / image from the historical site",
-        "type": "historical-site"
+        "type": "historical-site",
+        "captionZh": "建筑大师 — 旧网站资料图",
+        "captionEn": "image from the historical site",
+        "altZh": "建筑大师 — 旧网站资料图",
+        "altEn": "image from the historical site"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "coverAltZh": "建筑大师 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "建筑大师 — 公开资料图像",
+    "coverCaptionEn": "archival image"
+  },
+  {
+    "year": "2006",
+    "title": "白鹿原",
+    "en": "White Deer Plain",
+    "cat": [
+      "drama",
+      "renyi"
+    ],
+    "venue": "北京人民艺术剧院首都剧场 / Capital Theatre, Beijing People’s Art Theatre",
+    "creator": "孟冰 / Meng Bing（改编自陈忠实原著）",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "将跨越半个世纪的长篇小说压缩为舞台作品，吸收陕西老腔、方言、农民演员与羊群等非传统话剧资源，形成高度地方化的舞台声音。",
+    "endesc": "A stage adaptation of Chen Zhongshi's epic novel, using Shaanxi folk vocal traditions, dialect, local performers and even sheep to create a strongly localized theatrical language.",
+    "quote": "这是我创作经历上前所未有的，也是最困难的一个戏。",
+    "q_en": "“This was unprecedented in my creative life, and one of my most difficult productions.”",
+    "img": "https://image2.sina.com.cn/ent/j/2006-06-20/U1345P28T3D1130258F329DT20060620200211.jpg",
+    "sources": [
+      "https://ent.sina.com.cn/j/2006-06-08/10041114847.html",
+      "https://www.sina.com.cn/c/2006-06-22/205310227459.shtml"
+    ],
+    "playwright": "孟冰 / Meng Bing（adapted from Chen Zhongshi）",
+    "premiere": "2006-05-31",
+    "cast": "濮存昕、宋丹丹、郭达等，陕西当地农民演员和北京郊区保安演员参与 / Pu Cunxin, Song Dandan, Guo Da, local Shaanxi farmers and Beijing suburban security workers",
+    "scenography": "使用陕西老腔、地方演员与真实羊群等舞台元素 / Shaanxi folk music, local performers and live sheep",
+    "synopsis": "以白鹿原上白、鹿两大家族半个世纪的恩怨为核心，在有限舞台时间中压缩小说的历史跨度。 / It compresses half a century of conflict between the Bai and Lu families into a stage work.",
+    "synopsis_en": "Family, land, ethics and historical change on the Bailuyuan plain are compressed into a stage language rich in local texture.",
+    "background": "林兆华耗时三年改编，试图保留陈忠实原著精神气质，并把皮影、老腔、秦腔、地方演员及活羊等真实元素带入舞台。 / Lin spent three years adapting it, incorporating shadow theatre, lao qiang, Qin opera, local performers and even live sheep.",
+    "bg_en": "Shaanxi dialect and folk singing were combined with local performers and live sheep, creating a stage texture distinct from conventional realism.",
+    "reviews": "相关报道特别讨论其陕西方言、老腔和现场动物所引发的讨论。",
+    "theatre": "北京人民艺术剧院·首都剧场 / Capital Theatre, Beijing People’s Art Theatre",
+    "design": "使用陕西老腔、地方演员与真实羊群等舞台元素 / Shaanxi folk music, local performers and live sheep",
+    "music": "陕西老腔、秦腔等民间声音进入舞台 / Shaanxi lao qiang, Qin opera and other folk vocal traditions",
+    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "sourceItems": [
+      {
+        "label": "南方周末：林兆华专访",
+        "url": "https://ent.sina.com.cn/j/2006-06-08/10041114847.html"
+      },
+      {
+        "label": "央视东方时空：演出资料",
+        "url": "https://www.sina.com.cn/c/2006-06-22/205310227459.shtml"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://image2.sina.com.cn/ent/j/2006-06-20/U1345P28T3D1130258F329DT20060620200211.jpg",
+        "caption": "白鹿原 — 公开资料图像 / archival image",
+        "type": "photo/poster",
+        "captionZh": "白鹿原 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "白鹿原 — 公开资料图像",
+        "altEn": "archival image"
+      },
+      {
+        "url": "assets/original/bailuyuan2.jpg",
+        "caption": "白鹿原 — 旧网站资料图 / image from the historical site",
+        "type": "historical-site",
+        "captionZh": "白鹿原 — 旧网站资料图",
+        "captionEn": "image from the historical site",
+        "altZh": "白鹿原 — 旧网站资料图",
+        "altEn": "image from the historical site"
+      }
+    ],
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
+    "verificationSource": "https://culture.people.com.cn/n/2014/0102/c87423-24007650-2.html",
+    "coverAltZh": "白鹿原 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "白鹿原 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "2007",
@@ -1597,9 +2030,10 @@
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": null,
+    "img": "assets/original/cike003.jpg",
     "sources": [
-      "https://ent.sina.com.cn/j/2007-06-15/14501598803.shtml"
+      "https://ent.sina.com.cn/j/2007-06-15/14501598803.shtml",
+      "https://ent.sina.com.cn/j/2009-10-17/17172734601.shtml"
     ],
     "playwright": "徐瑛 / Xu Ying",
     "premiere": "2007-08-03",
@@ -1619,19 +2053,39 @@
       {
         "label": "新浪：刺客创作资料",
         "url": "https://ent.sina.com.cn/j/2007-06-15/14501598803.shtml"
+      },
+      {
+        "label": "新浪娱乐：林兆华戏剧工作室历史资料图",
+        "url": "https://ent.sina.com.cn/j/2009-10-17/17172734601.shtml"
       }
     ],
     "media": [
       {
         "url": "assets/original/cike003.jpg",
         "caption": "刺客 — 旧网站资料图 / image from the historical site",
-        "type": "historical-site"
+        "type": "historical-site",
+        "captionZh": "刺客 — 旧网站资料图",
+        "captionEn": "image from the historical site",
+        "altZh": "刺客 — 旧网站资料图",
+        "altEn": "image from the historical site"
+      },
+      {
+        "url": "https://i3.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734601F346DT20091017171737.JPG",
+        "captionZh": "《刺客》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
+        "captionEn": "Production still from The Assassin; archival image published by Sina Entertainment in 2009.",
+        "altZh": "《刺客》剧照；新浪娱乐历史专题资料图。",
+        "altEn": "A production still from The Assassin, from Sina Entertainment’s historical Lin Zhaohua archive.",
+        "caption": "《刺客》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
     "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
     "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://www.youtube.com/watch?v=0i5rMaq8Oss"
+    "verificationSource": "https://www.youtube.com/watch?v=0i5rMaq8Oss",
+    "coverCaptionZh": "刺客 — 旧网站资料图",
+    "coverCaptionEn": "image from the historical site",
+    "coverAltZh": "刺客 — 旧网站资料图",
+    "coverAltEn": "image from the historical site"
   },
   {
     "year": "2007",
@@ -1681,11 +2135,19 @@
       {
         "url": "https://i0.sinaimg.cn/cj/roll/20071207/3e633e129ffef90abcbcd2e847491eef.jpg",
         "caption": "大将军寇流兰 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "大将军寇流兰 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "大将军寇流兰 — 公开资料图像",
+        "altEn": "archival image"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "coverAltZh": "大将军寇流兰 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "大将军寇流兰 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "2007",
@@ -1702,7 +2164,7 @@
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": null,
+    "img": "http://i0.sinaimg.cn/ent/f/linzhaohua/U2223P28T19D4719F419DT20091017185920.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2007-01-11/15241406151.html",
       "https://news.sohu.com/20070103/n247398856.shtml"
@@ -1730,10 +2192,87 @@
         "url": "https://news.sohu.com/20070103/n247398856.shtml"
       }
     ],
-    "media": [],
+    "media": [
+      {
+        "url": "http://i0.sinaimg.cn/ent/f/linzhaohua/U2223P28T19D4719F419DT20091017185920.jpg",
+        "captionZh": "《活着还是死去》资料图；新浪娱乐“林兆华戏剧工作室”经典作品资料页。",
+        "captionEn": "Archival image from Lin Zhaohua Theatre Studio’s Sina Entertainment classic-works page.",
+        "altZh": "《活着还是死去》林兆华版资料图。",
+        "altEn": "Archival image from Lin Zhaohua’s production of To Live or To Die.",
+        "caption": "《活着还是死去》资料图；新浪娱乐“林兆华戏剧工作室”经典作品资料页。"
+      }
+    ],
     "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
     "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "verificationStatus": "本轮逐项核验 / Verified in this round"
+    "verificationStatus": "本轮逐项核验 / Verified in this round",
+    "coverCaptionZh": "《活着还是死去》资料图；新浪娱乐“林兆华戏剧工作室”经典作品资料页。",
+    "coverCaptionEn": "Archival image from Lin Zhaohua Theatre Studio’s Sina Entertainment classic-works page.",
+    "coverAltZh": "《活着还是死去》林兆华版资料图。",
+    "coverAltEn": "Archival image from Lin Zhaohua’s production of To Live or To Die."
+  },
+  {
+    "year": "2008",
+    "title": "盲人",
+    "en": "The Blind",
+    "cat": [
+      "drama",
+      "other-drama",
+      "studio"
+    ],
+    "venue": "朝阳区文化馆“9个剧场” / Nine Theatre, Chaoyang District Culture Center",
+    "creator": "莫里斯·梅特林克 / Maurice Maeterlinck",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "2008年，林兆华执导梅特林克《盲人》，邀请12位真正的盲人演员登台，在朝阳区文化馆“9个剧场”演出。公开资料显示该项目由北京红丹丹教育文化交流中心主办、林兆华戏剧工作室监制。",
+    "endesc": "In 2008, Lin Zhaohua directed Maurice Maeterlinck’s The Blind with twelve blind performers at Nine Theatre in the Chaoyang District Culture Center. Public materials identify Beijing Hongdandan Education & Culture Exchange Center as producer and Lin Zhaohua Theatre Studio as supervising organization.",
+    "quote": "我们孤独地站在一起。",
+    "q_en": "We stand alone together.",
+    "img": "https://i1.sinaimg.cn/ent/j/2008-04-30/a984626df207451c1236a9f959bd27aa.jpg",
+    "sources": [
+      "https://ent.sina.com.cn/j/2008-04-30/00182009103.shtml",
+      "https://groups.google.com/g/elvitawei/c/C2wpGi-GHIg"
+    ],
+    "playwright": "莫里斯·梅特林克 / Maurice Maeterlinck",
+    "premiere": "2008-04-30",
+    "background": "项目资料称2008年4月30日为世界首演；演出持续至5月18日，地点为朝阳区文化馆二楼“9个剧场”之“CHE切·行动”剧场。",
+    "bg_en": "Project materials identify April 30, 2008 as the world premiere; performances continued through May 18 at the “CHE Action” theatre on the second floor of the Chaoyang District Culture Center.",
+    "theatre": "朝阳区文化馆“9个剧场” / Nine Theatre, Chaoyang District Culture Center",
+    "cast": "12位真正的盲人演员；公开演出资料列有滕伟民、晋吉征、商振水、杨付云、李璐瑶、梁江波、王有才、宋惠英、郝东武、鲍家丽、权婧、牟悦。 / Twelve blind performers; public materials list the twelve names.",
+    "design": "沈东辉 / Shen Donghui",
+    "music": "吴咏梅 / Wu Yongmei",
+    "synopsis": "12个盲人在荒岛上迷失，等待已经死去的教士来搭救；项目资料将其作为关于人类生存处境的象征性作品。",
+    "synopsis_en": "Twelve blind people are stranded on an island and wait for a priest who has already died; project materials frame the story as a symbolic image of the human condition.",
+    "overseas": "当前档案未收录已核实的海外演出记录。 / No verified overseas-performance record is currently entered.",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "2008年4月30日新浪报道确认首演、12位盲人演员及朝阳区文化馆“9个剧场”；项目公告还记录了完整演出档期及主办、监制信息。",
+    "sourceItems": [
+      {
+        "label": "新浪娱乐：盲人京城首演《盲人》",
+        "url": "https://ent.sina.com.cn/j/2008-04-30/00182009103.shtml"
+      },
+      {
+        "label": "2008年项目公告（Google Groups存档）",
+        "url": "https://groups.google.com/g/elvitawei/c/C2wpGi-GHIg"
+      }
+    ],
+    "media": [
+      {
+        "url": "https://i1.sinaimg.cn/ent/j/2008-04-30/a984626df207451c1236a9f959bd27aa.jpg",
+        "caption": "《盲人》2008年首演海报 / 2008 premiere poster",
+        "type": "poster",
+        "captionZh": "《盲人》2008年首演海报",
+        "captionEn": "2008 premiere poster for The Blind",
+        "altZh": "《盲人》2008年首演海报，黑白人像组成横向画面。",
+        "altEn": "2008 premiere poster for The Blind, composed of black-and-white portraits."
+      }
+    ],
+    "evidenceNote": "首演日期、场地、12位盲人演员、主办/监制及海报来源已核实。",
+    "evidenceNote_en": "Premiere date, venue, twelve blind performers, producer/supervising organization and poster source verified.",
+    "verificationStatus": "首演资料与海报已核实 / Premiere record and poster verified",
+    "verificationSource": "https://ent.sina.com.cn/j/2008-04-30/00182009103.shtml",
+    "coverAltZh": "《盲人》2008年首演海报",
+    "coverAltEn": "2008 premiere poster for The Blind",
+    "coverCaptionZh": "《盲人》2008年首演海报",
+    "coverCaptionEn": "2008 premiere poster"
   },
   {
     "year": "2009",
@@ -1787,11 +2326,19 @@
       {
         "url": "https://i3.sinaimg.cn/ent/j/2009-09-26/U3996P28T3D2714320F326DT20090926143918.jpg",
         "caption": "窝头会馆 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "窝头会馆 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "窝头会馆 — 公开资料图像",
+        "altEn": "archival image"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "coverAltZh": "窝头会馆 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "窝头会馆 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
     "year": "2010",
@@ -1903,50 +2450,6 @@
   },
   {
     "year": "2010",
-    "title": "门客",
-    "en": "The Retainer",
-    "cat": [
-      "drama",
-      "other-drama"
-    ],
-    "venue": "—",
-    "creator": "徐瑛 / Xu Ying",
-    "director": "林兆华 / Lin Zhaohua",
-    "desc": "本次作品清单收录的林兆华导演作品。",
-    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "quote": "",
-    "q_en": "",
-    "img": null,
-    "sources": [
-      "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
-    ],
-    "playwright": "徐瑛 / Xu Ying",
-    "premiere": "2010",
-    "cast": "闫楠、李云飞 / Yan Nan, Li Yunfei",
-    "synopsis": "以程婴救孤为核心，围绕赵氏孤儿的成长、复仇以及两个“父亲”之间的选择展开。",
-    "synopsis_en": "Centred on Cheng Ying and the Zhao orphan, the play examines loyalty, revenge and the choices of two fathers.",
-    "background": "与《刺客》《说客》构成徐瑛“春秋三部曲”的关联作品谱系。",
-    "bg_en": "Part of Xu Ying’s related “Spring and Autumn trilogy” alongside The Assassin and The Persuader.",
-    "theatre": "—",
-    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
-    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
-    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
-    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
-    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
-    "sourceItems": [
-      {
-        "label": "2010林兆华戏剧邀请展资料",
-        "url": "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
-      }
-    ],
-    "media": [],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
-  },
-  {
-    "year": "2010",
     "title": "说客",
     "en": "The Persuader",
     "cat": [
@@ -1988,21 +2491,30 @@
       {
         "url": "https://www.sinaimg.cn/dy/slidenews/4_img/2010_49/703_225633_369245.jpg",
         "caption": "说客 — 公开资料图像 / archival image",
-        "type": "photo/poster"
+        "type": "photo/poster",
+        "captionZh": "说客 — 公开资料图像",
+        "captionEn": "archival image",
+        "altZh": "说客 — 公开资料图像",
+        "altEn": "archival image"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "coverAltZh": "说客 — 公开资料图像",
+    "coverAltEn": "archival image",
+    "coverCaptionZh": "说客 — 公开资料图像",
+    "coverCaptionEn": "archival image"
   },
   {
-    "year": "2011",
-    "title": "命若琴弦",
-    "en": "Life on a String",
+    "year": "2010",
+    "title": "门客",
+    "en": "The Retainer",
     "cat": [
-      "opera"
+      "drama",
+      "other-drama"
     ],
     "venue": "—",
-    "creator": "歌剧 / Opera",
+    "creator": "徐瑛 / Xu Ying",
     "director": "林兆华 / Lin Zhaohua",
     "desc": "本次作品清单收录的林兆华导演作品。",
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
@@ -2010,30 +2522,32 @@
     "q_en": "",
     "img": null,
     "sources": [
-      "https://ent.sina.com.cn/j/2011-11-23/00403487824.shtml"
+      "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
     ],
-    "playwright": "史铁生原作；瞿小松作曲 / Based on Shi Tiesheng; music by Qu Xiaosong",
-    "premiere": "2011-11-29",
-    "synopsis": "盲艺人老者弹断千根三弦后寻找秘方，最终发现所谓秘方只是一张白纸，以寓言方式讨论生命的意义与希望。 / An old blind musician breaks a thousand strings seeking a cure, only to find a blank sheet of paper, an allegory of meaning and hope.",
-    "synopsis_en": "A one-act opera based on Shi Tiesheng’s parable of blind musicians whose lives are sustained by a string and a distant goal.",
-    "background": "根据史铁生小说并吸收《窦娥冤》素材改编的独幕歌剧。 / A one-act opera based on Shi Tiesheng’s story and incorporating material from The Injustice to Dou E.",
-    "bg_en": "Qu Xiaosong adapted the story as a one-act opera; it gained international attention after its 1997 production and returned to China in the 2011 festival.",
-    "overseas": "资料明确提到1997年歌剧版本曾有国际演出。",
-    "theatre": "北京 / Beijing",
-    "cast": "龚冬健 / Gong Dongjian",
-    "design": "龚勋 / Gong Xun",
-    "music": "瞿小松作曲并指挥；北京现代室内乐团演奏 / Composed and conducted by Qu Xiaosong; performed by Beijing Modern Music Ensemble",
+    "playwright": "徐瑛 / Xu Ying",
+    "premiere": "2010",
+    "cast": "闫楠、李云飞 / Yan Nan, Li Yunfei",
+    "synopsis": "以程婴救孤为核心，围绕赵氏孤儿的成长、复仇以及两个“父亲”之间的选择展开。",
+    "synopsis_en": "Centred on Cheng Ying and the Zhao orphan, the play examines loyalty, revenge and the choices of two fathers.",
+    "background": "与《刺客》《说客》构成徐瑛“春秋三部曲”的关联作品谱系。",
+    "bg_en": "Part of Xu Ying’s related “Spring and Autumn trilogy” alongside The Assassin and The Persuader.",
+    "theatre": "—",
+    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
+    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
+    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
     "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
     "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
     "sourceItems": [
       {
-        "label": "新浪：演出资料",
-        "url": "https://ent.sina.com.cn/j/2011-11-23/00403487824.shtml"
+        "label": "2010林兆华戏剧邀请展资料",
+        "url": "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
       }
     ],
     "media": [],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
+    "verificationSource": "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
   },
   {
     "year": "2011",
@@ -2085,6 +2599,47 @@
     "verificationSource": "https://www.time-weekly.com/wap-article/15099"
   },
   {
+    "year": "2011",
+    "title": "命若琴弦",
+    "en": "Life on a String",
+    "cat": [
+      "opera"
+    ],
+    "venue": "—",
+    "creator": "歌剧 / Opera",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "本次作品清单收录的林兆华导演作品。",
+    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "quote": "",
+    "q_en": "",
+    "img": null,
+    "sources": [
+      "https://ent.sina.com.cn/j/2011-11-23/00403487824.shtml"
+    ],
+    "playwright": "史铁生原作；瞿小松作曲 / Based on Shi Tiesheng; music by Qu Xiaosong",
+    "premiere": "2011-11-29",
+    "synopsis": "盲艺人老者弹断千根三弦后寻找秘方，最终发现所谓秘方只是一张白纸，以寓言方式讨论生命的意义与希望。 / An old blind musician breaks a thousand strings seeking a cure, only to find a blank sheet of paper, an allegory of meaning and hope.",
+    "synopsis_en": "A one-act opera based on Shi Tiesheng’s parable of blind musicians whose lives are sustained by a string and a distant goal.",
+    "background": "根据史铁生小说并吸收《窦娥冤》素材改编的独幕歌剧。 / A one-act opera based on Shi Tiesheng’s story and incorporating material from The Injustice to Dou E.",
+    "bg_en": "Qu Xiaosong adapted the story as a one-act opera; it gained international attention after its 1997 production and returned to China in the 2011 festival.",
+    "overseas": "资料明确提到1997年歌剧版本曾有国际演出。",
+    "theatre": "北京 / Beijing",
+    "cast": "龚冬健 / Gong Dongjian",
+    "design": "龚勋 / Gong Xun",
+    "music": "瞿小松作曲并指挥；北京现代室内乐团演奏 / Composed and conducted by Qu Xiaosong; performed by Beijing Modern Music Ensemble",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
+    "sourceItems": [
+      {
+        "label": "新浪：演出资料",
+        "url": "https://ent.sina.com.cn/j/2011-11-23/00403487824.shtml"
+      }
+    ],
+    "media": [],
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification."
+  },
+  {
     "year": "2012",
     "title": "北京有个中关村",
     "en": "There Is a Zhongguancun in Beijing",
@@ -2133,49 +2688,6 @@
     "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
     "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
     "verificationSource": "https://ent.sina.com.cn/j/2012-10-17/10003765403.shtml"
-  },
-  {
-    "year": "2012",
-    "title": "山海经传",
-    "en": "The Legend of the Classic of Mountains and Seas",
-    "cat": [
-      "drama",
-      "gaoxingjian"
-    ],
-    "venue": "—",
-    "creator": "高行健 / Gao Xingjian",
-    "director": "林兆华 / Lin Zhaohua",
-    "desc": "本次作品清单收录的林兆华导演作品。",
-    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "quote": "",
-    "q_en": "",
-    "img": null,
-    "sources": [
-      "https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5"
-    ],
-    "playwright": "高行健 / Gao Xingjian",
-    "premiere": "2012",
-    "theatre": "—",
-    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
-    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
-    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
-    "synopsis": "根据高行健的《山海经传》展开，以神话、传说与现代戏剧结构重组上古世界。 / Based on Gao Xingjian’s Shan Hai Jing Legend, it reworks ancient myth and legend through a modern theatrical structure.",
-    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "background": "作品属于林兆华与高行健长期创作关系的晚期延伸；首演、具体剧院及完整演职员仍需节目册/院团档案进一步核实。 / It belongs to the later extension of Lin and Gao Xingjian’s long creative relationship; premiere, theatre and full credits still require programme or company-archive verification.",
-    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
-    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
-    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
-    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
-    "sourceItems": [
-      {
-        "label": "https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5",
-        "url": "https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5"
-      }
-    ],
-    "media": [],
-    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "verificationStatus": "本轮逐项核验 / Verified in this round"
   },
   {
     "year": "2012",
@@ -2233,15 +2745,15 @@
     "verificationSource": "https://old.lifeweek.com.cn/2012/1011/38735.shtml"
   },
   {
-    "year": "2013",
-    "title": "隆福寺",
-    "en": "Longfu Temple",
+    "year": "2012",
+    "title": "山海经传",
+    "en": "The Legend of the Classic of Mountains and Seas",
     "cat": [
       "drama",
-      "other-drama"
+      "gaoxingjian"
     ],
-    "venue": "北京东方剧院 / Beijing Dongfang Theatre",
-    "creator": "王雨哲 / Wang Yuzhe",
+    "venue": "—",
+    "creator": "高行健 / Gao Xingjian",
     "director": "林兆华 / Lin Zhaohua",
     "desc": "本次作品清单收录的林兆华导演作品。",
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
@@ -2249,42 +2761,31 @@
     "q_en": "",
     "img": null,
     "sources": [
-      "https://ent.sina.com.cn/j/2013-05-21/20293926008.shtml",
-      "https://www.xiquwenhua.net/xiqudaquan/xinwen/2013/27142.html",
-      "https://www.chinawriter.com.cn/2013/2013-04-12/159648.html"
+      "https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5"
     ],
-    "playwright": "王雨哲 / Wang Yuzhe",
-    "premiere": "2013-05-22",
-    "cast": "高亚麟、李林 / Gao Yalin, Li Lin",
-    "synopsis": "以隆福寺为中心，倒叙三个历史时期：1901、1949、1976，通过两个演员的多重角色讲述北京城市变迁。",
-    "synopsis_en": "Set around Longfu Temple, the play moves backward through 1901, 1949 and 1976, using two actors in multiple roles to tell a story of Beijing’s transformation.",
-    "background": "继《茶馆》《窝头会馆》之后的京味作品，大量使用京韵大鼓、拉洋片、单弦等传统曲艺。",
-    "bg_en": "A Beijing-themed work following Teahouse and Wotou Guild Hall, incorporating traditional storytelling and performance forms.",
-    "reviews": "首演评论认为故事较散，但记录了其京味曲艺与三时代结构。",
-    "theatre": "北京东方剧院 / Beijing Dongfang Theatre",
+    "playwright": "高行健 / Gao Xingjian",
+    "premiere": "2012",
+    "theatre": "—",
+    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
     "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
     "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
+    "synopsis": "根据高行健的《山海经传》展开，以神话、传说与现代戏剧结构重组上古世界。 / Based on Gao Xingjian’s Shan Hai Jing Legend, it reworks ancient myth and legend through a modern theatrical structure.",
+    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "background": "作品属于林兆华与高行健长期创作关系的晚期延伸；首演、具体剧院及完整演职员仍需节目册/院团档案进一步核实。 / It belongs to the later extension of Lin and Gao Xingjian’s long creative relationship; premiere, theatre and full credits still require programme or company-archive verification.",
+    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
     "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
     "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
     "sourceItems": [
       {
-        "label": "新浪娱乐",
-        "url": "https://ent.sina.com.cn/j/2013-05-21/20293926008.shtml"
-      },
-      {
-        "label": "戏曲文化网",
-        "url": "https://www.xiquwenhua.net/xiqudaquan/xinwen/2013/27142.html"
-      },
-      {
-        "label": "中国作家网：2013《隆福寺》",
-        "url": "https://www.chinawriter.com.cn/2013/2013-04-12/159648.html"
+        "label": "https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5",
+        "url": "https://zh.wikipedia.org/wiki/%E9%AB%98%E8%A1%8C%E5%81%A5"
       }
     ],
     "media": [],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://www.chinawriter.com.cn/2013/2013-04-12/159648.html"
+    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "verificationStatus": "本轮逐项核验 / Verified in this round"
   },
   {
     "year": "2013",
@@ -2341,6 +2842,104 @@
     "verificationSource": "https://www.chinanews.com/cul/2013/11-27/5550947.shtml"
   },
   {
+    "year": "2013",
+    "title": "隆福寺",
+    "en": "Longfu Temple",
+    "cat": [
+      "drama",
+      "other-drama"
+    ],
+    "venue": "北京东方剧院 / Beijing Dongfang Theatre",
+    "creator": "王雨哲 / Wang Yuzhe",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "本次作品清单收录的林兆华导演作品。",
+    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "quote": "",
+    "q_en": "",
+    "img": null,
+    "sources": [
+      "https://ent.sina.com.cn/j/2013-05-21/20293926008.shtml",
+      "https://www.xiquwenhua.net/xiqudaquan/xinwen/2013/27142.html",
+      "https://www.chinawriter.com.cn/2013/2013-04-12/159648.html"
+    ],
+    "playwright": "王雨哲 / Wang Yuzhe",
+    "premiere": "2013-05-22",
+    "cast": "高亚麟、李林 / Gao Yalin, Li Lin",
+    "synopsis": "以隆福寺为中心，倒叙三个历史时期：1901、1949、1976，通过两个演员的多重角色讲述北京城市变迁。",
+    "synopsis_en": "Set around Longfu Temple, the play moves backward through 1901, 1949 and 1976, using two actors in multiple roles to tell a story of Beijing’s transformation.",
+    "background": "继《茶馆》《窝头会馆》之后的京味作品，大量使用京韵大鼓、拉洋片、单弦等传统曲艺。",
+    "bg_en": "A Beijing-themed work following Teahouse and Wotou Guild Hall, incorporating traditional storytelling and performance forms.",
+    "reviews": "首演评论认为故事较散，但记录了其京味曲艺与三时代结构。",
+    "theatre": "北京东方剧院 / Beijing Dongfang Theatre",
+    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
+    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
+    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "sourceItems": [
+      {
+        "label": "新浪娱乐",
+        "url": "https://ent.sina.com.cn/j/2013-05-21/20293926008.shtml"
+      },
+      {
+        "label": "戏曲文化网",
+        "url": "https://www.xiquwenhua.net/xiqudaquan/xinwen/2013/27142.html"
+      },
+      {
+        "label": "中国作家网：2013《隆福寺》",
+        "url": "https://www.chinawriter.com.cn/2013/2013-04-12/159648.html"
+      }
+    ],
+    "media": [],
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
+    "verificationSource": "https://www.chinawriter.com.cn/2013/2013-04-12/159648.html"
+  },
+  {
+    "year": "2014",
+    "title": "人民公敌",
+    "en": "An Enemy of the People",
+    "cat": [
+      "drama",
+      "other-drama"
+    ],
+    "venue": "北京保利剧院及全国保利院线 / Beijing Poly Theatre and touring circuit",
+    "creator": "亨里克·易卜生 / Henrik Ibsen",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "本次作品清单收录的林兆华导演作品。",
+    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "quote": "",
+    "q_en": "",
+    "img": null,
+    "sources": [
+      "https://www.chinawriter.com.cn/2014/2014-08-08/214184.html"
+    ],
+    "playwright": "亨里克·易卜生 / Henrik Ibsen",
+    "premiere": "2014-10-27",
+    "cast": "王学兵、高亚麟 / Wang Xuebing, Gao Yalin",
+    "synopsis": "医生斯多克芒发现浴场水源污染，试图公开真相，却触及当地经济利益与多数人的立场。",
+    "synopsis_en": "Doctor Stockmann discovers contaminated water at a resort and tries to expose it, confronting economic interests and public opinion.",
+    "background": "继《建筑大师》《娜拉的儿女们》之后，林兆华再次执导易卜生。",
+    "bg_en": "Following The Master Builder and A Doll’s House-related work, Lin returned to Ibsen with this social problem play.",
+    "revivals": "计划自2014年11月起在全国近30个城市巡演。",
+    "theatre": "北京保利剧院及全国保利院线 / Beijing Poly Theatre and touring circuit",
+    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
+    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
+    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
+    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
+    "sourceItems": [
+      {
+        "label": "中国作家网/中国艺术报",
+        "url": "https://www.chinawriter.com.cn/2014/2014-08-08/214184.html"
+      }
+    ],
+    "media": [],
+    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
+    "verificationSource": "https://www.chinawriter.com.cn/2014/2014-08-08/214184.html"
+  },
+  {
     "year": "2014",
     "title": "公民",
     "en": "The Citizen",
@@ -2391,6 +2990,49 @@
   },
   {
     "year": "2014",
+    "title": "永乐",
+    "en": "Yongle",
+    "cat": [
+      "opera"
+    ],
+    "venue": "—",
+    "creator": "陈钦智 / Chen Qinzhi",
+    "director": "林兆华 / Lin Zhaohua",
+    "desc": "本次作品清单收录的林兆华导演作品。",
+    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "quote": "",
+    "q_en": "",
+    "img": null,
+    "sources": [
+      "https://www.chncpa.org/zxdt_331/zxdtlm/mtsj_334/201504/t20150409_124139.shtml"
+    ],
+    "playwright": "陈钦智 / Chen Qinzhi",
+    "premiere": "2014",
+    "theatre": "—",
+    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
+    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
+    "music": "作曲：叶小钢 / Music: Ye Xiaogang",
+    "synopsis": "本次作品清单收录的林兆华导演作品。",
+    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
+    "background": "围绕朱棣一生中的两项政治文化工程——修撰《永乐大典》和郑和下西洋——展开，以“文治”与“武功”的并置解释永乐时代。 / It centers on two major projects of Zhu Di’s reign—the Yongle Encyclopedia and Zheng He’s voyages—juxtaposing civil governance and military achievement.",
+    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
+    "overseas": "当前未核到林兆华版本的海外演出记录。 / No verified overseas performance of Lin’s production has yet been found.",
+    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
+    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
+    "sourceItems": [
+      {
+        "label": "https://www.chncpa.org/zxdt_331/zxdtlm/mtsj_334/201504/t20150409_124139.shtml",
+        "url": "https://www.chncpa.org/zxdt_331/zxdtlm/mtsj_334/201504/t20150409_124139.shtml"
+      }
+    ],
+    "media": [],
+    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
+    "verificationStatus": "本轮逐项核验 / Verified in this round",
+    "verificationSource": "https://www.chinawriter.com.cn/2015/2015-04-09/238991.html"
+  },
+  {
+    "year": "2014",
     "title": "雷雨2014",
     "en": "Thunderstorm 2014",
     "cat": [
@@ -2434,90 +3076,159 @@
     "verificationSource": "https://yule.sohu.com/20140519/n399730286.shtml"
   },
   {
-    "year": "2014",
-    "title": "人民公敌",
-    "en": "An Enemy of the People",
+    "year": "2016",
+    "title": "仲夏夜之梦",
+    "en": "A Midsummer Night’s Dream",
     "cat": [
       "drama",
-      "other-drama"
+      "other-drama",
+      "shakespeare"
     ],
-    "venue": "北京保利剧院及全国保利院线 / Beijing Poly Theatre and touring circuit",
-    "creator": "亨里克·易卜生 / Henrik Ibsen",
+    "venue": "北京保利剧院 / Beijing Poly Theatre",
+    "creator": "威廉·莎士比亚 / William Shakespeare（原作）",
     "director": "林兆华 / Lin Zhaohua",
-    "desc": "本次作品清单收录的林兆华导演作品。",
-    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "quote": "",
-    "q_en": "",
-    "img": null,
+    "desc": "林兆华2016年执导的中国民俗版莎士比亚喜剧。保留原作框架，同时加入陕北小调、东北大秧歌、街舞、花被面等中国民俗与当代喜剧元素。",
+    "endesc": "Lin Zhaohua’s 2016 Chinese-folk adaptation of Shakespeare’s comedy, retaining the original framework while incorporating Chinese folk and contemporary comic forms.",
+    "quote": "“戏剧就是欢玩，要‘high’！”",
+    "q_en": "“Theatre is about playing and having fun.”",
+    "img": "https://paper.people.com.cn/rmrbhwb/res/2016-11/19/11/rmrbhwb2016111911p35_b.jpg",
     "sources": [
-      "https://www.chinawriter.com.cn/2014/2014-08-08/214184.html"
+      "https://paper.people.com.cn/rmrbhwb/html/2016-11/19/content_1728898.htm",
+      "https://www.jiemian.com/article/992671.html"
     ],
-    "playwright": "亨里克·易卜生 / Henrik Ibsen",
-    "premiere": "2014-10-27",
-    "cast": "王学兵、高亚麟 / Wang Xuebing, Gao Yalin",
-    "synopsis": "医生斯多克芒发现浴场水源污染，试图公开真相，却触及当地经济利益与多数人的立场。",
-    "synopsis_en": "Doctor Stockmann discovers contaminated water at a resort and tries to expose it, confronting economic interests and public opinion.",
-    "background": "继《建筑大师》《娜拉的儿女们》之后，林兆华再次执导易卜生。",
-    "bg_en": "Following The Master Builder and A Doll’s House-related work, Lin returned to Ibsen with this social problem play.",
-    "revivals": "计划自2014年11月起在全国近30个城市巡演。",
-    "theatre": "北京保利剧院及全国保利院线 / Beijing Poly Theatre and touring circuit",
-    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
-    "music": "公开资料尚未完成逐项核档。 / Detailed music credits not yet fully verified.",
-    "overseas": "当前档案未收录已核实的海外演出记录；如有新的一手资料，将继续补录。 / No verified overseas-performance record is currently entered in this archive; new primary evidence can be added.",
-    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
+    "playwright": "威廉·莎士比亚 / William Shakespeare（原作）",
+    "premiere": "2016-11-30",
+    "theatre": "北京保利剧院 / Beijing Poly Theatre",
+    "cast": "潘斌龙、崔永平、李浩天、蔡英男、陈雅狄、马卓君、李子游、谢天、匡冠荣、董双、时六等。 / Pan Binlong, Cui Yongping, Li Haotian, Cai Yingnan, Chen Yadi, Ma Zhuojun, Li Ziyou, Xie Tian, Kuang Guanrong, Dong Shuang, Shi Liu, among others.",
+    "design": "服装、视觉及舞台呈现强调中国民俗化：东北大被面图案、民俗婚礼意象等；具体舞美署名仍待节目单核档。 / The production emphasized Chinese folk visual elements; detailed individual scenography credits still require programme-level verification.",
+    "music": "演出融入陕北小调、东北大秧歌、街舞及演员敲击锅碗瓢盆等现场音乐/节奏元素；具体音乐署名待核档。 / Shaanbei folk song, Northeast yangge, street dance and live percussion-like sounds were incorporated; individual music credits remain to be verified.",
+    "synopsis": "以莎士比亚《仲夏夜之梦》原有爱情错位与戏中戏结构为基础，讲述四位年轻人的爱情纠葛以及业余戏班在森林中排演悲喜剧的故事；林兆华版本将其转化为带有中国民俗喜剧色彩的舞台作品。",
+    "synopsis_en": "Using Shakespeare’s love entanglements and play-within-a-play structure, the production turns the story into a Chinese folk-inflected comedy with contemporary popular performance elements.",
+    "background": "2016年为纪念莎士比亚逝世400周年，林兆华首次尝试爱情喜剧，并要求演员研读原文，与编剧讨论如何把英式话剧表达本土化。人民日报海外版当时报道了排练情况及潘斌龙等人的创作思路。",
+    "bg_en": "Created for the 400th anniversary of Shakespeare’s death, the production was Lin’s first attempt at a romantic comedy and sought to localize Shakespearean expression through Chinese folk and popular performance forms.",
+    "overseas": "暂无核实到林兆华版本的海外演出；2020年英国沉浸式《仲夏夜之梦》为其他制作，不应与本版本混同。 / No verified overseas performance of Lin’s production has been found; the 2020 UK immersive production is a different production.",
+    "revivals": "2017年继续在保利体系及全国巡演；2019年仍以“中国民俗版莎士比亚”名义演出。 / The production continued touring in China in 2017 and was still presented as a Chinese folk version in 2019.",
+    "reviews": "《人民日报海外版》2016年11月19日报道称其保留原剧框架、加入中国民族元素；同时记录了演员对“本土化”与喜剧节奏的说明。 / People’s Daily Overseas Edition documented the localization process and the production’s Chinese folk-comedy approach.",
     "sourceItems": [
       {
-        "label": "中国作家网/中国艺术报",
-        "url": "https://www.chinawriter.com.cn/2014/2014-08-08/214184.html"
+        "label": "人民日报海外版：把莎翁名剧玩起来",
+        "url": "https://paper.people.com.cn/rmrbhwb/html/2016-11/19/content_1728898.htm"
+      },
+      {
+        "label": "界面文化：2016年北京演出信息",
+        "url": "https://www.jiemian.com/article/992671.html"
       }
     ],
-    "media": [],
-    "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
-    "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
-    "verificationSource": "https://www.chinawriter.com.cn/2014/2014-08-08/214184.html"
+    "media": [
+      {
+        "url": "https://paper.people.com.cn/rmrbhwb/res/2016-11/19/11/rmrbhwb2016111911p35_b.jpg",
+        "caption": "2016年排练现场；《人民日报海外版》2016年11月19日配图。",
+        "captionZh": "2016年排练现场；《人民日报海外版》2016年11月19日配图。",
+        "captionEn": "Rehearsal scene; image published by People’s Daily Overseas Edition on 19 November 2016.",
+        "altZh": "2016年排练现场；《人民日报海外版》2016年11月19日配图。",
+        "altEn": "Rehearsal scene; image published by People’s Daily Overseas Edition on 19 November 2016."
+      },
+      {
+        "url": "https://5b0988e595225.cdn.sohucs.com/images/20190315/09b3b2e2125e45f7887475d41c9a80a5.jpeg",
+        "caption": "后续巡演资料中的《仲夏夜之梦》演出剧照。",
+        "captionZh": "后续巡演资料中的《仲夏夜之梦》演出剧照。",
+        "captionEn": "Production still from a later touring record of A Midsummer Night’s Dream.",
+        "altZh": "后续巡演资料中的《仲夏夜之梦》演出剧照。",
+        "altEn": "Production still from a later touring record of A Midsummer Night’s Dream."
+      },
+      {
+        "url": "https://5b0988e595225.cdn.sohucs.com/images/20190315/71360b4d0d12401c9aa6204b7d1e0340.jpeg",
+        "caption": "后续巡演资料中的《仲夏夜之梦》宣传海报/视觉资料。",
+        "captionZh": "后续巡演资料中的《仲夏夜之梦》宣传海报/视觉资料。",
+        "captionEn": "Poster/visual material from a later touring record of A Midsummer Night’s Dream.",
+        "altZh": "后续巡演资料中的《仲夏夜之梦》宣传海报/视觉资料。",
+        "altEn": "Poster/visual material from a later touring record of A Midsummer Night’s Dream."
+      }
+    ],
+    "evidenceNote": "首演日期、导演、北京保利剧院及中国民俗化创作方向由2016年《人民日报海外版》报道核实；演员名单参考后续演出资料，部分设计署名仍待节目单进一步核档。",
+    "evidenceNote_en": "Premiere date, director, Beijing Poly Theatre and the Chinese folk adaptation approach are supported by the 2016 People’s Daily Overseas Edition report; the cast is supplemented from later performance records, while some design credits remain to be checked against programmes.",
+    "verificationStatus": "2016首演与主要创作方向已核验 / 2016 premiere and creative approach verified",
+    "verificationSource": "https://paper.people.com.cn/rmrbhwb/html/2016-11/19/content_1728898.htm",
+    "coverAltZh": "2016年排练现场；《人民日报海外版》2016年11月19日配图。",
+    "coverAltEn": "Rehearsal scene; image published by People’s Daily Overseas Edition on 19 November 2016.",
+    "coverCaptionZh": "2016年排练现场；《人民日报海外版》2016年11月19日配图。",
+    "coverCaptionEn": "Rehearsal scene; image published by People’s Daily Overseas Edition on 19 November 2016."
   },
   {
-    "year": "2014",
-    "title": "永乐",
-    "en": "Yongle",
+    "year": "2016",
+    "title": "戈多医生或者六个人寻找第十八只骆驼",
+    "en": "Dr. Godot or Six People Searching for the Eighteenth Camel",
     "cat": [
-      "opera"
+      "drama",
+      "other-drama",
+      "studio"
     ],
-    "venue": "—",
-    "creator": "陈钦智 / Chen Qinzhi",
-    "director": "林兆华 / Lin Zhaohua",
-    "desc": "本次作品清单收录的林兆华导演作品。",
-    "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "quote": "",
-    "q_en": "",
-    "img": null,
+    "venue": "乌镇戏剧节多功能厅；后续北京国话先锋剧场 / Wuzhen Theatre Festival Multi-function Hall; later National Theatre Pioneer Theatre",
+    "creator": "迪特里希·施万尼茨 / Dietrich Schwanitz（创作来源）",
+    "director": "林兆华、林熙越 / Lin Zhaohua, Lin Xiyue",
+    "desc": "一部“不是戏的戏”：精神病院阅览室里，五名病人分别自认为是萧伯纳、皮兰德娄、布莱希特、尤涅斯库和贝克特，医生及第六位人物“戈多医生”卷入他们关于戏剧形式与戏剧观念的争论。",
+    "endesc": "A theatre piece built as a “not-quite-a-play”: five patients in a psychiatric reading room believe they are Shaw, Pirandello, Brecht, Ionesco and Beckett, debating theatrical forms and ideas with the doctors and the sixth figure, Dr. Godot.",
+    "quote": "“这是一个不像戏的戏。”",
+    "q_en": "“This is a play that does not look like a play.”",
+    "img": "https://p0.ifengimg.com/a/2016_44/ba78c07e14124fa_size43_w402_h539.jpg",
     "sources": [
-      "https://www.chncpa.org/zxdt_331/zxdtlm/mtsj_334/201504/t20150409_124139.shtml"
+      "https://culture.people.com.cn/n1/2016/0726/c22219-28584406.html",
+      "https://culture.people.com.cn/n1/2016/1017/c22219-28783674.html",
+      "https://culture.ifeng.com/a/20161024/50147608_0.shtml",
+      "https://www.xinhuanet.com/world/2016-07/26/c_129178139.htm"
     ],
-    "playwright": "陈钦智 / Chen Qinzhi",
-    "premiere": "2014",
-    "theatre": "—",
-    "cast": "公开资料尚未完成逐项核档。 / Detailed cast list not yet fully verified.",
-    "design": "公开资料尚未完成逐项核档。 / Detailed scenography information not yet fully verified.",
-    "music": "作曲：叶小钢 / Music: Ye Xiaogang",
-    "synopsis": "本次作品清单收录的林兆华导演作品。",
-    "synopsis_en": "A Lin Zhaohua-directed work included in the supplied catalogue.",
-    "background": "围绕朱棣一生中的两项政治文化工程——修撰《永乐大典》和郑和下西洋——展开，以“文治”与“武功”的并置解释永乐时代。 / It centers on two major projects of Zhu Di’s reign—the Yongle Encyclopedia and Zheng He’s voyages—juxtaposing civil governance and military achievement.",
-    "bg_en": "Public sources establish the basic chronology and authorship; detailed production history, commissioning context and version differences require further archival verification.",
-    "overseas": "当前未核到林兆华版本的海外演出记录。 / No verified overseas performance of Lin’s production has yet been found.",
-    "revivals": "当前档案未完成复排版本的系统核档。 / Revival history is not yet systematically verified.",
-    "reviews": "当年评论尚待逐项核对原始报刊、节目册和评论文章；本条不以二手概述替代原文。 / Contemporary reviews still require item-by-item checking against period newspapers, programmes and criticism.",
+    "playwright": "迪特里希·施万尼茨 / Dietrich Schwanitz（改编来源：《欧洲：一堂丰富的人文课》）",
+    "premiere": "2016-10-14",
+    "theatre": "乌镇戏剧节多功能厅 / Wuzhen Theatre Festival Multi-function Hall",
+    "cast": "董勇（布莱希特）、李梅等；林熙越兼任执行导演。 / Dong Yong as Brecht, Li Mei and others; Lin Xiyue also served as executive director.",
+    "design": "以“读剧本/坐排”状态为主要视觉与表演结构，强调“不设计”的舞台观念；具体舞美署名待节目单核档。 / The visual and performance structure foregrounded actors reading and rehearsing rather than conventional design; detailed design credits require programme-level verification.",
+    "music": "公开资料未核到独立音乐署名；该版本以文本、现场交流和即兴式互动为主要声音结构。 / No independent music credit has yet been verified; the production’s sound structure centered on text, live exchange and improvisation-like interaction.",
+    "synopsis": "故事发生在美国加利福尼亚州帕洛阿尔托一所精神病院的阅览室。五名病人认定自己是20世纪欧洲重要剧作家，在彼此争论中分别代表讨论剧、后设戏剧、教育戏剧、荒诞剧和贝克特式戏剧观念；第六人自称戈多医生，试图介入治疗。",
+    "synopsis_en": "In a psychiatric reading room in Palo Alto, five patients believe they are major twentieth-century European playwrights and argue through the theatrical theories associated with Shaw, Pirandello, Brecht, Ionesco and Beckett. A sixth figure claims to be Dr. Godot and attempts to intervene.",
+    "background": "林兆华几年前从德国学者迪特里希·施万尼茨的《欧洲：一堂丰富的人文课》中发现这一创作素材。2016年乌镇戏剧节全球首演，是林兆华与林熙越首次父子合作导演。作品把“读剧本”本身变成舞台形式。",
+    "bg_en": "Lin Zhaohua found the source material in German scholar Dietrich Schwanitz’s Europe: An Introductory Course. Its 2016 Wuzhen premiere marked the first directing collaboration between Lin and his son Lin Xiyue, turning the act of reading and rehearsing a script into the stage form itself.",
+    "overseas": "暂无核实到海外演出。 / No verified overseas performance has yet been found.",
+    "revivals": "2017年林兆华戏剧邀请展继续演出，并在北京国话先锋剧场上演。 / Revived at the 2017 Lin Zhaohua Theatre Invitation Exhibition and performed at Beijing’s National Theatre Pioneer Theatre.",
+    "reviews": "2016年凤凰文化评论重点讨论其“戏内/戏外”结构、读本形式与即兴；《北京日报》报道其在乌镇引发较大讨论，有剧评人给予高评价，也有业内人士认为理解门槛较高。 / Contemporary criticism focused on the play-within/around-the-script structure and the tension between rehearsal and performance; Beijing Daily also noted strong debate and differing audience responses.",
     "sourceItems": [
       {
-        "label": "https://www.chncpa.org/zxdt_331/zxdtlm/mtsj_334/201504/t20150409_124139.shtml",
-        "url": "https://www.chncpa.org/zxdt_331/zxdtlm/mtsj_334/201504/t20150409_124139.shtml"
+        "label": "人民网：林兆华：小团体小剧场是戏剧的希望",
+        "url": "https://culture.people.com.cn/n1/2016/0726/c22219-28584406.html"
+      },
+      {
+        "label": "人民网：林兆华新戏：戏名这么长 到底在讲啥？",
+        "url": "https://culture.people.com.cn/n1/2016/1017/c22219-28783674.html"
+      },
+      {
+        "label": "凤凰文化：林兆华的戏剧实验，这次成了吗？",
+        "url": "https://culture.ifeng.com/a/20161024/50147608_0.shtml"
       }
     ],
-    "media": [],
-    "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "evidenceNote_en": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
-    "verificationStatus": "本轮逐项核验 / Verified in this round",
-    "verificationSource": "https://www.chinawriter.com.cn/2015/2015-04-09/238991.html"
+    "media": [
+      {
+        "url": "https://p0.ifengimg.com/a/2016_44/ba78c07e14124fa_size43_w402_h539.jpg",
+        "caption": "2016年《戈多医生或者六个人寻找第十八只骆驼》海报；凤凰文化资料图。",
+        "captionZh": "2016年《戈多医生或者六个人寻找第十八只骆驼》海报；凤凰文化资料图。",
+        "captionEn": "2016 poster for Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image.",
+        "altZh": "2016年《戈多医生或者六个人寻找第十八只骆驼》海报；凤凰文化资料图。",
+        "altEn": "2016 poster for Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image."
+      },
+      {
+        "url": "https://p1.ifengimg.com/a/2016_44/cbec96601874611_size50_w941_h595.jpg",
+        "caption": "《戈多医生或者六个人寻找第十八只骆驼》演出/排练相关剧照；凤凰文化资料图。",
+        "captionZh": "《戈多医生或者六个人寻找第十八只骆驼》演出/排练相关剧照；凤凰文化资料图。",
+        "captionEn": "Production/rehearsal still from Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image.",
+        "altZh": "《戈多医生或者六个人寻找第十八只骆驼》演出/排练相关剧照；凤凰文化资料图。",
+        "altEn": "Production/rehearsal still from Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image."
+      }
+    ],
+    "evidenceNote": "2016年乌镇全球首演、林兆华与林熙越合作导演、文本来源、人物设定及“读剧本/不像戏的戏”形式由人民网、新华社、凤凰文化等当年资料交叉核验。",
+    "evidenceNote_en": "The 2016 Wuzhen world premiere, Lin Zhaohua–Lin Xiyue directing collaboration, source text, character setup and script-reading form are cross-checked against period reports from People’s Daily, Xinhua and Phoenix Culture.",
+    "verificationStatus": "首演、导演、文本来源与形式已核验 / Premiere, directors, source text and form verified",
+    "verificationSource": "https://culture.people.com.cn/n1/2016/1017/c22219-28783674.html",
+    "coverAltZh": "2016年《戈多医生或者六个人寻找第十八只骆驼》海报；凤凰文化资料图。",
+    "coverAltEn": "2016 poster for Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image.",
+    "coverCaptionZh": "2016年《戈多医生或者六个人寻找第十八只骆驼》海报；凤凰文化资料图。",
+    "coverCaptionEn": "2016 poster for Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image."
   }
 ]
