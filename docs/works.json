@@ -3323,7 +3323,7 @@
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "remote/laoshewuze1.jpg",
+    "img": "remote/laoshewuze0.jpg",
     "sources": [
       "https://yule.sohu.com/20101215/n278321698.shtml",
       "https://ent.sina.com.cn/j/2010-12-15/21183178309.shtml",
@@ -3362,6 +3362,21 @@
       }
     ],
     "media": [
+          {
+        "url": "remote/laoshewuze0.jpg",
+        "altZh": "《老舍五则》演出海报",
+        "captionZh": "《老舍五则》演出海报。"
+      },
+            {
+        "url": "remote/laoshewuze3.jpeg",
+        "altZh": "《老舍五则》演出海报",
+        "captionZh": "《老舍五则》演出海报。"
+      },
+            {
+        "url": "remote/laoshewuze7.jpg",
+        "altZh": "《老舍五则》演出海报",
+        "captionZh": "《老舍五则》演出海报。"
+      },
       {
         "url": "remote/laoshewuze1.jpg",
         "altZh": "《老舍五则》柳家大院剧照",
@@ -3383,7 +3398,7 @@
         "captionZh": "《老舍五则》2010年资料图：《兔》。"
       }
     ],
-    "evidenceNote": "首图及剧照采用2010年林兆华版《老舍五则》公开图片资料；2024新华网链接仅用于新版资料区分，不将2024林熙越版图片混入林兆华2010年作品。 / Images are from the 2010 Lin Zhaohua production; the 2024 Xinhua article is retained only to distinguish the later Lin Xiyue revival.",
+    "evidenceNote": "首图及剧照采用2010年林兆华版《老舍五则》公开图片资料；2024新华网链接仅用于新版资料区分。 / Images are from the 2010 Lin Zhaohua production; the 2024 Xinhua article is retained only to distinguish the later Lin Xiyue revival.",
     "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
     "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
     "verificationSource": "https://ent.sina.com.cn/j/2010-12-29/09553191682.shtml"
@@ -3403,7 +3418,7 @@
     "endesc": "A historical allegory centered on Zigong, a disciple of Confucius. It was one of the original new productions presented at the first Lin Zhaohua Theatre Festival in 2010.",
     "quote": "“我想让观众看到的是当代人的处境。”",
     "q_en": "“What I want the audience to see is the predicament of people today.”",
-    "img": "remote/shuike.jpg",
+    "img": "remote/shuike0.jpg",
     "sources": [
       "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
     ],
@@ -3427,15 +3442,51 @@
         "url": "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
       }
     ],
-    "media": [
-      {
-        "caption": "说客 — 公开资料图像 / archival image",
+      "media": [
+    	    {
+        "caption": "说客 — 海报 / archival image",
         "type": "photo/poster",
-        "captionZh": "说客 — 公开资料图像",
+        "captionZh": "说客 — 海报",
         "captionEn": "archival image",
-        "altZh": "说客 — 公开资料图像",
+        "altZh": "说客 — 海报",
+        "altEn": "archival image",
+        "url": "remote/shuike0.jpg"
+      },
+      {
+        "caption": "说客 — 定妆照 / archival image",
+        "type": "photo/poster",
+        "captionZh": "说客 — 定妆照",
+        "captionEn": "archival image",
+        "altZh": "说客 — 定妆照",
         "altEn": "archival image",
         "url": "remote/shuike.jpg"
+      },
+      {
+        "caption": "说客 — 剧照 / archival image",
+        "type": "photo/poster",
+        "captionZh": "说客 — 剧照",
+        "captionEn": "archival image",
+        "altZh": "说客 — 剧照",
+        "altEn": "archival image",
+        "url": "remote/shuike1.jpg"
+      },
+      {
+        "caption": "说客 — 剧照 / archival image",
+        "type": "photo/poster",
+        "captionZh": "说客 — 剧照",
+        "captionEn": "archival image",
+        "altZh": "说客 — 剧照",
+        "altEn": "archival image",
+        "url": "remote/shuike2.jpg"
+      },
+      {
+        "caption": "说客 — 剧照 / archival image",
+        "type": "photo/poster",
+        "captionZh": "说客 — 剧照",
+        "captionEn": "archival image",
+        "altZh": "说客 — 剧照",
+        "altEn": "archival image",
+        "url": "remote/shuike3.jpg"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
