@@ -14,7 +14,7 @@ window.WORKS = [
     "endesc": "In 1978, Beijing People’s Art Theatre staged Su Shuyang’s The Red Heart Score, co-directed by Mei Qian and Lin Zhaohua. It marks the starting point of this archive’s directing chronology.",
     "quote": "1978年与梅阡一起执导《丹心谱》。",
     "q_en": "Co-directed The Red Heart Score with Mei Qian in 1978.",
-    "img": "https://ap-northeast-1-ntch-website-par-files.s3-accelerate.amazonaws.com/par/upload/wdc/file/show/h3hfQ311",
+    "img": "remote/danxinpu.jpg",
     "sources": [
       "https://www.cflac.org.cn/zt/2008-10/16/content_14655602.htm",
       "https://par.npac-ntch.org/cn/article/doc/D99EPH3J39"
@@ -44,13 +44,13 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "https://ap-northeast-1-ntch-website-par-files.s3-accelerate.amazonaws.com/par/upload/wdc/file/show/h3hfQ311",
         "caption": "丹心谱 — 公开资料图像 / archival image",
         "type": "photo/poster",
         "captionZh": "丹心谱 — 公开资料图像",
         "captionEn": "archival image",
         "altZh": "丹心谱 — 公开资料图像",
-        "altEn": "archival image"
+        "altEn": "archival image",
+        "url": "remote/danxinpu.jpg"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
@@ -809,7 +809,7 @@ window.WORKS = [
     "endesc": "In July 1990, during a China–France cultural-exchange conference in Tianjin, Tianjin People’s Art Theatre and Tianjin Hebei Bangzi Theatre jointly presented Voltaire’s The Chinese Orphan. Lin Zhaohua placed Voltaire’s play alongside the traditional Chinese opera The Orphan of Zhao, using an avant-garde spatial and performance structure so that the two classics could watch, interrupt and reshape one another within the same theatre.",
     "quote": "林兆华导演首次将伏尔泰的“孤儿”引渡回到中国舞台上。",
     "q_en": "Lin Zhaohua brought Voltaire’s “orphan” back to the Chinese stage for the first time.",
-    "img": "https://ap-northeast-1-ntch-website-par-files.s3-accelerate.amazonaws.com/par/upload/wdc/file/show/h3hbM11",
+    "img": "remote/zhongguoguer.jpg",
     "sources": [
       "https://ccj.pku.edu.cn/Article/info?aid=297987994",
       "https://par.npac-ntch.org/cn/article/doc/D99EPH3J5Z",
@@ -844,20 +844,12 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "https://ap-northeast-1-ntch-website-par-files.s3-accelerate.amazonaws.com/par/upload/wdc/file/show/h3hbM11",
         "caption": "1990年《中国孤儿》演出资料图：舞台上《中国孤儿》的剧中人物观看戏楼里的《赵氏孤儿》演出；林克欢提供，载《PAR表演艺术》。",
         "captionZh": "1990年《中国孤儿》演出资料图：舞台上《中国孤儿》的剧中人物观看戏楼里的《赵氏孤儿》演出；林克欢提供，载《PAR表演艺术》。",
         "captionEn": "1990 production image: characters from The Chinese Orphan watch The Orphan of Zhao in the theatre; image provided by Lin Kehuan and published by PAR Performing Arts.",
         "altZh": "1990年林兆华《中国孤儿》演出资料图：话剧人物在戏楼中观看《赵氏孤儿》的演出。",
-        "altEn": "1990 Lin Zhaohua production image: characters from The Chinese Orphan watch a performance of The Orphan of Zhao in the old theatre."
-      },
-      {
-        "url": "assets/memoir/zhongguoguer-1990.jpg",
-        "caption": "1990年，《中国孤儿》在天津博物馆公演。图片与图注见林兆华《导演小人书》相关页面。",
-        "captionZh": "1990年，《中国孤儿》在天津博物馆公演。图片与图注见林兆华《导演小人书》相关页面。",
-        "captionEn": "The Chinese Orphan performed at the Tianjin Drama Museum in 1990; image and caption reproduced from Lin Zhaohua’s Director’s Memoir.",
-        "altZh": "1990年《中国孤儿》在天津博物馆公演剧照。",
-        "altEn": "Production still from The Chinese Orphan at the Tianjin Drama Museum in 1990."
+        "altEn": "1990 Lin Zhaohua production image: characters from The Chinese Orphan watch a performance of The Orphan of Zhao in the old theatre.",
+        "url": "remote/zhongguoguer.jpg"
       }
     ],
     "evidenceNote": "1990年7月、联合演出机构、林兆华导演、伏尔泰《中国孤儿》与《赵氏孤儿》的并置演出及前卫化空间处理，已由北京大学《外国文学》1991年文章、PAR 1993年专题及2003年林兆华采访交叉核验。完整演员表、舞美署名及节目单仍待进一步核档。 / The July 1990 date, joint producing theatres, Lin Zhaohua’s direction, juxtaposition of Voltaire’s The Chinese Orphan with The Orphan of Zhao, and avant-garde spatial treatment are cross-checked against the 1991 Foreign Literatures article, the 1993 PAR feature and Lin’s 2003 interview. A complete cast list, individual design credits and programme still require further archival verification. 本条目补充图片来自林兆华《导演小人书》所收作品资料图；图片用于档案展示，不替代外部版本考证。",
@@ -1015,6 +1007,10 @@ window.WORKS = [
     "reviews": "现有公开资料可确认1990年首演及其首都剧场演出信息；当年完整评论仍待原报刊核对。",
     "sourceItems": [
       {
+        "label": "豆瓣剧场条目",
+        "url": "https://www.douban.com/location/drama/11599162/"
+      },
+      {
         "label": "吉林省艺术志相关资料",
         "url": "https://www.daowen.com/lilun/1921303.html"
       },
@@ -1024,8 +1020,8 @@ window.WORKS = [
       }
     ],
     "media": [],
-    "evidenceNote": "《导演小人书》目录将其列为1990年作品；公开资料记载原名《田野又是青纱帐》，1990年4月在北京首都剧场首演，并由林兆华、任鸣合作导演。暂未将未经可靠出处确认的剧照作为封面。",
-    "evidenceNote_en": "Year, original title, theatre, directors, playwright and some design credits verified; no securely attributable historical poster/production still has yet been located.",
+    "evidenceNote": "《导演小人书》目录、豆瓣剧场条目及公开演员资料共同支持1990年《田野，田野》这一条目；目前没有将未经可靠出处确认的剧照作为封面。",
+    "evidenceNote_en": "The memoir table of contents, the Douban theatre entry and public cast records support the 1990 production entry; no unverified still is used as a cover.",
     "verificationStatus": "编年与主创已核实 / Chronology and principal credits verified",
     "verificationSource": "https://www.daowen.com/lilun/1921303.html",
     "coverAltZh": "《田野田野》文字封面",
@@ -1777,7 +1773,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://i3.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734606F346DT20091017171912.jpg",
+    "img": "remote/fengyuewubian.jpg",
     "sources": [
       "https://bkso.baidu.com/item/%E9%A3%8E%E6%9C%88%E6%97%A0%E8%BE%B9/63908192",
       "https://ent.sina.com.cn/j/2009-10-17/17192734606.shtml"
@@ -1807,12 +1803,12 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "https://i3.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734606F346DT20091017171912.jpg",
         "captionZh": "《风月无边》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
         "captionEn": "Production still from Fengyue Wu Bian; archival image published by Sina Entertainment in 2009.",
         "altZh": "《风月无边》舞台剧照，演员站在镜面般的水面舞台空间中。",
         "altEn": "A stage still from Fengyue Wu Bian, with performers in a reflective water-like stage space.",
-        "caption": "《风月无边》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
+        "caption": "《风月无边》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
+        "url": "remote/fengyuewubian.jpg"
       }
     ],
     "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
@@ -1933,7 +1929,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://5b0988e595225.cdn.sohucs.com/images/20180626/04fecff3687a4ecd8f420b1419a398cb.jpeg",
+    "img": "remote/yeyan.jpeg",
     "sources": [
       "https://ent.sina.com.cn/2003-10-20/0953217601.html",
       "https://cn.govopendata.com/renminribao/2003/10/22/9/",
@@ -1964,9 +1960,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://5b0988e595225.cdn.sohucs.com/images/20180626/04fecff3687a4ecd8f420b1419a398cb.jpeg",
-        "alt": "《夜宴》2003年中国当代歌剧之夜演出剧照",
-        "caption": "北京国际音乐节回顾资料标注为2003年10月19、20日第6届北京国际音乐节“中国当代歌剧之夜《夜宴》”演出剧照。"
+        "url": "remote/yeyan.jpeg",
+        "altZh": "《夜宴》2003年中国当代歌剧之夜演出剧照",
+        "captionZh": "北京国际音乐节回顾资料标注为2003年10月19、20日第6届北京国际音乐节“中国当代歌剧之夜《夜宴》”演出剧照。"
       }
     ],
     "evidenceNote": "图片来源于北京国际音乐节回顾资料，页面图注明确标为2003年10月19、20日第6届BMF“中国当代歌剧之夜《夜宴》演出剧照”。",
@@ -1988,7 +1984,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://www.cnpoc.cn/cnpoc/mbz/200806/f4cbc8a6106b4b0a994368992929bc7d/images/15153357145.jpg",
+    "img": "remote/zhangxiezhuangyuan1.jpg",
     "sources": [
       "https://news.sina.com.cn/c/2003-10-05/1440866211s.shtml",
       "https://www.cnpoc.cn/cnpoc/mbz/200806/f4cbc8a6106b4b0a994368992929bc7d.shtml"
@@ -2015,14 +2011,14 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://www.cnpoc.cn/cnpoc/mbz/200806/f4cbc8a6106b4b0a994368992929bc7d/images/15153357145.jpg",
-        "alt": "《张协状元》剧照 1",
-        "caption": "中国国家京剧院剧目资料页图片。"
+        "url": "remote/zhangxiezhuangyuan1.jpg",
+        "altZh": "《张协状元》剧照 1",
+        "captionZh": "中国国家京剧院剧目资料页图片。"
       },
       {
-        "src": "https://www.cnpoc.cn/cnpoc/mbz/200806/f4cbc8a6106b4b0a994368992929bc7d/images/15153357566.jpg",
-        "alt": "《张协状元》剧照 2",
-        "caption": "中国国家京剧院剧目资料页图片。"
+        "url": "remote/zhangxiezhuangyuan2.jpg",
+        "altZh": "《张协状元》剧照 2",
+        "captionZh": "中国国家京剧院剧目资料页图片。"
       }
     ],
     "evidenceNote": "两张图片均来自中国国家京剧院《张协状元》剧目资料页；同页明确署名林兆华导演、王若皓改编、朱绍玉作曲。",
@@ -2044,7 +2040,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://photocdn.sohu.com/20051101/Img227360266.jpg",
+    "img": null,
     "sources": [
       "https://yule.sohu.com/20051101/n227360254.shtml",
       "https://bo.nacta.edu.cn/px/xm/ymnj/index.htm",
@@ -2073,19 +2069,15 @@ window.WORKS = [
         "url": "https://bo.nacta.edu.cn/px/xm/ymnj/index.htm"
       }
     ],
-    "media": [
-      {
-        "src": "https://photocdn.sohu.com/20051101/Img227360266.jpg",
-        "alt": "《杨门女将》剧照",
-        "caption": "搜狐2005年报道所配剧照；报道明确说明该版作品建立在2003年版《杨门女将》基础上，并列林兆华为导演。"
-      }
-    ],
-    "evidenceNote": "搜狐2005年11月1日报道明确：当时演出的《杨门女将（现代舞台版）》是在2003年版基础上重新改编制作，并列林兆华为导演；页面所附剧照现作为该作品的核实封面。",
-    "evidenceNote_en": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
+    "media": [],
+    "evidenceNote": "2005年报道明确说明当时的现代舞台版建立在2003年版《杨门女将》基础上并由林兆华执导。为避免把2005版剧照误标为2003版，本档案不再将2005年图片作为2003版封面。",
+    "evidenceNote_en": "The 2005 report states that the modern stage version was based on the 2003 production and directed by Lin Zhaohua. To avoid mislabeling a 2005 still as a 2003 image, no 2005 image is used as the 2003 cover.",
     "verificationStatus": "编剧/原作已逐项核验 / Playwright or source verified",
     "verificationSource": "https://bo.nacta.edu.cn/px/xm/ymnj/index.htm",
-    "coverAltZh": "《杨门女将》2003版剧照；2005年搜狐报道所配图",
-    "coverAltEn": "Still from the 2003 version of The Yang Family Generals, reproduced with the 2005 Sohu report"
+    "coverAltZh": "《杨门女将》2003版文字封面",
+    "coverAltEn": "Title card for the 2003 production of The Yang Family Generals",
+    "coverCaptionZh": "暂无与2003版直接对应且已本地核存的剧照；不使用2005版图片代替。",
+    "coverCaptionEn": "No locally archived still directly attributable to the 2003 production; the 2005 image is not reused here."
   },
   {
     "year": "2003",
@@ -2101,11 +2093,12 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8fg5B3l7gxFIY8NfUh94AtIxilLfBSwSTYIpwdEfxA&s=10",
+    "img": "remote/kuangrenriji.jpg",
     "sources": [
       "https://ent.sina.com.cn/2003-09-20/0159203591.html",
       "https://ent.sina.com.cn/2003-10-20/0953217601.html",
-      "https://cn.govopendata.com/renminribao/2003/10/22/9/"
+      "https://cn.govopendata.com/renminribao/2003/10/22/9/",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8fg5B3l7gxFIY8NfUh94AtIxilLfBSwSTYIpwdEfxA&s=10"
     ],
     "playwright": "曾力、郭文景 / Zeng Li & Guo Wenjing",
     "premiere": "2003",
@@ -2128,13 +2121,17 @@ window.WORKS = [
       {
         "label": "https://cn.govopendata.com/renminribao/2003/10/22/9/",
         "url": "https://cn.govopendata.com/renminribao/2003/10/22/9/"
+      },
+      {
+        "label": "用户提供并确认的舞台照片（Google 缓存图）",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8fg5B3l7gxFIY8NfUh94AtIxilLfBSwSTYIpwdEfxA&s=10"
       }
     ],
     "media": [
       {
-        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8fg5B3l7gxFIY8NfUh94AtIxilLfBSwSTYIpwdEfxA&s=10",
-        "alt": "《狂人日记》2003年歌剧舞台剧照",
-        "caption": "舞台背景可辨“吃人”字样；与鲁迅《狂人日记》的核心意象及林兆华2003年歌剧版本资料相互印证。"
+        "url": "remote/kuangrenriji.jpg",
+        "altZh": "《狂人日记》2003年歌剧舞台剧照",
+        "captionZh": "舞台背景可辨“吃人”字样；与鲁迅《狂人日记》的核心意象及林兆华2003年歌剧版本资料相互印证。"
       }
     ],
     "evidenceNote": "所附舞台图背景可辨“吃人”字样；2003年新华网/新浪资料确认林兆华执导郭文景歌剧《狂人日记》，并记载其舞美设计方案以灰、黑、白为主色。",
@@ -2388,7 +2385,7 @@ window.WORKS = [
     "endesc": "A cross-disciplinary production combining Peking Opera and symphonic forces. Peking University records Lin Zhaohua, then director of its Institute of Theatre, as the director of this orchestral version.",
     "quote": "京剧、昆曲是中国自己独特的瑰宝。",
     "q_en": "“Peking Opera and Kunqu are China's own distinctive treasures.”",
-    "img": "https://www.cnpoc.cn/cnpoc/mbz/200806/f4cbc8a6106b4b0a994368992929bc7d/images/15153357145.jpg",
+    "img": "remote/2005yangmennvjiang1.jpg",
     "sources": [
       "https://news.pku.edu.cn/xwzh/129-101771.htm",
       "https://www.cnpoc.cn/cnpoc/mby/200806/6df3fccf9a204624bb9f3187b0fc979e.shtml"
@@ -2418,14 +2415,17 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://www.cnpoc.cn/cnpoc/mbz/200806/f4cbc8a6106b4b0a994368992929bc7d/images/15153357145.jpg",
-        "alt": "《杨门女将》管弦乐版剧照 1",
-        "caption": "中国国家京剧院《杨门女将（管弦乐版）》资料页图片；该页明确列导演林兆华，并注明为2005版基础上的管弦乐队版。"
+        "url": "remote/2005yangmennvjiang1.jpg",
+        "altZh": "《杨门女将》管弦乐版剧照 1",
+        "captionZh": "中国国家京剧院《杨门女将（管弦乐版）》资料页图片；该页明确列导演林兆华，并注明为2005版基础上的管弦乐队版。"
       },
       {
-        "src": "https://www.cnpoc.cn/cnpoc/mbz/200806/f4cbc8a6106b4b0a994368992929bc7d/images/15153357566.jpg",
-        "alt": "《杨门女将》管弦乐版剧照 2",
-        "caption": "中国国家京剧院《杨门女将（管弦乐版）》资料页图片。"
+        "url": "remote/2005yangmennvjiang2.jpg",
+        "altZh": "《杨门女将》管弦乐版剧照 2",
+        "captionZh": "中国国家京剧院《杨门女将（管弦乐版）》资料页图片。"
+      },
+      {
+        "url": "remote/2005yangmennvjiang3.jpg"
       }
     ],
     "evidenceNote": "中国国家京剧院资料页明确列出《杨门女将（管弦乐版）》导演林兆华，并说明该版在2005版《杨门女将》基础上浓缩剧情、融入交响音乐；所附两张图片来自该院剧目资料页。",
@@ -2449,7 +2449,7 @@ window.WORKS = [
     "endesc": "A major production in the 2005 Strindberg in China series. Peking University records the production as opening that year's large-scale Strindberg programme.",
     "quote": "艺术的变革很大程度在于艺术形式上的表达。",
     "q_en": "“Artistic change lies to a great extent in how form is expressed.”",
-    "img": "https://photocdn.sohu.com/20050704/Img226186353.jpg",
+    "img": "remote/mengdexiju1.jpg",
     "sources": [
       "https://yule.sohu.com/20050704/n226186394.shtml",
       "https://yule.sohu.com/20050704/n226186352.shtml",
@@ -2476,34 +2476,34 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://photocdn.sohu.com/20050704/Img226186353.jpg",
-        "alt": "《梦的戏剧》排练照 1",
-        "caption": "2005年搜狐戏剧图片资料：《梦的戏剧》—1。"
+        "url": "remote/mengdexiju1.jpg",
+        "altZh": "《梦的戏剧》排练照 1",
+        "captionZh": "2005年搜狐戏剧图片资料：《梦的戏剧》—1。"
       },
       {
-        "src": "https://photocdn.sohu.com/20050704/Img226186371.jpg",
-        "alt": "《梦的戏剧》排练照 2",
-        "caption": "2005年搜狐戏剧图片资料：《梦的戏剧》—2。"
+        "url": "remote/mengdexiju2.jpg",
+        "altZh": "《梦的戏剧》排练照 2",
+        "captionZh": "2005年搜狐戏剧图片资料：《梦的戏剧》—2。"
       },
       {
-        "src": "https://photocdn.sohu.com/20050704/Img226186381.jpg",
-        "alt": "《梦的戏剧》排练照 3",
-        "caption": "2005年搜狐戏剧图片资料：《梦的戏剧》—3。"
+        "url": "remote/mengdexiju3.jpg",
+        "altZh": "《梦的戏剧》排练照 3",
+        "captionZh": "2005年搜狐戏剧图片资料：《梦的戏剧》—3。"
       },
       {
-        "src": "https://photocdn.sohu.com/20050704/Img226186389.jpg",
-        "alt": "《梦的戏剧》排练照 4",
-        "caption": "2005年搜狐戏剧图片资料：《梦的戏剧》—4。"
+        "url": "remote/mengdexiju4.jpg",
+        "altZh": "《梦的戏剧》排练照 4",
+        "captionZh": "2005年搜狐戏剧图片资料：《梦的戏剧》—4。"
       },
       {
-        "src": "https://photocdn.sohu.com/20050704/Img226186392.jpg",
-        "alt": "《梦的戏剧》排练照 5",
-        "caption": "2005年搜狐戏剧图片资料：《梦的戏剧》—5。"
+        "url": "remote/mengdexiju5.jpg",
+        "altZh": "《梦的戏剧》排练照 5",
+        "captionZh": "2005年搜狐戏剧图片资料：《梦的戏剧》—5。"
       },
       {
-        "src": "https://photocdn.sohu.com/20050704/Img226186395.jpg",
-        "alt": "《梦的戏剧》排练照 6",
-        "caption": "2005年搜狐戏剧图片资料：《梦的戏剧》—6。"
+        "url": "remote/mengdexiju6.jpg",
+        "altZh": "《梦的戏剧》排练照 6",
+        "captionZh": "2005年搜狐戏剧图片资料：《梦的戏剧》—6。"
       }
     ],
     "evidenceNote": "新增6张2005年搜狐《梦的戏剧》图片资料，逐页对应“图：林兆华排《梦的戏剧》—1至6”；图片保留原搜狐图床链接。 / Six 2005 Sohu image records have been mapped to the production, pages 1–6.",
@@ -2560,79 +2560,79 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "assets/pku/xi1.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/xi1.jpg"
       },
       {
-        "src": "assets/pku/xi2.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/xi2.jpg"
       },
       {
-        "src": "assets/pku/xi3.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/xi3.jpg"
       },
       {
-        "src": "assets/pku/xi4.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/xi4.jpg"
       },
       {
-        "src": "assets/pku/xi5.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/xi5.jpg"
       },
       {
-        "src": "assets/pku/xi6.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/xi6.jpg"
       },
       {
-        "src": "assets/pku/ren.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/ren.jpg"
       },
       {
-        "src": "assets/pku/ren1.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/ren1.jpg"
       },
       {
-        "src": "assets/pku/ren2.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/ren2.jpg"
       },
       {
-        "src": "assets/pku/ren3.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/ren3.jpg"
       },
       {
-        "src": "assets/pku/ren4.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/ren4.jpg"
       },
       {
-        "src": "assets/pku/piao.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/piao.jpg"
       },
       {
-        "src": "assets/pku/shidi.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/shidi.jpg"
       },
       {
-        "src": "assets/pku/linzhaohua1.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/linzhaohua1.jpg"
       },
       {
-        "src": "assets/pku/linzhaohua2.jpg",
         "caption": "旧北大戏剧研究所网站备份中的《娜拉的儿女》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "《娜拉的儿女》 / Nora’s Children"
+        "alt": "《娜拉的儿女》 / Nora’s Children",
+        "url": "assets/pku/linzhaohua2.jpg"
       }
     ],
     "evidenceNote": "图片全部来自旧北大戏剧研究所网站备份，对应旧站《娜拉的儿女》页面中的 xi1–xi6、ren、ren1–ren4、piao、shidi、linzhaohua1–2。 / All images are preserved from the former PKU Institute of Theatre website backup and correspond to its Nora’s Children page.",
@@ -2810,7 +2810,7 @@ window.WORKS = [
     "endesc": "A 2007 play directed by Lin Zhaohua and written by Xu Ying, first staged at Beijing Capital Theatre. It reworks the Yu Rang revenge story from Records of the Grand Historian through a contemporary theatrical form rather than a conventional historical drama.",
     "quote": "",
     "q_en": "",
-    "img": "assets/pku/cike003.jpg",
+    "img": "assets/pku/cikeseal.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2007-06-15/14501598803.shtml",
       "https://ent.sina.com.cn/j/2009-10-17/17172734601.shtml"
@@ -2862,71 +2862,63 @@ window.WORKS = [
         "type": "poster",
         "captionZh": "《刺客》演出海报；旧北大戏剧研究所网站备份资料。",
         "captionEn": "The Assassin poster; preserved in the old PKU Institute of Theatre website archive.",
-        "altZh": "《刺客》演出海报；旧北大戏剧研究所网站备份资料。",
-        "altEn": "Poster for The Assassin from the preserved PKU Institute of Theatre website archive."
+        "altZh": "《刺客》演出海报",
+        "altEn": "The Assassin poster"
       },
       {
         "url": "assets/pku/cike001.jpg",
-        "caption": "《刺客》排练现场；旧北大戏剧研究所网站备份资料。",
-        "type": "rehearsal",
-        "captionZh": "《刺客》排练现场；旧北大戏剧研究所网站备份资料。",
-        "captionEn": "Rehearsal scene from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
-        "altZh": "《刺客》排练现场；多人围坐讨论的《刺客》排练资料图。",
-        "altEn": "Rehearsal image from The Assassin showing performers gathered in discussion."
+        "caption": "《刺客》历史资料图 1；旧北大戏剧研究所网站备份资料。",
+        "type": "historical-site",
+        "captionZh": "《刺客》历史资料图 1；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Archival image 1 from the former PKU Institute of Theatre website.",
+        "altZh": "《刺客》历史资料图 1",
+        "altEn": "The Assassin archival image 1"
       },
       {
         "url": "assets/pku/cike002.jpg",
-        "caption": "《刺客》群体形体排练；旧北大戏剧研究所网站备份资料。",
-        "type": "rehearsal",
-        "captionZh": "《刺客》群体形体排练；旧北大戏剧研究所网站备份资料。",
-        "captionEn": "Ensemble physical rehearsal for The Assassin; preserved in the old PKU Institute of Theatre website archive.",
-        "altZh": "《刺客》群体形体排练资料图。",
-        "altEn": "Ensemble physical rehearsal image from The Assassin."
+        "caption": "《刺客》历史资料图 2；旧北大戏剧研究所网站备份资料。",
+        "type": "historical-site",
+        "captionZh": "《刺客》历史资料图 2；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Archival image 2 from the former PKU Institute of Theatre website.",
+        "altZh": "《刺客》历史资料图 2",
+        "altEn": "The Assassin archival image 2"
       },
       {
         "url": "assets/pku/cike003.jpg",
-        "caption": "《刺客》群体排练资料图；旧北大戏剧研究所网站备份资料。",
-        "type": "rehearsal",
-        "captionZh": "《刺客》群体排练资料图；旧北大戏剧研究所网站备份资料。",
-        "captionEn": "Ensemble rehearsal image from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
-        "altZh": "《刺客》群体排练资料图。",
-        "altEn": "Ensemble rehearsal image from The Assassin."
+        "caption": "《刺客》历史资料图 3；旧北大戏剧研究所网站备份资料。",
+        "type": "historical-site",
+        "captionZh": "《刺客》历史资料图 3；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Archival image 3 from the former PKU Institute of Theatre website.",
+        "altZh": "《刺客》历史资料图 3",
+        "altEn": "The Assassin archival image 3"
       },
       {
         "url": "assets/pku/cike004.jpg",
-        "caption": "《刺客》排练现场；旧北大戏剧研究所网站备份资料。",
-        "type": "rehearsal",
-        "captionZh": "《刺客》排练现场；旧北大戏剧研究所网站备份资料。",
-        "captionEn": "Rehearsal scene from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
-        "altZh": "《刺客》排练现场资料图。",
-        "altEn": "Rehearsal scene from The Assassin."
+        "caption": "《刺客》历史资料图 4；旧北大戏剧研究所网站备份资料。",
+        "type": "historical-site",
+        "captionZh": "《刺客》历史资料图 4；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Archival image 4 from the former PKU Institute of Theatre website.",
+        "altZh": "《刺客》历史资料图 4",
+        "altEn": "The Assassin archival image 4"
       },
       {
         "url": "assets/pku/cike005.jpg",
-        "caption": "《刺客》形体排练资料图；旧北大戏剧研究所网站备份资料。",
-        "type": "rehearsal",
-        "captionZh": "《刺客》形体排练资料图；旧北大戏剧研究所网站备份资料。",
-        "captionEn": "Physical rehearsal image from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
-        "altZh": "《刺客》形体排练资料图。",
-        "altEn": "Physical rehearsal image from The Assassin."
-      },
-      {
-        "url": "https://i3.sinaimg.cn/ent/j/2009-10-17/U2223P28T3D2734601F346DT20091017171737.JPG",
-        "captionZh": "《刺客》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。",
-        "captionEn": "Production still from The Assassin; archival image published by Sina Entertainment in 2009.",
-        "altZh": "《刺客》剧照；新浪娱乐历史专题资料图。",
-        "altEn": "Production still from The Assassin from Sina Entertainment’s historical archive.",
-        "caption": "《刺客》剧照；新浪娱乐“林兆华戏剧工作室”资料图片，2009年整理发布。"
+        "caption": "《刺客》历史资料图 5；旧北大戏剧研究所网站备份资料。",
+        "type": "historical-site",
+        "captionZh": "《刺客》历史资料图 5；旧北大戏剧研究所网站备份资料。",
+        "captionEn": "Archival image 5 from the former PKU Institute of Theatre website.",
+        "altZh": "《刺客》历史资料图 5",
+        "altEn": "The Assassin archival image 5"
       }
     ],
     "evidenceNote": "作品基本演出信息、主创与创作方法由2007年同期报道及2013年国家大剧院资料交叉核验；本地图片来自旧北大戏剧研究所网站备份，作为历史资料图使用。 / Basic production information, credits and creative approach are cross-checked against 2007 reports and 2013 National Centre for the Performing Arts records; local images are preserved from the old PKU Institute of Theatre website archive.",
     "evidenceNote_en": "Basic production information, credits and creative approach are cross-checked against 2007 reports and 2013 National Centre for the Performing Arts records; local images are preserved from the old PKU Institute of Theatre website archive.",
     "verificationStatus": "首演、导演、编剧、主演与主要创作方向已交叉核验 / Premiere, director, playwright, leading cast and main creative approach cross-checked",
     "verificationSource": "https://ent.sina.com.cn/j/2007-06-15/14501598803.shtml",
-    "coverCaptionZh": "《刺客》群体排练资料图；旧北大戏剧研究所网站备份资料。",
-    "coverCaptionEn": "Ensemble rehearsal image from The Assassin; preserved in the old PKU Institute of Theatre website archive.",
-    "coverAltZh": "《刺客》群体排练资料图。",
-    "coverAltEn": "Ensemble rehearsal image from The Assassin."
+    "coverCaptionZh": "《刺客》演出海报；旧北大戏剧研究所网站备份资料。",
+    "coverCaptionEn": "The Assassin poster; preserved in the old PKU Institute of Theatre website archive.",
+    "coverAltZh": "《刺客》演出海报",
+    "coverAltEn": "The Assassin poster"
   },
   {
     "year": "2007",
@@ -2944,7 +2936,7 @@ window.WORKS = [
     "endesc": "A Shakespearean Roman tragedy staged with contemporary rock music and large-scale physical scenes. The production later toured to the Edinburgh International Festival in 2013.",
     "quote": "人们创造历史，也不断地毁灭自己的历史。",
     "q_en": "“People create history, and continually destroy their own history.”",
-    "img": "https://i0.sinaimg.cn/cj/roll/20071207/3e633e129ffef90abcbcd2e847491eef.jpg",
+    "img": "remote/dajiangjunkouliulan.jpg",
     "sources": [
       "https://zjrb.zjol.com.cn/html/2007-10/12/content_451289.htm",
       "https://finance.sina.com.cn/roll/20071207/03201842167.shtml"
@@ -2974,13 +2966,13 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "https://i0.sinaimg.cn/cj/roll/20071207/3e633e129ffef90abcbcd2e847491eef.jpg",
         "caption": "大将军寇流兰 — 公开资料图像 / archival image",
         "type": "photo/poster",
         "captionZh": "大将军寇流兰 — 公开资料图像",
         "captionEn": "archival image",
         "altZh": "大将军寇流兰 — 公开资料图像",
-        "altEn": "archival image"
+        "altEn": "archival image",
+        "url": "remote/dajiangjunkouliulan.jpg"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
@@ -3031,9 +3023,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "assets/pku/libai1.jpg",
         "caption": "北京大学戏剧研究所旧站备份中的《李白》图片。 / Image preserved in the former PKU Institute of Theatre website archive.",
-        "alt": "歌剧《李白》 / Li Bai"
+        "alt": "歌剧《李白》 / Li Bai",
+        "url": "assets/pku/libai1.jpg"
       }
     ],
     "evidenceNote": "作品信息依据旧北大戏剧研究所网站备份与公开人物资料核对；图片直接来自旧站备份 assets/pku/libai1.jpg。 / Work information is cross-checked against the former PKU theatre website archive and public biographical material; the image is preserved from the old-site backup.",
@@ -3060,7 +3052,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "assets/pku/huozangchang1.jpg",
+    "img": "assets/pku/huozangchang.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2007-01-11/15241406151.html",
       "https://news.sohu.com/20070103/n247398856.shtml"
@@ -3090,31 +3082,40 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "assets/pku/huozangchang1.jpg",
-        "caption": "活着还是死去 — 北大戏剧研究所旧站资料图",
+        "url": "assets/pku/huozangchang.jpg",
+        "caption": "《活着还是死去》北大戏剧研究所旧站资料图。",
         "type": "historical-site",
-        "captionZh": "活着还是死去 — 北大戏剧研究所旧站资料图",
-        "captionEn": "Archival image from the former Peking University Institute of Theatre website",
-        "altZh": "活着还是死去 — 旧站资料图 1",
-        "altEn": "活着还是死去 — historical-site image 1"
+        "captionZh": "《活着还是死去》北大戏剧研究所旧站资料图。",
+        "captionEn": "Archival image from the former PKU Institute of Theatre website.",
+        "altZh": "《活着还是死去》旧站资料图",
+        "altEn": "Archival image from the former PKU Institute of Theatre website."
+      },
+      {
+        "url": "assets/pku/huozangchang1.jpg",
+        "caption": "《活着还是死去》北大戏剧研究所旧站资料图 1。",
+        "type": "historical-site",
+        "captionZh": "《活着还是死去》北大戏剧研究所旧站资料图 1。",
+        "captionEn": "Archival image 1 from the former PKU Institute of Theatre website.",
+        "altZh": "《活着还是死去》旧站资料图 1",
+        "altEn": "Archival image 1 from the former PKU Institute of Theatre website."
       },
       {
         "url": "assets/pku/huozangchang2.jpg",
-        "caption": "活着还是死去 — 北大戏剧研究所旧站资料图",
+        "caption": "《活着还是死去》北大戏剧研究所旧站资料图 2。",
         "type": "historical-site",
-        "captionZh": "活着还是死去 — 北大戏剧研究所旧站资料图",
-        "captionEn": "Archival image from the former Peking University Institute of Theatre website",
-        "altZh": "活着还是死去 — 旧站资料图 2",
-        "altEn": "活着还是死去 — historical-site image 2"
+        "captionZh": "《活着还是死去》北大戏剧研究所旧站资料图 2。",
+        "captionEn": "Archival image 2 from the former PKU Institute of Theatre website.",
+        "altZh": "《活着还是死去》旧站资料图 2",
+        "altEn": "Archival image 2 from the former PKU Institute of Theatre website."
       }
     ],
     "evidenceNote": "旧北大戏剧研究所网站 gzs.php?n=1012&lang=cn 明确将上述图片列于《活着还是死去》条目；本地文件来自旧站备份资料。",
     "evidenceNote_en": "The former Peking University Institute of Theatre site, gzs.php?n=1012&lang=cn, explicitly associates these images with 活着还是死去; local files are preserved from the historical-site backup.",
     "verificationStatus": "本轮逐项核验 / Verified in this round",
-    "coverCaptionZh": "活着还是死去 — 北大戏剧研究所旧站资料图",
-    "coverCaptionEn": "Archival image from the former Peking University Institute of Theatre website",
-    "coverAltZh": "活着还是死去 — 北大戏剧研究所旧站资料图",
-    "coverAltEn": "Archival image from the former Peking University Institute of Theatre website",
+    "coverCaptionZh": "《活着还是死去》北大戏剧研究所旧站资料图。",
+    "coverCaptionEn": "Archival image from the former PKU Institute of Theatre website.",
+    "coverAltZh": "《活着还是死去》旧站资料图",
+    "coverAltEn": "Archival image from the former PKU Institute of Theatre website",
     "archiveSource": "gzs.php?n=1012&lang=cn"
   },
   {
@@ -3133,7 +3134,7 @@ window.WORKS = [
     "endesc": "In 2008, Lin Zhaohua directed Maurice Maeterlinck’s The Blind with twelve blind performers at Nine Theatre in the Chaoyang District Culture Center. Public materials identify Beijing Hongdandan Education & Culture Exchange Center as producer and Lin Zhaohua Theatre Studio as supervising organization.",
     "quote": "我们孤独地站在一起。",
     "q_en": "We stand alone together.",
-    "img": "https://i1.sinaimg.cn/ent/j/2008-04-30/a984626df207451c1236a9f959bd27aa.jpg",
+    "img": "remote/mangren.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2008-04-30/00182009103.shtml",
       "https://groups.google.com/g/elvitawei/c/C2wpGi-GHIg"
@@ -3163,13 +3164,13 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "https://i1.sinaimg.cn/ent/j/2008-04-30/a984626df207451c1236a9f959bd27aa.jpg",
         "caption": "《盲人》2008年首演海报 / 2008 premiere poster",
         "type": "poster",
         "captionZh": "《盲人》2008年首演海报",
         "captionEn": "2008 premiere poster for The Blind",
         "altZh": "《盲人》2008年首演海报，黑白人像组成横向画面。",
-        "altEn": "2008 premiere poster for The Blind, composed of black-and-white portraits."
+        "altEn": "2008 premiere poster for The Blind, composed of black-and-white portraits.",
+        "url": "remote/mangren.jpg"
       }
     ],
     "evidenceNote": "首演日期、场地、12位盲人演员、主办/监制及海报来源已核实。",
@@ -3196,7 +3197,7 @@ window.WORKS = [
     "endesc": "An original Beijing People's Art Theatre production written by Liu Heng and directed by Lin Zhaohua. It premiered at the Capital Theatre on September 25, 2009, focusing on residents of a Beijing courtyard in the year before the city's liberation.",
     "quote": "“戏比天大。”",
     "q_en": "“Theatre comes before everything.”",
-    "img": "https://i3.sinaimg.cn/ent/j/2009-09-26/U3996P28T3D2714320F326DT20090926143918.jpg",
+    "img": "remote/wotouhuiguan.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2009-09-26/14392714320.shtml",
       "https://ent.sina.com.cn/f/h/wotouhuiguan/",
@@ -3231,13 +3232,19 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "https://i3.sinaimg.cn/ent/j/2009-09-26/U3996P28T3D2714320F326DT20090926143918.jpg",
         "caption": "窝头会馆 — 公开资料图像 / archival image",
         "type": "photo/poster",
         "captionZh": "窝头会馆 — 公开资料图像",
         "captionEn": "archival image",
         "altZh": "窝头会馆 — 公开资料图像",
-        "altEn": "archival image"
+        "altEn": "archival image",
+        "url": "remote/wotouhuiguan.jpg"
+      },
+      {
+        "url": "remote/wotouhuiguan1.jpg"
+      },
+      {
+        "url": "remote/wotouhuiguan2.jpg"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
@@ -3263,7 +3270,7 @@ window.WORKS = [
     "endesc": "A major original work in the first Lin Zhaohua Theatre Festival in 2010. It observes a rapidly changing society through the fragmented speech and perception of an elderly man with dementia.",
     "quote": "“他是那么微不足道，就像一粒沙子。”",
     "q_en": "“He is so insignificant, like a grain of sand.”",
-    "img": "https://photocdn.sohu.com/20110531/Img308969611.jpg",
+    "img": "remote/huijia.jpg",
     "sources": [
       "https://xiquwenhua.net/xiqudaquan/xinwen/2010/25235.html",
       "https://ent.sina.com.cn/j/2010-12-23/17063186869.shtml"
@@ -3293,9 +3300,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://photocdn.sohu.com/20110531/Img308969611.jpg",
-        "caption": "公开报道中的对应作品海报/剧照",
-        "alt": "回家 2010"
+        "url": "remote/huijia.jpg",
+        "altZh": "回家 2010",
+        "captionZh": "公开报道中的对应作品海报/剧照"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 图像封面补入公开报道中的对应作品资料图。",
@@ -3316,7 +3323,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://photocdn.sohu.com/20101215/Img278321699.jpg",
+    "img": "remote/laoshewuze1.jpg",
     "sources": [
       "https://yule.sohu.com/20101215/n278321698.shtml",
       "https://ent.sina.com.cn/j/2010-12-15/21183178309.shtml",
@@ -3356,24 +3363,24 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://photocdn.sohu.com/20101215/Img278321699.jpg",
-        "alt": "《老舍五则》柳家大院剧照",
-        "caption": "《老舍五则》2010年资料图：《柳家大院》。"
+        "url": "remote/laoshewuze1.jpg",
+        "altZh": "《老舍五则》柳家大院剧照",
+        "captionZh": "《老舍五则》2010年资料图：《柳家大院》。"
       },
       {
-        "src": "https://photocdn.sohu.com/20101215/Img278321701.jpg",
-        "alt": "《老舍五则》也是三角剧照",
-        "caption": "《老舍五则》2010年资料图：《也是三角》。"
+        "url": "remote/laoshewuze2.jpg",
+        "altZh": "《老舍五则》也是三角剧照",
+        "captionZh": "《老舍五则》2010年资料图：《也是三角》。"
       },
       {
-        "src": "https://photocdn.sohu.com/20101215/Img278321702.jpg",
-        "alt": "《老舍五则》上任剧照",
-        "caption": "《老舍五则》2010年资料图：《上任》。"
+        "url": "remote/laoshewuze3.jpg",
+        "altZh": "《老舍五则》上任剧照",
+        "captionZh": "《老舍五则》2010年资料图：《上任》。"
       },
       {
-        "src": "https://photocdn.sohu.com/20101215/Img278321703.jpg",
-        "alt": "《老舍五则》兔剧照",
-        "caption": "《老舍五则》2010年资料图：《兔》。"
+        "url": "remote/laoshewuze4.jpg",
+        "altZh": "《老舍五则》兔剧照",
+        "captionZh": "《老舍五则》2010年资料图：《兔》。"
       }
     ],
     "evidenceNote": "首图及剧照采用2010年林兆华版《老舍五则》公开图片资料；2024新华网链接仅用于新版资料区分，不将2024林熙越版图片混入林兆华2010年作品。 / Images are from the 2010 Lin Zhaohua production; the 2024 Xinhua article is retained only to distinguish the later Lin Xiyue revival.",
@@ -3396,7 +3403,7 @@ window.WORKS = [
     "endesc": "A historical allegory centered on Zigong, a disciple of Confucius. It was one of the original new productions presented at the first Lin Zhaohua Theatre Festival in 2010.",
     "quote": "“我想让观众看到的是当代人的处境。”",
     "q_en": "“What I want the audience to see is the predicament of people today.”",
-    "img": "https://www.sinaimg.cn/dy/slidenews/4_img/2010_49/703_225633_369245.jpg",
+    "img": "remote/shuike.jpg",
     "sources": [
       "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM"
     ],
@@ -3422,13 +3429,13 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "https://www.sinaimg.cn/dy/slidenews/4_img/2010_49/703_225633_369245.jpg",
         "caption": "说客 — 公开资料图像 / archival image",
         "type": "photo/poster",
         "captionZh": "说客 — 公开资料图像",
         "captionEn": "archival image",
         "altZh": "说客 — 公开资料图像",
-        "altEn": "archival image"
+        "altEn": "archival image",
+        "url": "remote/shuike.jpg"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
@@ -3453,7 +3460,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://i1.sinaimg.cn/ent/j/2010-11-08/U4350P28T3D3138615F326DT20101108020011.jpg",
+    "img": "remote/menke.jpg",
     "sources": [
       "https://groups.google.com/g/elvita-wei/c/PNrH7uc9xlM",
       "https://ent.sina.com.cn/j/2010-11-08/02003138615.shtml"
@@ -3479,9 +3486,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://i1.sinaimg.cn/ent/j/2010-11-08/U4350P28T3D3138615F326DT20101108020011.jpg",
-        "alt": "《门客》演出资料图",
-        "caption": "新浪娱乐2010年林兆华戏剧邀请展《门客》资料页配图。"
+        "url": "remote/menke.jpg",
+        "altZh": "《门客》演出资料图",
+        "captionZh": "新浪娱乐2010年林兆华戏剧邀请展《门客》资料页配图。"
       }
     ],
     "evidenceNote": "新浪娱乐2010年林兆华戏剧邀请展《门客》资料页直接配图，页面明确标注作品、导演易立明、编剧徐瑛及主演闫楠、李云飞。注意：该作品并非林兆华亲自导演，因此档案保留其在旧作品表中的条目，但不把“林兆华导演”作为本图依据。",
@@ -3504,7 +3511,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://photocdn.sohu.com/20111128/Img327130155.jpg",
+    "img": "remote/yifannuofu.jpg",
     "sources": [
       "https://yule.sohu.com/20111128/n327129472.shtml"
     ],
@@ -3533,9 +3540,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://photocdn.sohu.com/20111128/Img327130155.jpg",
-        "alt": "《伊凡诺夫》海报",
-        "caption": "2011林兆华戏剧邀请展《伊凡诺夫》公开海报。"
+        "url": "remote/yifannuofu.jpg",
+        "altZh": "《伊凡诺夫》海报",
+        "captionZh": "2011林兆华戏剧邀请展《伊凡诺夫》公开海报。"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
@@ -3557,7 +3564,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://i1.sinaimg.cn/ent/j/2011-12-01/U4350P28T3D3496257F358DT20111201103054.jpg",
+    "img": "remote/mingruoqinxian.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2011-12-01/09533496257.shtml?from=wap",
       "https://ent.sina.com.cn/j/2011-11-23/00403487824.shtml?from=wap"
@@ -3583,9 +3590,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://i1.sinaimg.cn/ent/j/2011-12-01/U4350P28T3D3496257F358DT20111201103054.jpg",
-        "alt": "歌剧《命若琴弦》剧照",
-        "caption": "2011新浪娱乐公开剧照。"
+        "url": "remote/mingruoqinxian.jpg",
+        "altZh": "歌剧《命若琴弦》剧照",
+        "captionZh": "2011新浪娱乐公开剧照。"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
@@ -3606,7 +3613,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://dzwww.com/preview/yishujie/hjzy/hdtp/201304/W020130417638729663155.jpg",
+    "img": "remote/beijingyougezhongguancun1.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2012-10-17/10003765403.shtml",
       "https://dzwww.com/preview/yishujie/hjzy/hdtp/201304/t20130417_8374062.htm"
@@ -3637,24 +3644,24 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://dzwww.com/preview/yishujie/hjzy/hdtp/201304/W020130417638729663155.jpg",
-        "alt": "《北京有个中关村》剧照 1",
-        "caption": "第十届中国艺术节资料页《海淀之北（北京有个中关村）》剧照，摄影陈雄。"
+        "url": "remote/beijingyougezhongguancun1.jpg",
+        "altZh": "《北京有个中关村》剧照 1",
+        "captionZh": "第十届中国艺术节资料页《海淀之北（北京有个中关村）》剧照，摄影陈雄。"
       },
       {
-        "src": "https://dzwww.com/preview/yishujie/hjzy/hdtp/201304/W020130417638729666040.jpg",
-        "alt": "《北京有个中关村》剧照 2",
-        "caption": "第十届中国艺术节资料页剧照，摄影陈雄。"
+        "url": "remote/beijingyougezhongguancun2.jpg",
+        "altZh": "《北京有个中关村》剧照 2",
+        "captionZh": "第十届中国艺术节资料页剧照，摄影陈雄。"
       },
       {
-        "src": "https://dzwww.com/preview/yishujie/hjzy/hdtp/201304/W020130417638729978838.jpg",
-        "alt": "《北京有个中关村》剧照 3",
-        "caption": "第十届中国艺术节资料页剧照。"
+        "url": "remote/beijingyougezhongguancun3.jpg",
+        "altZh": "《北京有个中关村》剧照 3",
+        "captionZh": "第十届中国艺术节资料页剧照。"
       },
       {
-        "src": "https://dzwww.com/preview/yishujie/hjzy/hdtp/201304/W020130417638730127125.jpg",
-        "alt": "《北京有个中关村》剧照 4",
-        "caption": "第十届中国艺术节资料页剧照。"
+        "url": "remote/beijingyougezhongguancun4.jpg",
+        "altZh": "《北京有个中关村》剧照 4",
+        "captionZh": "第十届中国艺术节资料页剧照。"
       }
     ],
     "evidenceNote": "第十届中国艺术节官方资料页以《海淀之北（北京有个中关村）》为标题，连续列出多张剧照，并明确注明摄影者；该页同时列出林兆华为艺术总监、王丁一导演。",
@@ -3677,7 +3684,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://i1.sinaimg.cn/ent/j/2012-09-21/U4350P28T3D3724801F346DT20120921105136.jpg",
+    "img": "remote/tianezhigelunyancaoyouhai0.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2012-09-21/10513748071.shtml",
       "https://old.lifeweek.com.cn/2012/1011/38735.shtml"
@@ -3712,9 +3719,18 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://i1.sinaimg.cn/ent/j/2012-09-21/U4350P28T3D3724801F346DT20120921105136.jpg",
-        "alt": "《论烟草有害》《天鹅之歌》剧照",
-        "caption": "2012新浪娱乐公开资料图。"
+        "url": "remote/tianezhigelunyancaoyouhai0.jpg",
+        "altZh": "《论烟草有害》《天鹅之歌》剧照",
+        "captionZh": "2012新浪娱乐公开资料图。"
+      },
+      {
+        "url": "remote/tianezhigelunyancaoyouhai1.jpg"
+      },
+      {
+        "url": "remote/tianezhigelunyancaoyouhai3.jpg"
+      },
+      {
+        "url": "remote/tianezhigelunyancaoyouhai4.jpg"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
@@ -3737,7 +3753,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://photocdn.sohu.com/20120313/Img337599176.jpg",
+    "img": "remote/shanhaijingzhuan1.jpg",
     "sources": [
       "https://yule.sohu.com/20120303/n337599175.shtml"
     ],
@@ -3762,14 +3778,14 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://photocdn.sohu.com/20120313/Img337599176.jpg",
-        "alt": "《山海经传》凤凰剧照",
-        "caption": "2012年搜狐资料图：《山海经传》中凤凰形象。"
+        "url": "remote/shanhaijingzhuan1.jpg",
+        "altZh": "《山海经传》凤凰剧照",
+        "captionZh": "2012年搜狐资料图：《山海经传》中凤凰形象。"
       },
       {
-        "src": "https://photocdn.sohu.com/20120313/Img337599177.jpg",
-        "alt": "《山海经传》傩戏面具剧照",
-        "caption": "2012年搜狐资料图：贵州民间造像艺术元素。"
+        "url": "remote/shanhaijingzhuan2.jpg",
+        "altZh": "《山海经传》傩戏面具剧照",
+        "captionZh": "2012年搜狐资料图：贵州民间造像艺术元素。"
       }
     ],
     "evidenceNote": "本轮以当年报刊、剧院/艺术机构资料、海外剧院档案及后续回顾交叉核验；未能确认的字段继续标注“待核档”。 / This round cross-checked period press, theatre/art-institution records, overseas theatre archives and later retrospectives; uncertain fields remain marked for further archival verification.",
@@ -3791,7 +3807,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://www.chinanews.com/yl/2013/11-04/U329P4T8D5460110F107DT20131104132440.jpg",
+    "img": "remote/yiniaoliuming.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2013-10-29/10144032474.shtml",
       "https://www.chinanews.com/cul/2013/11-14/5502219.shtml",
@@ -3826,9 +3842,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://www.chinanews.com/yl/2013/11-04/U329P4T8D5460110F107DT20131104132440.jpg",
-        "caption": "公开报道中的对应作品海报/剧照",
-        "alt": "一鸟六命 2013"
+        "url": "remote/yiniaoliuming.jpg",
+        "altZh": "一鸟六命 2013",
+        "captionZh": "公开报道中的对应作品海报/剧照"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 图像封面补入公开报道中的对应作品资料图。",
@@ -3851,7 +3867,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://i3.sinaimg.cn/ent/2013/0521/U4350P28DT20130521201652.jpg",
+    "img": "remote/longfusi.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2013-05-21/20293926008.shtml",
       "https://www.xiquwenhua.net/xiqudaquan/xinwen/2013/27142.html",
@@ -3886,9 +3902,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://i3.sinaimg.cn/ent/2013/0521/U4350P28DT20130521201652.jpg",
-        "caption": "公开报道中的对应作品海报/剧照",
-        "alt": "隆福寺 2013"
+        "url": "remote/longfusi.jpg",
+        "altZh": "隆福寺 2013",
+        "captionZh": "公开报道中的对应作品海报/剧照"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 图像封面补入公开报道中的对应作品资料图。",
@@ -3911,7 +3927,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://n.sinaimg.cn/transform/20141028/awrnsfu3189900.jpg",
+    "img": "remote/renmingongdi.jpg",
     "sources": [
       "https://www.chinawriter.com.cn/2014/2014-08-08/214184.html"
     ],
@@ -3936,9 +3952,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://n.sinaimg.cn/transform/20141028/awrnsfu3189900.jpg",
-        "caption": "公开报道中的对应作品海报/剧照",
-        "alt": "人民公敌 2014"
+        "url": "remote/renmingongdi.jpg",
+        "altZh": "人民公敌 2014",
+        "captionZh": "公开报道中的对应作品海报/剧照"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification. 图像封面补入公开报道中的对应作品资料图。",
@@ -3961,7 +3977,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://i0.sinaimg.cn/ent/2014/0909/U4350P28DT20140909164237.jpg",
+    "img": "remote/gongmin.jpg",
     "sources": [
       "https://ent.sina.com.cn/j/2014-09-09/17254206033.shtml?from=wap",
       "https://culture.people.com.cn/n/2014/0831/c172318-25573883.html"
@@ -3991,9 +4007,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://i0.sinaimg.cn/ent/2014/0909/U4350P28DT20140909164237.jpg",
-        "alt": "《公民》海报",
-        "caption": "2014新浪娱乐《公民》公开海报。"
+        "url": "remote/gongmin.jpg",
+        "altZh": "《公民》海报",
+        "captionZh": "2014新浪娱乐《公民》公开海报。"
       }
     ],
     "evidenceNote": "字段按“已核实 / 待核档”区分；未找到可靠证据的字段不会虚构。 / Fields distinguish verified information from items awaiting archival verification.",
@@ -4015,7 +4031,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://image.chinawriter.com.cn/cr/2015/0720/1082977249.jpg",
+    "img": "remote/yongle.jpg",
     "sources": [
       "https://www.chncpa.org/zxdt_331/zxdtlm/mtsj_334/201504/t20150409_124139.shtml",
       "https://www.chinawriter.com.cn/wutai/2015/2015-07-20/248717.html"
@@ -4041,9 +4057,9 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://image.chinawriter.com.cn/cr/2015/0720/1082977249.jpg",
-        "alt": "歌剧《永乐》剧照",
-        "caption": "中国作家网/中国艺术报2015年北京首演报道所载《永乐》剧照，摄影王小京。"
+        "url": "remote/yongle.jpg",
+        "altZh": "歌剧《永乐》剧照",
+        "captionZh": "中国作家网/中国艺术报2015年北京首演报道所载《永乐》剧照，摄影王小京。"
       }
     ],
     "evidenceNote": "中国作家网转载《中国艺术报》的2015年报道明确将图片标为“歌剧《永乐》剧照”，并署名王小京；正文同时明确叶小纲作曲、陈钦智编剧、林兆华导演。图片为同一制作后续北京首演资料。",
@@ -4066,7 +4082,7 @@ window.WORKS = [
     "endesc": "A Lin Zhaohua-directed work included in the supplied catalogue.",
     "quote": "",
     "q_en": "",
-    "img": "https://photocdn.sohu.com/20140514/Img399538232.jpg",
+    "img": "remote/leiyu2014.jpg",
     "sources": [
       "https://culture.people.com.cn/BIG5/n/2014/0102/c87423-24007650-2.html",
       "https://yule.sohu.com/20140514/n399535441.shtml",
@@ -4093,14 +4109,14 @@ window.WORKS = [
     ],
     "media": [
       {
-        "src": "https://photocdn.sohu.com/20140514/Img399538232.jpg",
-        "alt": "《雷雨2014》海报",
-        "caption": "2014年搜狐娱乐/天津日报资料：《雷雨2014》海报。"
+        "url": "remote/leiyu2014.jpg",
+        "altZh": "《雷雨2014》海报",
+        "captionZh": "2014年搜狐娱乐/天津日报资料：《雷雨2014》海报。"
       },
       {
-        "src": "https://photocdn.sohu.com/20140514/Img399538233.jpg",
-        "alt": "《雷雨2014》剧照",
-        "caption": "2014年搜狐娱乐/天津日报资料：《雷雨》剧照。"
+        "url": "remote/leiyu2014-1.jpg",
+        "altZh": "《雷雨2014》剧照",
+        "captionZh": "2014年搜狐娱乐/天津日报资料：《雷雨》剧照。"
       }
     ],
     "evidenceNote": "搜狐娱乐2014年5月14日报道直接标注《雷雨2014》海报与《雷雨》剧照；正文明确为林兆华与濮存昕等创作的《雷雨2014》。",
@@ -4124,7 +4140,7 @@ window.WORKS = [
     "endesc": "Lin Zhaohua’s 2016 Chinese-folk adaptation of Shakespeare’s comedy, retaining the original framework while incorporating Chinese folk and contemporary comic forms.",
     "quote": "“戏剧就是欢玩，要‘high’！”",
     "q_en": "“Theatre is about playing and having fun.”",
-    "img": "https://paper.people.com.cn/rmrbhwb/res/2016-11/19/11/rmrbhwb2016111911p35_b.jpg",
+    "img": "remote/zhongxiayezhimeng0.jpeg",
     "sources": [
       "https://paper.people.com.cn/rmrbhwb/html/2016-11/19/content_1728898.htm",
       "https://www.jiemian.com/article/992671.html"
@@ -4154,28 +4170,28 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "https://paper.people.com.cn/rmrbhwb/res/2016-11/19/11/rmrbhwb2016111911p35_b.jpg",
         "caption": "2016年排练现场；《人民日报海外版》2016年11月19日配图。",
         "captionZh": "2016年排练现场；《人民日报海外版》2016年11月19日配图。",
         "captionEn": "Rehearsal scene; image published by People’s Daily Overseas Edition on 19 November 2016.",
         "altZh": "2016年排练现场；《人民日报海外版》2016年11月19日配图。",
-        "altEn": "Rehearsal scene; image published by People’s Daily Overseas Edition on 19 November 2016."
+        "altEn": "Rehearsal scene; image published by People’s Daily Overseas Edition on 19 November 2016.",
+        "url": "remote/zhongxiayezhimeng0.jpeg"
       },
       {
-        "url": "https://5b0988e595225.cdn.sohucs.com/images/20190315/09b3b2e2125e45f7887475d41c9a80a5.jpeg",
         "caption": "后续巡演资料中的《仲夏夜之梦》演出剧照。",
         "captionZh": "后续巡演资料中的《仲夏夜之梦》演出剧照。",
         "captionEn": "Production still from a later touring record of A Midsummer Night’s Dream.",
         "altZh": "后续巡演资料中的《仲夏夜之梦》演出剧照。",
-        "altEn": "Production still from a later touring record of A Midsummer Night’s Dream."
+        "altEn": "Production still from a later touring record of A Midsummer Night’s Dream.",
+        "url": "remote/zhongxiayezhimeng1.jpg"
       },
       {
-        "url": "https://5b0988e595225.cdn.sohucs.com/images/20190315/71360b4d0d12401c9aa6204b7d1e0340.jpeg",
         "caption": "后续巡演资料中的《仲夏夜之梦》宣传海报/视觉资料。",
         "captionZh": "后续巡演资料中的《仲夏夜之梦》宣传海报/视觉资料。",
         "captionEn": "Poster/visual material from a later touring record of A Midsummer Night’s Dream.",
         "altZh": "后续巡演资料中的《仲夏夜之梦》宣传海报/视觉资料。",
-        "altEn": "Poster/visual material from a later touring record of A Midsummer Night’s Dream."
+        "altEn": "Poster/visual material from a later touring record of A Midsummer Night’s Dream.",
+        "url": "remote/zhongxiayezhimeng2.jpeg"
       }
     ],
     "evidenceNote": "首演日期、导演、北京保利剧院及中国民俗化创作方向由2016年《人民日报海外版》报道核实；演员名单参考后续演出资料，部分设计署名仍待节目单进一步核档。",
@@ -4203,7 +4219,7 @@ window.WORKS = [
     "endesc": "A theatre piece built as a “not-quite-a-play”: five patients in a psychiatric reading room believe they are Shaw, Pirandello, Brecht, Ionesco and Beckett, debating theatrical forms and ideas with the doctors and the sixth figure, Dr. Godot.",
     "quote": "“这是一个不像戏的戏。”",
     "q_en": "“This is a play that does not look like a play.”",
-    "img": "https://p0.ifengimg.com/a/2016_44/ba78c07e14124fa_size43_w402_h539.jpg",
+    "img": "remote/geduoyisheng1.jpg",
     "sources": [
       "https://culture.people.com.cn/n1/2016/0726/c22219-28584406.html",
       "https://culture.people.com.cn/n1/2016/1017/c22219-28783674.html",
@@ -4239,20 +4255,20 @@ window.WORKS = [
     ],
     "media": [
       {
-        "url": "https://p0.ifengimg.com/a/2016_44/ba78c07e14124fa_size43_w402_h539.jpg",
         "caption": "2016年《戈多医生或者六个人寻找第十八只骆驼》海报；凤凰文化资料图。",
         "captionZh": "2016年《戈多医生或者六个人寻找第十八只骆驼》海报；凤凰文化资料图。",
         "captionEn": "2016 poster for Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image.",
         "altZh": "2016年《戈多医生或者六个人寻找第十八只骆驼》海报；凤凰文化资料图。",
-        "altEn": "2016 poster for Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image."
+        "altEn": "2016 poster for Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image.",
+        "url": "remote/geduoyisheng1.jpg"
       },
       {
-        "url": "https://p1.ifengimg.com/a/2016_44/cbec96601874611_size50_w941_h595.jpg",
         "caption": "《戈多医生或者六个人寻找第十八只骆驼》演出/排练相关剧照；凤凰文化资料图。",
         "captionZh": "《戈多医生或者六个人寻找第十八只骆驼》演出/排练相关剧照；凤凰文化资料图。",
         "captionEn": "Production/rehearsal still from Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image.",
         "altZh": "《戈多医生或者六个人寻找第十八只骆驼》演出/排练相关剧照；凤凰文化资料图。",
-        "altEn": "Production/rehearsal still from Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image."
+        "altEn": "Production/rehearsal still from Dr. Godot or Six People Searching for the Eighteenth Camel; Phoenix Culture archival image.",
+        "url": "remote/geduoyisheng2.jpg"
       }
     ],
     "evidenceNote": "2016年乌镇全球首演、林兆华与林熙越合作导演、文本来源、人物设定及“读剧本/不像戏的戏”形式由人民网、新华社、凤凰文化等当年资料交叉核验。",
