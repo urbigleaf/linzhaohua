@@ -12,7 +12,7 @@ async function init(){
  const saved=localStorage.getItem('linArchiveLang'); if(saved==='en') setLang(true);
  bindImageFallbacks();
 }
-function renderWorks(items,grid){grid.innerHTML=items.map(w=>`<article class="work-card" data-cat="${(Array.isArray(w.cat)?w.cat:[w.cat]).join(' ')}"><div class="work-media">${imgMarkup(w)}</div><div class="work-body"><div class="work-year">${w.year}</div><div class="work-title"><span class="lang-zh">${w.title}</span><span class="lang-en">${w.en}</span></div><div class="work-en lang-en">${w.en}</div><div class="work-meta"><span class="lang-zh">${w.creator}<br>${w.director}</span><span class="lang-en">${(w.creator.split(' / ').pop()||w.creator)}<br>${(w.director.split(' / ').pop()||w.director)}</span></div><p class="work-desc lang-zh">${w.desc}</p><p class="work-desc lang-en">${w.endesc}</p></div><button class="work-link" data-open-work="${data.indexOf(w)}"><span class="lang-zh">打开作品档案 →</span><span class="lang-en">Open dossier →</span></button></article>`).join(''); grid.querySelectorAll('[data-open-work]').forEach(el=>el.addEventListener('click',()=>openWork(+el.dataset.openWork))); bindImageFallbacks(grid);}
+function renderWorks(items,grid){grid.innerHTML=items.map(w=>`<article class="work-card" data-cat="${(Array.isArray(w.cat)?w.cat:[w.cat]).join(' ')}"><div class="work-media" data-open-work="${data.indexOf(w)}">${imgMarkup(w)}</div><div class="work-body"><div class="work-year">${w.year}</div><div class="work-title"><span class="lang-zh">${w.title}</span><span class="lang-en">${w.en}</span></div><div class="work-en lang-en">${w.en}</div><div class="work-meta"><span class="lang-zh">${w.creator}<br>${w.director}</span><span class="lang-en">${(w.creator.split(' / ').pop()||w.creator)}<br>${(w.director.split(' / ').pop()||w.director)}</span></div><p class="work-desc lang-zh">${w.desc}</p><p class="work-desc lang-en">${w.endesc}</p></div><button class="work-link" data-open-work="${data.indexOf(w)}"><span class="lang-zh">打开作品档案 →</span><span class="lang-en">Open dossier →</span></button></article>`).join(''); grid.querySelectorAll('[data-open-work]').forEach(el=>el.addEventListener('click',()=>openWork(+el.dataset.openWork))); bindImageFallbacks(grid);}
 function filterWorks(){let q=(document.querySelector('#search')?.value||'').toLowerCase();let active=document.querySelector('.filter.active')?.dataset.cat||'all';document.querySelectorAll('.work-card').forEach(c=>{let text=c.innerText.toLowerCase();let cats=(c.dataset.cat||'').split(/\s+/).filter(Boolean);c.style.display=(active==='all'||cats.includes(active))&&text.includes(q)?'flex':'none'})}
 function hasCat(w,cat){return (Array.isArray(w.cat)?w.cat:[w.cat]).includes(cat)}
 function setLang(en){document.body.classList.toggle('english',en);document.documentElement.lang=en?'en':'zh-CN';document.querySelectorAll('.lang-zh').forEach(e=>e.style.display=en?'none':'');document.querySelectorAll('.lang-en').forEach(e=>e.style.display=en?'':'none');document.querySelectorAll('[data-lang]').forEach(e=>e.textContent=en?'中文':'EN');document.querySelectorAll('img[data-alt-en]').forEach(e=>e.alt=en?(e.dataset.altEn||e.alt):e.dataset.altZh||e.getAttribute('alt'));const si=document.querySelector('#search');if(si)si.placeholder=en?(si.dataset.placeholderEn||'Search works'):(si.dataset.placeholderZh||'搜索作品');document.title=(en?(document.body.dataset.titleEn||document.title):document.body.dataset.titleZh)||document.title;localStorage.setItem('linArchiveLang',en?'en':'zh')}
@@ -24,9 +24,32 @@ function mediaMarkup(w){
  if(!list.length) return `<div class="media-empty"><span class="lang-zh">暂无已核实剧照/海报。档案不使用与作品无关的配图。</span><span class="lang-en">No verified production photo or poster is currently attached. The archive does not use unrelated images.</span></div>`;
  return `<div class="media-gallery">${list.map(m=>imageFigureMarkup(m,w)).join('')}</div>`;
 }
+function coverMarkup(w) {
+  if (!w.img) {
+    return `<div class="media-empty">
+      <span class="lang-zh">暂无封面。</span>
+      <span class="lang-en">No cover image.</span>
+    </div>`;
+  }
+  const altZh = w.coverAltZh || w.title;
+  const altEn = w.coverAltEn || w.en;
+  return `
+    <div class="media-gallery dossier-cover-gallery">
+      <figure>
+        <img
+          loading="lazy"
+          src="${w.img}"
+          alt="${altZh}"
+          data-alt-zh="${altZh}"
+          data-alt-en="${altEn}"
+        >
+      </figure>
+    </div>
+  `;
+}
 function sourceMarkup(w){let items=w.sourceItems||((w.sources||[]).map(s=>({label:s,url:s})));return `<ol class="dossier-sources">${items.map(s=>`<li><a href="${s.url}" target="_blank" rel="noopener">${s.label||s.url}</a></li>`).join('')}</ol>`}
 function field(labelZh,labelEn,valueZh,valueEn){return `<div class="dossier-field"><div class="dossier-label"><span class="lang-zh">${labelZh}</span><span class="lang-en">${labelEn}</span></div><div class="dossier-value"><span class="lang-zh">${valueZh||'—'}</span><span class="lang-en">${valueEn||textEn(valueZh)||'—'}</span></div></div>`}
-function openWork(i){const w=data[i];document.querySelector('#modal-content').innerHTML=`<div class="dossier-head"><div>${mediaMarkup(w)}</div><div><div class="work-year">${w.year} · ${(Array.isArray(w.cat)?w.cat:[w.cat]).filter(x=>!['drama'].includes(x)).join(' / ')}</div><h2 class="serif dossier-title"><span class="lang-zh">${w.title}</span><span class="lang-en">${w.en}</span></h2><div class="dossier-lead"><span class="lang-zh">${w.desc||''}</span><span class="lang-en">${w.endesc||''}</span></div></div></div>
+function openWork(i){const w=data[i];document.querySelector('#modal-content').innerHTML=`<div class="dossier-head"><div>${coverMarkup(w)}</div><div><div class="work-year">${w.year} · ${(Array.isArray(w.cat)?w.cat:[w.cat]).filter(x=>!['drama'].includes(x)).join(' / ')}</div><h2 class="serif dossier-title"><span class="lang-zh">${w.title}</span><span class="lang-en">${w.en}</span></h2><div class="dossier-lead"><span class="lang-zh">${w.desc||''}</span><span class="lang-en">${w.endesc||''}</span></div></div></div>
  <div class="dossier-grid">
  ${field('剧本 / 原作','Play / Original',w.creator,w.creator)}${field('导演','Director',w.director,w.director)}${field('演出机构','Venue / Company',w.venue,w.venue)}${field('首演 / 时间','Premiere / Date',w.premiere,w.premiere)}${field('主要演员','Cast',w.cast,w.cast)}${field('舞美 / 设计','Design',w.design,w.design)}${field('音乐','Music',w.music,w.music)}${field('改编 / 编剧','Adaptation / Playwright',w.playwright,w.playwright)}
  </div>
