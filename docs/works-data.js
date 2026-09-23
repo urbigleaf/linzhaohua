@@ -1,3 +1,19 @@
+window.CAT_LABELS = {
+  "drama": { "zh": "话剧", "en": "Drama" },
+  "opera": { "zh": "歌剧", "en": "Opera" },
+  "jingju": { "zh": "京剧", "en": "Peking Opera" },
+  "early": { "zh": "早期作品", "en": "Early Works" },
+  "experimental": { "zh": "实验戏剧", "en": "Experimental Theatre" },
+  "gaoxingjian": { "zh": "高行健作品", "en": "Gao Xingjian" },
+  "guoshixing": { "zh": "过士行作品", "en": "Guo Shixing" },
+  "shakespeare": { "zh": "莎士比亚作品", "en": "Shakespeare" },
+  "renyi": { "zh": "北京人艺", "en": "Beijing People's Art Theatre" },
+  "studio": { "zh": "林兆华戏剧工作室", "en": "Lin Zhaohua Theatre Studio" },
+  "other-drama": { "zh": "其他戏剧", "en": "Other Theatre" },
+  "other": { "zh": "其他", "en": "Other" },
+  "cross": { "zh": "跨界作品", "en": "Cross-disciplinary" }
+};
+
 window.WORKS = [
   {
     "year": "1976",
