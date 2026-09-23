@@ -11,6 +11,7 @@ async function init(){
  document.querySelectorAll('.menu').forEach(b=>b.addEventListener('click',()=>document.querySelector('.mobile-nav').classList.toggle('open')));
  const saved=localStorage.getItem('linArchiveLang'); if(saved==='en') setLang(true);
  bindImageFallbacks();
+ if(document.querySelector('#timeline-list')) renderTimeline();
 }
 function renderWorks(items,grid){grid.innerHTML=items.map(w=>`<article class="work-card" data-cat="${(Array.isArray(w.cat)?w.cat:[w.cat]).join(' ')}"><div class="work-media" data-open-work="${data.indexOf(w)}">${imgMarkup(w)}</div><div class="work-body"><div class="work-year">${w.year}</div><div class="work-title"><span class="lang-zh">${w.title}</span><span class="lang-en">${w.en}</span></div><div class="work-en lang-en">${w.en}</div><div class="work-meta"><span class="lang-zh">${w.creator}<br>${w.director}</span><span class="lang-en">${(w.creator.split(' / ').pop()||w.creator)}<br>${(w.director.split(' / ').pop()||w.director)}</span></div><p class="work-desc lang-zh">${w.desc}</p><p class="work-desc lang-en">${w.endesc}</p></div><button class="work-link" data-open-work="${data.indexOf(w)}"><span class="lang-zh">打开作品档案 →</span><span class="lang-en">Open dossier →</span></button></article>`).join(''); grid.querySelectorAll('[data-open-work]').forEach(el=>el.addEventListener('click',()=>openWork(+el.dataset.openWork))); bindImageFallbacks(grid);}
 function filterWorks(){let q=(document.querySelector('#search')?.value||'').toLowerCase();let active=document.querySelector('.filter.active')?.dataset.cat||'all';document.querySelectorAll('.work-card').forEach(c=>{let text=c.innerText.toLowerCase();let cats=(c.dataset.cat||'').split(/\s+/).filter(Boolean);c.style.display=(active==='all'||cats.includes(active))&&text.includes(q)?'flex':'none'})}
@@ -47,8 +48,44 @@ function coverMarkup(w) {
     </div>
   `;
 }
-function sourceMarkup(w){let items=w.sourceItems||((w.sources||[]).map(s=>({label:s,url:s})));return `<ol class="dossier-sources">${items.map(s=>`<li><a href="${s.url}" target="_blank" rel="noopener">${s.label||s.url}</a></li>`).join('')}</ol>`}
+function sourceMarkup(w){let items=w.sourceItems||((w.sources||[]).map(s=>({label:s,url:s})));if(!items.length)return '<p class="source-empty">—</p>';return `<ol class="dossier-sources">${items.map(s=>s.url?`<li><a href="${s.url}" target="_blank" rel="noopener">${s.label||s.url}</a></li>`:`<li>${s.label||'—'}</li>`).join('')}</ol>`}
 function field(labelZh,labelEn,valueZh,valueEn){return `<div class="dossier-field"><div class="dossier-label"><span class="lang-zh">${labelZh}</span><span class="lang-en">${labelEn}</span></div><div class="dossier-value"><span class="lang-zh">${valueZh||'—'}</span><span class="lang-en">${valueEn||textEn(valueZh)||'—'}</span></div></div>`}
+function escapeHtml(v){return String(v||'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));}
+function timelineEntriesForWork(title){return (window.TIMELINE||[]).filter(e=>(e.works||[]).some(x=>x.canonical===title));}
+function timelineTextMarkup(e){
+  let text=escapeHtml(e.text);
+  (e.works||[]).forEach(ref=>{
+    const source=escapeHtml(ref.source);
+    const link=`<button type="button" class="timeline-work" data-open-work-title="${escapeHtml(ref.canonical)}">《${source}》</button>`;
+    const br=new RegExp('《'+source.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'》');
+    if(br.test(text)){ text=text.replace(br,link); }
+    else {
+      const plain=new RegExp('(?<![\\u4e00-\\u9fff])'+source.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+'(?![\\u4e00-\\u9fff])');
+      if(plain.test(text)) text=text.replace(plain,link.replace('《'+source+'》',source));
+    }
+  });
+  return text;
+}
+function renderTimeline(){
+  const box=document.querySelector('#timeline-list'); if(!box)return;
+  const list=window.TIMELINE||[];
+  let current='';
+  box.innerHTML=list.map(e=>{
+    const head=e.year!==current?`<div class="timeline-year"><span>${escapeHtml(e.year)}</span></div>`:'';
+    current=e.year;
+    return `${head}<article class="archive-tl-item"><div class="archive-tl-date">${escapeHtml(e.date||'')}</div><div class="archive-tl-dot"></div><div class="archive-tl-body"><p>${timelineTextMarkup(e)}</p><div class="archive-tl-source"><span class="lang-zh">《导演小人书》附录·林兆华戏剧年表，第 ${e.line} 行</span><span class="lang-en">Director’s Memoir appendix · Lin Zhaohua chronology, line ${e.line}</span></div></div></article>`;
+  }).join('');
+  box.querySelectorAll('.timeline-work').forEach(b=>b.addEventListener('click',()=>{
+    const title=b.dataset.openWorkTitle; const i=data.findIndex(w=>w.title===title);
+    if(i>=0) openWork(i);
+  }));
+  setLang(document.body.classList.contains('english'));
+}
+function dossierTimelineMarkup(w){
+  const list=timelineEntriesForWork(w.title);
+  if(!list.length)return '';
+  return `<section class="dossier-timeline"><h3><span class="lang-zh">年表记录</span><span class="lang-en">Chronology records</span></h3><div class="dossier-timeline-list">${list.map(e=>`<div class="dossier-timeline-item"><div class="archive-tl-date">${escapeHtml(e.year)}${e.date?` · ${escapeHtml(e.date)}`:''}</div><p>${timelineTextMarkup(e)}</p><small><span class="lang-zh">来源：导演小人书年表</span><span class="lang-en">Source: Director’s Memoir chronology</span></small></div>`).join('')}</div></section>`;
+}
 function openWork(i){const w=data[i];document.querySelector('#modal-content').innerHTML=`<div class="dossier-head"><div>${coverMarkup(w)}</div><div><div class="work-year">${w.year} · ${(Array.isArray(w.cat)?w.cat:[w.cat]).filter(x=>!['drama'].includes(x)).join(' / ')}</div><h2 class="serif dossier-title"><span class="lang-zh">${w.title}</span><span class="lang-en">${w.en}</span></h2><div class="dossier-lead"><span class="lang-zh">${w.desc||''}</span><span class="lang-en">${w.endesc||''}</span></div></div></div>
  <div class="dossier-grid">
  ${field('剧本 / 原作','Play / Original',w.creator,w.creator)}${field('导演','Director',w.director,w.director)}${field('演出机构','Venue / Company',w.venue,w.venue)}${field('首演 / 时间','Premiere / Date',w.premiere,w.premiere)}${field('主要演员','Cast',w.cast,w.cast)}${field('舞美 / 设计','Design',w.design,w.design)}${field('音乐','Music',w.music,w.music)}${field('改编 / 编剧','Adaptation / Playwright',w.playwright,w.playwright)}
@@ -59,6 +96,7 @@ function openWork(i){const w=data[i];document.querySelector('#modal-content').in
  <section><h3><span class="lang-zh">海外演出</span><span class="lang-en">International performances</span></h3><p class="lang-zh">${w.overseas||'—'}</p><p class="lang-en">${w.overseas||'—'}</p></section>
  <section><h3><span class="lang-zh">复排 / 版本</span><span class="lang-en">Revival / Versions</span></h3><p class="lang-zh">${w.revivals||'—'}</p><p class="lang-en">${w.revivals||'—'}</p></section>
  <section><h3><span class="lang-zh">当年评论 / 反响</span><span class="lang-en">Contemporary reception</span></h3><p class="lang-zh">${w.reviews||'—'}</p><p class="lang-en">${w.reviews||'—'}</p></section>
+ ${dossierTimelineMarkup(w)}
  <section class="dossier-media"><h3><span class="lang-zh">剧照 / 海报</span><span class="lang-en">Production photos / posters</span></h3>${mediaMarkup(w)}</section>
  <div class="dossier-note"><b><span class="lang-zh">档案说明</span><span class="lang-en">Archive note</span></b><span class="lang-zh">${w.evidenceNote||''}</span><span class="lang-en">${w.evidenceNote_en||w.evidenceNote||''}</span></div>
  <div class="note"><b><span class="lang-zh">可靠来源 / 继续核查</span><span class="lang-en">Sources / Further verification</span></b>${sourceMarkup(w)}</div></div>`;

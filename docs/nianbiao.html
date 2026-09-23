@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<meta name="description" content="林兆华数字戏剧档案馆 — 戏剧年表"/>
+<link rel="icon" href="/favicon.ico" type="image/x-icon"/>
+<link href="style.css" rel="stylesheet"/>
+<title>戏剧年表｜林兆华</title>
+</head>
+<body data-title-en="Chronology | Lin Zhaohua" data-title-zh="戏剧年表｜林兆华">
+<header class="topbar">
+  <div class="wrap nav">
+    <a class="brand" href="index.html"><img alt="林兆华" src="assets/original/logo_s.jpg"/><span><span class="lang-zh">林兆华<br/><small>戏剧档案馆</small></span><span class="lang-en">Lin Zhaohua<br/><small>Theatre Archive</small></span></span></a>
+    <button aria-label="Menu" class="menu">☰</button>
+    <nav class="navlinks">
+      <a href="index.html"><span class="lang-zh">首页</span><span class="lang-en">Home</span></a>
+      <a href="works.html"><span class="lang-zh">作品</span><span class="lang-en">Works</span></a>
+      <a href="studio.html"><span class="lang-zh">工作室</span><span class="lang-en">Studio</span></a>
+      <a href="pku.html"><span class="lang-zh">北大研究所</span><span class="lang-en">PKU Institute</span></a>
+      <a class="active" href="nianbiao.html"><span class="lang-zh">年表</span><span class="lang-en">Chronology</span></a>
+      <a href="research.html"><span class="lang-zh">研究</span><span class="lang-en">Research</span></a>
+      <button class="lang" data-lang="">EN</button>
+    </nav>
+  </div>
+  <div class="mobile-nav">
+    <a href="index.html"><span class="lang-zh">首页</span><span class="lang-en">Home</span></a>
+    <a href="works.html"><span class="lang-zh">作品</span><span class="lang-en">Works</span></a>
+    <a href="studio.html"><span class="lang-zh">工作室</span><span class="lang-en">Studio</span></a>
+    <a href="pku.html"><span class="lang-zh">北大研究所</span><span class="lang-en">PKU Institute</span></a>
+    <a class="active" href="nianbiao.html"><span class="lang-zh">年表</span><span class="lang-en">Chronology</span></a>
+    <a href="research.html"><span class="lang-zh">研究</span><span class="lang-en">Research</span></a>
+    <button class="lang" data-lang="">EN</button>
+  </div>
+</header>
+<main>
+<section class="section" style="padding-top:90px">
+  <div class="wrap">
+    <div class="eyebrow">CHRONOLOGY</div>
+    <h1 class="serif" style="font-size:clamp(48px,7vw,92px);line-height:.95;margin:15px 0 25px">
+      <span class="lang-zh">戏剧年表<br/><i style="color:var(--accent)">创作与现场</i></span>
+      <span class="lang-en">Theatre Chronology<br/><i style="color:var(--accent)">Works &amp; Events</i></span>
+    </h1>
+    <p class="lead">
+      <span class="lang-zh">按时间记录林兆华的导演作品、排演、演出、海外交流及重要创作活动。年表中的剧目名称可直接打开对应的完整作品档案。</span>
+      <span class="lang-en">A chronological record of Lin Zhaohua’s directing, rehearsals, performances, international activities and major creative events. Linked titles open the corresponding work dossiers.</span>
+    </p>
+    <div class="timeline-source-note">
+      <span class="lang-zh">资料来源：用户提供的《导演小人书》附录《林兆华戏剧年表》。年表正文保留原资料的时间与事件表述；与完整作品档案关联的剧目名称可点击查看档案。</span>
+      <span class="lang-en">Source: the supplied chronology appendix to Director’s Memoir. Dates and event descriptions follow the supplied source; linked work titles open the complete archive dossier.</span>
+    </div>
+    <div class="archive-timeline" id="timeline-list"></div>
+  </div>
+</section>
+</main>
+<footer class="footer"><div class="wrap"><div style="display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap"><div><div class="eyebrow" style="color:#d4a86a">LIN ZHAOHUA DIGITAL THEATRE ARCHIVE</div><h3 class="serif" style="font-size:34px;margin:10px 0"><span class="lang-zh">保存作品，也保存创作现场。</span><span class="lang-en">Preserving the works, and the making of theatre.</span></h3><p style="color:#bdb5aa;max-width:680px"><span class="lang-zh">本网站为静态数字档案展示。历史资料、后补资料与公开来源分别标识；作品档案中的链接用于继续核查。</span><span class="lang-en">This is a static digital archive. Historical materials, later additions and public sources are identified separately; links in the work dossiers are provided for further verification.</span></p></div><div><a href="https://book.douban.com/subject/25843072/" rel="noopener" target="_blank"><span class="lang-zh">《导演小人书》</span><span class="lang-en">Director’s Memoir</span></a><br/><a href="https://www.bjry.com/actor/html/2015/06/201506058.html" target="_blank"><span class="lang-zh">北京人民艺术剧院人物资料</span><span class="lang-en">Beijing People’s Art Theatre profile</span></a></div></div><div style="border-top:1px solid #514941;margin-top:35px;padding-top:18px;color:#8f877e;font-size:12px">Archive edition · Static HTML/CSS/JS · No server-side runtime · 2026</div></div></footer>
+<div class="modal" id="modal"><div class="modal-box"><button class="close" id="close-modal">×</button><div id="modal-content"></div></div></div>
+<script src="works-data.js"></script>
+<script src="timeline-data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
